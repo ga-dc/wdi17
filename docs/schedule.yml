@@ -175,7 +175,7 @@
        url: "https://ga-dc.github.io/slips/"
        lead: ""
     - "10:00AM - 12:00PM":
-       title: "Lab OOJS"
+       title: "Lab: OOJS"
        url: "https://github.com/ga-wdi-exercises/js-gladiator"
        lead: ""
        support: ""
@@ -268,13 +268,13 @@
     - "10:00AM - 12:30PM":
        title: "Intro to Ruby"
        url: "https://github.com/ga-wdi-lessons/ruby-intro"
-       lead: "Jesse"
-       support: "Adrian"
+       lead: "Juan"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Ruby Enums"
        url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
-       lead: "Nick"
-       support: "Jesse"
+       lead: "John"
+       support: ""
   # wk04
   - day:
     - "9:00AM - 10:00AM":
@@ -285,7 +285,7 @@
     - "10:00AM - 12:30AM":
        title: "Lab: Ruby Enums"
        url: "https://github.com/ga-wdi-exercises/state_capitals"
-       lead: ""
+       lead: "John"
        support: ""
     - "12:30PM":
        title: "Due At 12:30: Lab"
@@ -296,7 +296,7 @@
     - "2:30PM - 5:00PM":
        title: "Ruby OOP 1"
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM":
@@ -318,7 +318,7 @@
        title: "Ruby OOP 2"
        url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
        lead: ""
-       support: ""
+       support: "Andy"
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -334,14 +334,14 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Ruby CLI Lab"
+       title: "Lab: Ruby CLI"
        url: "https://github.com/ga-wdi-exercises/ruby-cli-lab"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 4:30PM":
-       title: "Ruby CLI Lab"
+       title: "Lab: Ruby CLI"
        url: "https://github.com/ga-wdi-exercises/ruby-cli-lab"
-       lead: ""
+       lead: "John"
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
@@ -360,12 +360,12 @@
     - "10:00AM - 12:30PM":
        title: "Domain Modeling & SQL"
        url: "https://github.com/ga-wdi-lessons/sql-intro"
-       lead: ""
+       lead: "John"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Active Record"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
-       lead: ""
+       lead: "Juan"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -375,12 +375,12 @@
     - "10:00AM - 12:30PM":
        title: "Sinatra 1"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Sinatra 2"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
-       lead: ""
+       lead: "Juan"
        support: ""
   # wk05
   - day:
@@ -403,7 +403,7 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Sinatra Lab"
+       title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: ""
        support: ""
@@ -425,7 +425,7 @@
        lead: ""
        support: ""
     - "2:30PM - 4:30PM":
-       title: "Sinatra Lab"
+       title: "Lab Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: ""
        support: ""
