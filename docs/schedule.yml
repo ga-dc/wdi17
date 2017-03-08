@@ -400,12 +400,12 @@
     - "10:00AM - 12:30PM":
        title: "Sinatra & ActiveRecord"
        url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
-       lead: ""
+       lead: "Juan"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
-       lead: ""
+       lead: "John"
        support: ""
   - day:
     - "9:00AM":
@@ -427,7 +427,7 @@
     - "2:30PM - 4:30PM":
        title: "Lab Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
@@ -448,12 +448,12 @@
     - "10:00AM - 12:30PM":
        title: "Intro to Rails/MVC"
        url: "https://github.com/ga-wdi-lessons/http-mvc-intro-rails"
-       lead: ""
+       lead: "John"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Rails: Models & Migrations"
        url: "https://github.com/ga-wdi-lessons/rails-activerecord"
-       lead: ""
+       lead: "Juan"
        support: ""
   - day:
     - "9:00AM":
@@ -470,12 +470,12 @@
     - "10:00AM - 12:30PM":
        title: "Rails: Views & Controllers"
        url: "https://github.com/ga-wdi-lessons/rails-views"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Rails: Routes & Resources"
        url: "https://github.com/ga-wdi-lessons/rails-routing"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -484,37 +484,25 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: Hogwarts"
+       url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
        title: "Rails: Sessions, Flash, Validations, and Errors"
        url: "https://github.com/ga-wdi-lessons/rails-sessions-flash-validations-errors"
-       lead: ""
+       lead: "John"
        support: ""
-  - day:
-    - "10:00AM - 12:30PM":
-       title: "Lab: Hogwarts"
-       lead: ""
-       support: ""
-    - "2:30PM - 5:00PM":
-       title: "Rails: Users, Session & Flash"
-       url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
-       lead: ""
-       support: ""
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: "Nayana"
-       support: ""
+  # wk06
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       lead: "Adrian"
+       lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: 'Devise'
+       title: "Devise & CanCanCan"
        url: 'https://github.com/ga-wdi-lessons/devise'
-       lead: 'Jesse'
-       support: 'Adrian'
+       lead: 'John'
+       support: ''
     - "1:30PM - 2:30PM":
        title: "One on Ones"
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
