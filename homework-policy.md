@@ -12,9 +12,7 @@ You can track your homework completion rate in [Garnet](http://garnet.wdidc.org)
 
 ## Due Dates and Grading
 
-You will generally be assigned homework every day. Due dates can be found in the schedules for your designated classroom.
-- **[Tabs](https://ga-dc.github.io/cr5/#2017-01-06) (CR5)**
-- **[Spaces](https://ga-dc.github.io/cr6/#2017-01-06) (CR6)**
+You will generally be assigned homework every day. Due dates can be found in the [class schedule](https://ga-dc.github.io/wdi15).
 
 
 Unless otherwise directed, each assignment should be forked and cloned from a `ga-wdi-exercises` repository, and submitted as a pull request to the original `ga-wdi-exercises` repository from your fork. For more information on pull requests, see below.

@@ -27,7 +27,7 @@ Of course, Metro delays can happen. The solution is to leave every day earlier t
 
 ![View on log-in](http://i.imgur.com/zOuHGdS.png)
 
-### 2. Click the name of your current cohort. In this case, that's "WDI14". You'll see this:
+### 2. Click the name of your current cohort. In this case, that's "WDI15". You'll see this:
 
 ![Check-in button](http://imgur.com/6HFj8lq.png)
 
