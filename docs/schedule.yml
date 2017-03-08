@@ -85,19 +85,28 @@
        url: "http://md.wdidc.org/#/2016-09-09-squad-scrum.md"
        lead: ""
        support: ""
+  # wk02
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Checkpoint 01"
+       url: "https://github.com/ga-wdi-exercises/checkpoint-01"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
        title: "Objects and Functions"
        url: "https://github.com/ga-wdi-lessons/js-objects-functions"
-       lead: "Nick"
-       support: "Jesse"
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: "Nayana"
+       lead: "Juan"
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "the DOM"
+       url: "https://github.com/ga-wdi-lessons/jquery-dom"
+       lead: "John"
        support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Prework"
        color: red
-       url: "https://WDI14dc.slack.com/archives/outcomes/p1473708026000004"
+       url: "https://wdi12dc.slack.com/archives/outcomes/p1473708026000004"
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
@@ -110,51 +119,10 @@
        url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wxvonjnvki5q"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "Office Hours"
-       lead: "Nick"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
-       lead: "Adrian"
-       support: ""
     - "2:30PM - 5:00PM":
-       title: "DOM with jQuery"
-       url: "https://github.com/ga-wdi-lessons/jquery-dom"
-       lead: "Jesse"
-       support: "Nick"
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: "Andy"
-       support: ""
-  - day:
-    - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
-       lead: "Jesse"
-       support: ""
-    - "10:00AM - 12:30PM":
-       title: "Events and Callbacks"
+       title: "Events"
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
-       lead: "Adrian"
-       support: "Jesse"
-    - "1:30PM - 2:30PM":
-       title: "Office Hours"
-       lead: "Adrian"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
-       lead: "Jesse"
-       support: ""
-    - "2:30PM - 5:00PM":
-       title: "DOM Debugging"
-       url: "https://github.com/ga-wdi-lessons/js-debugging"
-       lead: "Nick"
-       support: "Adrian"
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: "James"
+       lead: "John"
        support: ""
   - day:
     - "9:00AM":
@@ -167,49 +135,59 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
-       lead: "Nick"
+       title: "Code Challenge"
+       lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Scope, Closures & Context"
        url: "https://github.com/ga-wdi-lessons/js-scope"
-       lead: "Adrian"
-       support: "Nick"
+       lead: "Andy"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: ATM"
        url: "https://github.com/ga-wdi-exercises/atm"
-       lead: "Jesse"
-       support: ""
-  - day:
-    - "9:00AM - 12:30PM":
-       title: "Lab: ATM"
-       url: "https://github.com/ga-wdi-exercises/atm"
-       lead: "Adrian"
-       support: ""
-    - "12:30 - 1:30PM":
-       title: "Campus Lunch"
-       url:
-         - Taqueria El Guey: 'http://md.wdidc.org/#/2016-09-16-taqueria-menu.md'
-    - "2:30PM - 04:30PM":
-       title: "Project 1 Intro"
-       url: "https://github.com/ga-wdi-exercises/project1"
-       lead: "Nick"
-       support: ""
-    - "4:30PM - 5:00PM":
-       title: "Squad Scrum"
-       url: http://md.wdidc.org/#/2016-09-16-squad-scrum.md
        lead: ""
        support: ""
-    - "5:00PM":
-       title: "Due At 5: Lab"
+  - day:
+    - "9:00AM":
+       title: "Due At 9: Lab"
        color: red
        url: "https://github.com/ga-wdi-exercises/atm"
        lead: ""
        support: ""
-    - "5:00 - 7:00PM":
-       title: "Happy Hour"
-       url: https://generalassemb.ly/education/virtual-reality-happy-hour/washington-dc/27893
-       lead: "VR with Microsoft & NotionTheory"
+    - "9:00AM - 10:00AM":
+       title: "Review: ATM"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "ES6"
+       url: "https://github.com/ga-wdi-lessons/es6"
+       lead: "John"
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "OOJS"
+       url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
+       lead: "Juan"
+       support: ""
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
+       lead: ""
+    - "10:00AM - 12:00PM":
+       title: "Lab OOJS"
+       url: "https://github.com/ga-wdi-exercises/js-gladiator"
+       lead: ""
+       support: ""
+    - "12:00PM - 12:30PM":
+       title: "Squad Scrum: Intro Project 1"
+       lead: ""
+       support: ""
+    - "2:30 - 5:00PM":
+       title: "Functional Programming"
+       url: "https://github.com/ga-wdi-lessons/functional-programming"
+       lead: "Andy"
+       support: ""
   - day:
     - "9:00AM":
        title: "Checkpoint 02"
