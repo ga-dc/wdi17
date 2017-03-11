@@ -560,18 +560,9 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
-       lead: ""
-       support: ""
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
        lead: ""
        support: ""
   - day:
@@ -585,391 +576,223 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
-       lead: ""
-       support: ""
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
        lead: ""
        support: ""
   # wk07
   - day:
-    - "9:00AM - 12:00PM":
+    - "9:00AM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-    - "10:00AM - 12:00PM":
-       title: "Project Office Hours"
-       url: "https://github.com/ga-wdi-exercises/project2"
-       lead: ""
-       support: ""
-    - "12:00PM":
-       title: "Due At Noon: Project & Video"
-       color: red
-       url: "https://github.com/ga-wdi-exercises/project2"
-       lead: ""
-       support: ""
-    - "2:00PM - 4:30PM":
-       title: "Project 2 Presentations"
-       url: "https://github.com/ga-wdi-exercises/project2/blob/master/presentations.md"
-       lead: ""
-       support: ""
   - day:
-    - "9:00AM":
-       title: "Due At 9: Homework"
-       color: red
-       url: "https://github.com/ga-wdi-exercises/shaping-up-with-angular"
-       lead: ""
-       support: ""
-    - "9:00AM - 10:00AM":
-       title: "Slips"
-       url: "https://ga-dc.github.io/slips/"
-       lead: ""
-       support: ""
-    - "10:00AM - 12:30PM":
-       title: "Intro to Angular"
-       url: "https://github.com/ga-wdi-lessons/angular-intro"
-       lead: "Nick"
-       support: ""
-    - "12:30PM - 1:30PM":
-       title: "Campus Lunch"
-       url: ""
-       lead: ""
-       support: ""
-    - "2:30PM - 3:00PM":
-       title: "Midcourse Feedback && Surprise!"
-       lead: ""
-       support: ""
-    - "3:00PM - 4:30PM":
-       title: "Lab: Superheroes"
-       url: "https://github.com/ga-wdi-exercises/angular-superheroes"
-       lead: "Adrian"
-       support: ""
-    - "4:30PM - 5:00PM":
-       title: "Squad Scrum"
-    - "5:00PM":
-       title: "Due At 5: Lab"
-       color: red
-       url: "https://ga-wdi-exercises.github.io/angular-starter-wdi/"
-       lead: ""
-       support: ""
-    - "5:00PM - 7:00PM":
-       title: "Happy Hour"
-  - day:
-    - "9:00AM - 10:00AM":
-       title: "Review/Code Challenge"
-       lead: "Nick"
-       support: ""
-    - "10:00AM - 12:30PM":
-       title: "UI Router"
-       url: "https://github.com/ga-wdi-lessons/angular-routing"
-       lead: "Jesse"
-       support: "Nick"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
-       lead: "Nick"
-       support: ""
-    - "2:30PM - 5:00PM":
-       title: "API's & AJAX"
-       url: "https://github.com/ga-wdi-lessons/js-ajax"
-       lead: "Adrian"
-       support: "Jesse"
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: "Adrian"
-       support: ""
-  - day:
-    - "9:00AM":
-       title: "Due At 9: Outcomes Homework"
-       color: red
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
-       lead: "Adrian"
-       support: ""
     - "2:30PM - 5:00PM":
-       title: "Angular Resources"
-       url: "https://github.com/ga-wdi-lessons/angular-resources"
-       lead: "Jesse"
-       support: "Adrian"
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: "Jesse"
-       support: ""
+        title: "project2"
+        url: ""
+        lead: ""
+        support: ""
   - day:
-    - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
-       lead: "Jesse"
-       support: ""
-    - "10:00AM - 12:30PM":
-       title: "Rails API"
-       url: "https://github.com/ga-wdi-lessons/rails-api"
-       lead: "Adrian"
-       support: "Jesse"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
-       lead: "Jesse"
-       support: ""
-    - "2:30PM - 5:00PM":
-       title: "Firebase"
-       url: "https://github.com/ga-wdi-lessons/angular-firebase"
-       lead: "Nick"
-       support: "Adrian"
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: "Nick"
-       support: ""
-  - day:
-    - "9:00AM":
-       title: "Due At 9: Homework"
-       color: red
-       url:
-         - Movie Browser: https://github.com/ga-wdi-exercises/movie-browser
-         - WDInstagram: https://github.com/ga-wdi-exercises/wdinstagram_angular
-         - Submit Project 3 Idea: https://github.com/ga-wdi-exercises/project3/issues/new
-       lead: ""
-       support: ""
-    - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
-       lead: "Adrian"
-       support: ""
-    - "10:00AM - 12:30PM":
-       title: "Lab: WDI Radio"
-       url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
-       lead: "Nick"
-       support: ""
+    - "9:00AM - 12:30PM":
+        title: "Project 2"
+        url: ""
+        lead: ""
+        support: ""
     - "2:30PM - 4:30PM":
-       title: "Lab: WDI Radio"
-       url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
-       lead: "Jesse"
-       support: ""
+        title: "Presentations"
+        url: ""
+        lead: ""
+        support: ""
     - "4:30PM - 5:00PM":
-       title: "Squad Scrum"
-       lead: ""
-       support: ""
-    - "5:00PM":
-       title: "Due At 5: WDI Radio Lab"
-       color: red
-       url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
-       lead: ""
-       support: ""
+        title: "Squad Scrum"
+        url: ""
+        lead: ""
+        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Project 3 Intro & Git Teams"
-       url: "https://ga-dc.github.io/slips/"
-       lead: "Adrian"
-       support: ""
-    - "10:00AM - 5:00PM":
-       title: "Project 3"
-       url: "https://github.com/ga-wdi-exercises/project3"
-       lead: ""
-       support: ""
-    - "5:00PM - 7:00PM":
-       title: "Happy Hour"
-       url: ""
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM":
-       title: "Checkpoint 06"
-       url: "https://github.com/ga-wdi-exercises/checkpoint-06"
-       lead: "Adrian"
-       support: ""
-    - "9:00AM - 12:30PM":
-       title: "Project 3"
-       url: "https://github.com/ga-wdi-exercises/project3"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
-       lead: "Nick"
-       support: ""
+        title: "Code Challenge"
+        url: ""
+        lead: ""
+        support: ""
+    - "10:00AM - 12:30PM":
+        title: "Angular: Intro"
+        url: "https://github.com/ga-wdi-lessons/angular-intro" 
+        lead: "Andy"
+        support: ""
     - "2:30PM - 5:00PM":
-       title: "Project 3"
-       url: "https://github.com/ga-wdi-exercises/project3"
+        title: "Lab: Superheroes"
+        url: "https://github.com/ga-wdi-exercises/angular-superheroes"
+        lead: "Andy"
+        support: ""
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
        lead: ""
-       support: ""
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: ""
-       support: ""
+    - "10:00AM - 12:30PM":
+        title: "Angular: UI Router"
+        url: "https://github.com/ga-wdi-lessons/angular-routing"
+        lead: "John"
+        support: ""
+    - "2:30PM - 5:00PM":
+        title: "APIs and AJAX"
+        url: "https://github.com/ga-wdi-lessons/js-ajax"
+        lead: "Juan"
+        support: ""
+  #wk08
+  - day:
+    - "9:00AM - 10:00AM":
+        title: "Checkpoint 07"
+        url: "https://github.com/ga-wdi-exercises/checkpoint-03"
+        lead: ""
+        support: ""
+    - "10:00AM - 12:30PM":
+        title: "Angular: Resources"
+        url: "https://github.com/ga-wdi-lessons/angular-resources"
+        lead: "Juan"
+        support: ""
+    - "2:30PM - 5:00PM":
+        title: "Rails API"
+        url: "https://github.com/ga-wdi-lessons/rails-api"
+        lead: "Andy"
+        support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
        color: red
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.y4efrm9isxqq"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.y4efrm9isxqq"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.y4efrm9isxqq"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
-       lead: "Adrian"
+    - "2:30PM - 5:00PM":
+        title: "Lab: WDIRadio"
+        url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
+        lead: "Andy"
+        support: ""
+  - day:
+    - "9:00AM - 10:00AM":
+        title: "Code Challenge"
+        url: ""
+        lead: ""
+        support: ""
+    - "10:00AM - 12:30PM":
+        title: "Lab: WDIRadio"
+        url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
+        lead: "Juan"
+        support: ""
+    - "2:30PM - 4:30PM":
+        title: "Git Workflows"
+        url: ""
+        lead: "John"
+        support: ""
+    - "4:30PM - 5:00PM":
+        title: "Squad Scrum"
+        url: ""
+        lead: ""
+        support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+        title: "Project 3"
+        url: ""
+        lead: ""
+        support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+        title: "Project 3"
+        url: ""
+        lead: ""
+        support: ""
+ # wk09
+  - day:
+    - "9:00AM - 5:00PM":
+        title: "Project 3"
+        url: ""
+        lead: ""
+        support: ""
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Outcomes Prep"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Outcomes"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       lead: ""
        support: ""
     - "2:30PM - 5:00PM":
        title: "Project 3"
-       url: "https://github.com/ga-wdi-exercises/project3"
-       lead: ""
-       support: ""
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
+       url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 12:30PM":
-       title: "Project 3"
-       url: "https://github.com/ga-wdi-exercises/project3"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
-       lead: "Jesse"
-       support: ""
-    - "2:30PM - 5:00PM":
-       title: "Project 3"
-       url: "https://github.com/ga-wdi-exercises/project3"
-       lead: ""
-       support: ""
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 12:00PM":
-       title: "Project 3"
-       url: "https://github.com/ga-wdi-exercises/project3"
-       lead: ""
-       support: ""
-    - "12:00PM":
-       title: "Due At Noon: Project 3"
-       color: red
-       url: "https://github.com/ga-wdi-exercises/project3"
-       lead: ""
-       support: ""
-    - "2:30PM - 4:30 PM":
-       title: "Project 3 Presentations"
-       url: "https://github.com/ga-wdi-exercises/project3/blob/master/presentations.md"
-       lead: ""
-       support: ""
+        title: "Project 3"
+        url: ""
+        lead: ""
+        support: ""
+    - "2:30PM - 4:30PM":
+        title: "Presentations"
+        url: ""
+        lead: ""
+        support: ""
     - "4:30PM - 5:00PM":
-       title: "Squad Scrum"
-       lead: ""
-       support: ""
+        title: "Squad Scrum"
+        url: ""
+        lead: ""
+        support: ""
   - day:
-    - "9:00AM":
-       title: "Due At 9: Read Mongo Lesson"
-       color: red
-       url:
-         - Mongo Reading: http://github.com/ga-wdi-lessons/mongo-intro
+    - "9:00AM - 10:00AM":
+       title: "Review / Code Challenge"
        lead: ""
-       support: ""
-    - "9:00AM - 10:00PM":
-       title: "Slips"
-       url: "https://ga-dc.github.io/slips"
-       lead: "Nick"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Express Intro"
        url: "https://github.com/ga-wdi-lessons/express-intro"
-       lead: "Jesse"
-       support: "Nick"
-    - "12:30PM - 1:30PM":
-       title: "Campus Lunch"
-       url: ""
-       lead: ""
+       lead: "John"
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "Mongo / Mongoose Intro"
+       title: "MongoDB / Mongoose"
        url: "https://github.com/ga-wdi-lessons/mongoose-intro"
-       lead: "Adrian"
-       support: "Jesse"
-    - "5:00PM - 7:00PM":
-       title: "Happy Hour"
-       url: ""
-       lead: ""
+       lead: "Juan"
        support: ""
   - day:
-    - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
-       lead: "Jesse"
+    - "9:00AM - 10:00PM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips"
+       lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Mongoose with Express"
+       title: "Express with Mongoose"
        url: "https://github.com/ga-wdi-lessons/express-mongoose"
-       lead: "Nick"
-       support: "Adrian"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
-       lead: "Nick"
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "MEN Lab: URL Shortner"
-       lead: "Jesse"
+       title: "MEAN app"
+       lead: "John"
        support: ""
-    - "5:00 PM":
-       title: "Due At 5: MEN Lab"
-       color: red
-       lead: ""
-       support: ""
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM":
-       title: "Due At 9: Outcomes Homework"
-       color: red
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ean1416jej6g"
-       lead: ""
-       support: ""
-    - "9:00AM - 10:00AM":
-       title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ean1416jej6g"
-       lead: ""
-       support: ""
-    - "10:00AM - 12:30PM":
-       title: "Outcomes Open Office Hours"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ean1416jej6g"
-       lead: ""
-       support: ""
-    - "12:30PM - 5:00 PM":
-       title: "GO VOTE"
-       color: red
+  # wk09
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
