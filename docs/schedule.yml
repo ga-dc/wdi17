@@ -1,6 +1,7 @@
 - "start-date": "2017-03-20"
 - days:
   # wk01
+  # Monday
   - day:
     - "9:00AM - 12:30PM":
        title: "Intro to WDI"
@@ -12,6 +13,7 @@
        url: "https://github.com/ga-wdi-lessons/cli-intro"
        lead: "John"
        support: ""
+  # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 00"
@@ -27,6 +29,7 @@
        url: "https://github.com/ga-wdi-lessons/git-intro"
        lead: ""
        support: "Andy"
+  # Wednesday
   - day:
     - "9:00 AM - 10:00 AM":
        title: "HTML mini-lesson"
@@ -42,7 +45,16 @@
        url: "https://github.com/ga-wdi-lessons/css-flexbox"
        lead: "John"
        support: ""
+  # Thursday
   - day:
+    - "9:00AM":
+       title: "Homework Due"
+       url:
+         - To Oz: https://github.com/ga-wdi-exercises/to_oz
+         - Haiku: https://github.com/ga-wdi-exercises/haiku
+         - Wendy Bite: https://github.com/ga-wdi-exercises/wendy_bite
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: "https://ga-dc.github.io/slips"
@@ -64,6 +76,7 @@
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
        lead: ""
        support: ""
+  # Friday
   - day:
     - "9:00AM - 10:00AM":
        title: "Review"
@@ -86,6 +99,7 @@
        lead: ""
        support: ""
   # wk02
+  # Monday
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 01"
@@ -102,6 +116,7 @@
        url: "https://github.com/ga-wdi-lessons/jquery-dom"
        lead: "John"
        support: ""
+  # Tuesday
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Prework"
@@ -124,16 +139,8 @@
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
        lead: "John"
        support: ""
+  # Wednesday
   - day:
-    - "9:00AM":
-       title: "Due At 9: Homework"
-       color: red
-       url:
-          - JS Calculator: https://github.com/ga-wdi-exercises/js-calculator
-          - Choose Your Own Adventure: https://github.com/ga-wdi-exercises/choose_your_own_adventure_js
-          - PixartJS: https://github.com/ga-wdi-exercises/pixart_js
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
        lead: ""
@@ -148,11 +155,16 @@
        url: "https://github.com/ga-wdi-exercises/atm"
        lead: ""
        support: ""
+  # Thursday
   - day:
     - "9:00AM":
-       title: "Due At 9: Lab"
+       title: "Due At 9: Homework"
        color: red
-       url: "https://github.com/ga-wdi-exercises/atm"
+       url:
+          - AirBnB: https://github.com/ga-wdi-exercises/css-airbnb 
+          - JS Calculator: https://github.com/ga-wdi-exercises/js-calculator
+          - Choose Your Own Adventure: https://github.com/ga-wdi-exercises/choose_your_own_adventure_js
+          - PixartJS: https://github.com/ga-wdi-exercises/pixart_js
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
@@ -169,6 +181,7 @@
        url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
        lead: "Juan"
        support: ""
+  # Friday
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
