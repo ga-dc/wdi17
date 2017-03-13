@@ -514,6 +514,7 @@
        lead: "John"
        support: ""
   # wk06
+  # Monday
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 05"
@@ -530,6 +531,12 @@
        lead: "Andy"
        support: ""
   - day:
+    - "9:00AM":
+       title: "Homework Due"
+       color: red
+       url:
+         - "Lab: Hogwarts": https://github.com/ga-wdi-exercises/hogwarts_rails
+         - Scribble: https://github.com/ga-wdi-exercises/scribble
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
        color: red
