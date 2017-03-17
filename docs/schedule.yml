@@ -104,18 +104,18 @@
     - "9:00AM - 10:00AM":
        title: "Checkpoint 01"
        url: "https://github.com/ga-wdi-exercises/checkpoint-01"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Objects and Functions"
        url: "https://github.com/ga-wdi-lessons/js-objects-functions"
        lead: "Juan"
-       support: ""
+       support: "John"
     - "2:30PM - 5:00PM":
        title: "the DOM"
        url: "https://github.com/ga-wdi-lessons/jquery-dom"
        lead: "John"
-       support: ""
+       support: "Juan"
   # Tuesday
   - day:
     - "9:00AM":
@@ -138,22 +138,22 @@
        title: "Events"
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
        lead: "John"
-       support: ""
+       support: "Juan"
   # Wednesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
-       lead: ""
+       lead: "Juan"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Scope, Closures & Context"
        url: "https://github.com/ga-wdi-lessons/js-scope"
        lead: "Andy"
-       support: ""
+       support: "Juan"
     - "2:30PM - 5:00PM":
        title: "Lab: ATM"
        url: "https://github.com/ga-wdi-exercises/atm"
-       lead: ""
+       lead: "John"
        support: ""
   # Thursday
   - day:
@@ -169,29 +169,29 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Review: ATM"
-       lead: ""
+       lead: "Juan"
        support: ""
     - "10:00AM - 12:30PM":
        title: "ES6"
        url: "https://github.com/ga-wdi-lessons/es6"
        lead: "John"
-       support: ""
+       support: "Juan"
     - "2:30PM - 5:00PM":
        title: "OOJS"
        url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
        lead: "Juan"
-       support: ""
+       support: "John"
   # Friday
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: "https://ga-dc.github.io/slips/"
-       lead: ""
+       lead: "John"
     - "10:00AM - 12:00PM":
        title: "Lab: OOJS"
        url: "https://github.com/ga-wdi-exercises/js-gladiator"
-       lead: ""
-       support: ""
+       lead: "Juan"
+       support: "John"
     - "12:00PM - 12:30PM":
        title: "Squad Scrum: Intro Project 1"
        lead: ""
@@ -200,7 +200,7 @@
        title: "Functional Programming"
        url: "https://github.com/ga-wdi-lessons/functional-programming"
        lead: "Andy"
-       support: ""
+       support: "Juan"
   # wk03
   # Monday
   - day:
