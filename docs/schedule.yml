@@ -979,12 +979,12 @@
         title: "React Redux 1"
         url: ""
         lead: "Andy"
-        support: ""
+        support: "Juan"
     - "2:30PM - 5:00PM":
         title: "React Redux 2"
         url: ""
         lead: "John"
-        support: ""
+        support: "Andy"
   # Thursday
   - day:
     - "9:00AM - 10:00AM":
