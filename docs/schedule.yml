@@ -518,18 +518,18 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 05"
-       lead: ""
+       lead: "Juan"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Devise & CanCanCan"
        url: 'https://github.com/ga-wdi-lessons/devise'
        lead: "John"
-       support: ""
+       support: "Juan"
     - "2:30PM - 5:00PM":
        title: "Rails: Many-to-Many"
        url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
        lead: "Andy"
-       support: ""
+       support: "John"
   # Tuesday
   - day:
     - "9:00AM":
@@ -564,7 +564,7 @@
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
        url: "https://github.com/ga-wdi-exercises/project2"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: Game of Thrones"
@@ -574,7 +574,7 @@
     - "02:30PM - 5:00PM":
        title: "Agile"
        lead: "John"
-       support: ""
+       support: "Andy"
   # Thursday
   - day:
     - "9:00AM - 10:00AM":
