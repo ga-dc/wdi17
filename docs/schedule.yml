@@ -39,7 +39,7 @@
        title: "CSS 1"
        url:  "https://github.com/ga-wdi-lessons/css-review"
        lead: "Juan"
-       support: "John"
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "CSS 2"
        url: "https://github.com/ga-wdi-lessons/css-flexbox"
@@ -175,7 +175,7 @@
        title: "ES6"
        url: "https://github.com/ga-wdi-lessons/es6"
        lead: "John"
-       support: "Juan"
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "OOJS"
        url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
