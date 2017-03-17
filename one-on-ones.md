@@ -6,7 +6,7 @@ Students may only sign up for one 1:1 meeting at a time. After that meeting take
 
 #### Sign-Up Links
 - [John (Monday)](#)
-- [Andy (Tuesday)](#)
+- [Andy (Tuesday)](https://calendar.google.com/calendar/selfsched?sstoken=UVBlR2ZOcFVYMFo5fGRlZmF1bHR8ZjVlNGQyYTY0MjIwMjNhNTE0N2NlNWFkMDcwN2NkODk)
 - [Juan (Wednesday)](#)
 
 They're a safe space to talk about literally anything. One-on-Ones might include:
