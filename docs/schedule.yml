@@ -822,34 +822,34 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Express Intro"
        url: "https://github.com/ga-wdi-lessons/express-intro"
        lead: "John"
-       support: ""
+       support: "Andy"
     - "2:30PM - 5:00 PM":
        title: "MongoDB / Mongoose"
        url: "https://github.com/ga-wdi-lessons/mongoose-intro"
        lead: "Juan"
-       support: ""
+       support: "John"
   # Friday
   - day:
     - "9:00AM - 10:00PM":
        title: "Slips"
        url: "https://ga-dc.github.io/slips"
-       lead: ""
+       lead: "Juan"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Express with Mongoose"
        url: "https://github.com/ga-wdi-lessons/express-mongoose"
        lead: "Andy"
-       support: ""
+       support: "Juan"
     - "2:30PM - 5:00 PM":
        title: "MEAN app"
        lead: "John"
-       support: ""
+       support: "Andy"
   # wk09
   # Monday
   - day:
