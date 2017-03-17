@@ -5,7 +5,7 @@ Two instructors will be available every Monday, Tuesday and Wednesday between 1:
 Students may only sign up for one 1:1 meeting at a time. After that meeting takes place, you are welcome to sign up for another one.
 
 #### Sign-Up Links
-- [John (Monday)](#)
+- [John (Monday)](https://calendar.google.com/calendar/selfsched?sstoken=UU4tenFVdExlLWlKfGRlZmF1bHR8NzNhM2MyNTIzNTU1NzU4OTkzMDg5NDQ0ZTk2YWVhODA)
 - [Andy (Tuesday)](https://calendar.google.com/calendar/selfsched?sstoken=UVBlR2ZOcFVYMFo5fGRlZmF1bHR8ZjVlNGQyYTY0MjIwMjNhNTE0N2NlNWFkMDcwN2NkODk)
 - [Juan (Wednesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUFPVktPMnkzNjBUfGRlZmF1bHR8YTE1ZTUzMzZkYmEyY2EwNzUwOTNjM2I5OTI4YWFlM2Q)
 
