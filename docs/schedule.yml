@@ -419,13 +419,13 @@
        support: ""
     - "9:00AM - 10:00AM":
         title: "Checkpoint 04"
-        lead: ""
+        lead: "John"
         support: ""
     - "10:00AM - 12:30PM":
        title: "Sinatra & ActiveRecord"
        url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
        lead: "Juan"
-       support: ""
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
@@ -469,39 +469,39 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Intro to Rails/MVC"
        url: "https://github.com/ga-wdi-lessons/http-mvc-intro-rails"
        lead: "John"
-       support: ""
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "Rails: Models & Migrations"
        url: "https://github.com/ga-wdi-lessons/rails-activerecord"
        lead: "Juan"
-       support: ""
+       support: "John"
   # Thursday
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       lead: ""
+       lead: "Juan"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Rails: Views & Controllers"
        url: "https://github.com/ga-wdi-lessons/rails-views"
        lead: "Andy"
-       support: ""
+       support: "John"
     - "2:30PM - 5:00PM":
        title: "Rails: Routes & Resources"
        url: "https://github.com/ga-wdi-lessons/rails-routing"
        lead: "Andy"
-       support: ""
+       support: "Juan"
   # Friday
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       lead: ""
+       lead: "John"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: Hogwarts"
@@ -512,7 +512,7 @@
        title: "Rails: Sessions, Flash, Validations, and Errors"
        url: "https://github.com/ga-wdi-lessons/rails-sessions-flash-validations-errors"
        lead: "John"
-       support: ""
+       support: "Andy"
   # wk06
   # Monday
   - day:
