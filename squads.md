@@ -19,9 +19,10 @@ Each student will be assigned a squad. Each squad is led by an instructor and wi
 - Abrahim Ghannam
 - Luisa Gonzalez
 - Adam Hoff
-- Jeong Hoon Koo
+- Conner Johnson
 
 # Juan
+- Jeong Hoon Koo
 - Ick Hyun Kwon
 - Marcus Miller
 - Curtis Ostle
