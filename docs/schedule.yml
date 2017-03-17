@@ -699,18 +699,18 @@
     - "9:00AM - 10:00AM":
         title: "Checkpoint 07"
         url: "https://github.com/ga-wdi-exercises/checkpoint-03"
-        lead: ""
+        lead: "John"
         support: ""
     - "10:00AM - 12:30PM":
         title: "Angular: Resources"
         url: "https://github.com/ga-wdi-lessons/angular-resources"
         lead: "Juan"
-        support: ""
+        support: "John"
     - "2:30PM - 5:00PM":
         title: "Rails API"
         url: "https://github.com/ga-wdi-lessons/rails-api"
         lead: "Andy"
-        support: ""
+        support: "Juan"
   # Tuesday
   - day:
     - "9:00AM":
@@ -744,7 +744,7 @@
   - day:
     - "9:00AM - 10:00AM":
         title: "Code Challenge"
-        url: ""
+        url: "Andy"
         lead: ""
         support: ""
     - "10:00AM - 12:30PM":
@@ -756,7 +756,7 @@
         title: "Git Workflows"
         url: ""
         lead: "John"
-        support: ""
+        support: "Juan"
     - "4:30PM - 5:00PM":
         title: "Squad Scrum"
         url: ""
