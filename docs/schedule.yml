@@ -292,14 +292,14 @@
        title: "Ruby Enums"
        url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
        lead: "John"
-       support: "Jaun"
+       support: "Juan"
   # wk04
   # Monday
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 03"
        url: "https://github.com/ga-wdi-exercises/checkpoint-03"
-       lead: ""
+       lead: "Juan"
        support: ""
     - "10:00AM - 12:30AM":
        title: "Lab: Ruby Enums"
@@ -316,7 +316,7 @@
        title: "Ruby OOP 1"
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
        lead: "Andy"
-       support: ""
+       support: "Juan"
   # Tuesday
   - day:
     - "9:00AM":
@@ -337,8 +337,8 @@
     - "2:30PM - 5:00PM":
        title: "Ruby OOP 2"
        url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
-       lead: ""
-       support: "Andy"
+       lead: "Andy"
+       support: "John"
   # Wednesday
   - day:
     - "9:00AM":
@@ -352,7 +352,7 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
-       lead: ""
+       lead: "Juan"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: Ruby CLI"
@@ -378,33 +378,33 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge / Review"
-       lead: ""
+       lead: "Andy"
     - "10:00AM - 12:30PM":
        title: "Domain Modeling & SQL"
        url: "https://github.com/ga-wdi-lessons/sql-intro"
        lead: "John"
-       support: ""
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "Active Record"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
        lead: "Juan"
-       support: ""
+       support: "John"
   # Friday
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
-       lead: ""
+       lead: "John"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Sinatra 1"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Andy"
-       support: ""
+       support: "John"
     - "2:30PM - 5:00PM":
        title: "Sinatra 2"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Juan"
-       support: ""
+       support: "Andy"
   # wk05
   # Monday
   - day:
