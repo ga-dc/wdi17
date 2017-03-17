@@ -4,10 +4,44 @@ Each student will be assigned a squad. Each squad is led by an instructor and wi
 
 
 # Andy
-- _____
+- Ammar Alasadi
+- Andres Arango
+- Halimatu Bakarr
+- Amlak Befekadu
+- Matt Caplan
+- Omar Chaudhry
+- Caroline Chen
 
 # John
-- _____
+- Paul Christian-Brown
+- Erin Dawson
+- Meaghan Doherty
+- Abrahim Ghannam
+- Luisa Gonzalez
+- Adam Hoff
+- Jeong Hoon Koo
 
 # Juan
-- _____
+- Ick Hyun Kwon
+- Marcus Miller
+- Curtis Ostle
+- Whitney Purdum
+- Stormy Ramsey
+- Jonathan Wright
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
