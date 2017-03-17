@@ -12,13 +12,13 @@
        title: "CLI"
        url: "https://github.com/ga-wdi-lessons/cli-intro"
        lead: "John"
-       support: ""
+       support: "Juan"
   # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 00"
        url: "https://usecanvas.com/ga/09072016-morning-exercise/36e3sI1ZN6KcSqbh0q7mWS"
-       lead: ""
+       lead: "John"
     - "10:00AM - 12:30PM":
        title: "Outcomes"
        url: ""
@@ -27,24 +27,24 @@
     - "2:30PM - 5:00PM":
        title: "Git 1"
        url: "https://github.com/ga-wdi-lessons/git-intro"
-       lead: ""
-       support: "Andy"
+       lead: "Andy"
+       support: "John"
   # Wednesday
   - day:
     - "9:00 AM - 10:00 AM":
        title: "HTML mini-lesson"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "10:00 AM - 12:30PM":
        title: "CSS 1"
        url:  "https://github.com/ga-wdi-lessons/css-review"
        lead: "Juan"
-       support: ""
+       support: "John"
     - "2:30PM - 5:00PM":
        title: "CSS 2"
        url: "https://github.com/ga-wdi-lessons/css-flexbox"
        lead: "John"
-       support: ""
+       support: "Juan"
   # Thursday
   - day:
     - "9:00AM":
@@ -58,17 +58,17 @@
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: "https://ga-dc.github.io/slips"
-       lead: ""
+       lead: "Juan"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: Portfolio Pages"
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
-       lead: "Juan and John"
+       lead: "John"
        support: ""
     - "2:30PM - 04:30PM":
        title: "Lab: Portfolio Pages"
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
-       lead: "Juan and John"
+       lead: "Juan"
        support: ""
     - "05:00PM":
        title: "Due At 5: Lab"
@@ -81,18 +81,18 @@
     - "9:00AM - 10:00AM":
        title: "Review"
        url: ""
-       lead: ""
+       lead: "John"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Git 2"
        url:  "https://github.com/ga-wdi-lessons/git-branching"
        lead: "Andy"
-       support: ""
+       support: "John"
     - "2:30PM - 4:30PM":
        title: "JS Intro"
        url: "https://github.com/ga-wdi-lessons/js-intro"
        lead: "Juan"
-       support: ""
+       support: "John"
     - "4:30PM - 05:00PM":
        title: "Squad Scrum"
        url: "http://md.wdidc.org/#/2016-09-09-squad-scrum.md"
@@ -530,6 +530,7 @@
        url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
        lead: "Andy"
        support: ""
+  # Tuesday
   - day:
     - "9:00AM":
        title: "Homework Due"
@@ -558,6 +559,7 @@
        url: "https://github.com/ga-wdi-exercises/game_of_thrones"
        lead: "Juan"
        support: ""
+  # Wednesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
@@ -573,6 +575,7 @@
        title: "Agile"
        lead: "John"
        support: ""
+  # Thursday
   - day:
     - "9:00AM - 10:00AM":
        title: "Squad Scrum: Intro Project 2"
@@ -593,6 +596,7 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
+  # Friday
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 2"
@@ -610,12 +614,14 @@
        lead: ""
        support: ""
   # wk07
+  # Monday
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
+  # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
@@ -632,6 +638,7 @@
         url: ""
         lead: ""
         support: ""
+  # Wednesday
   - day:
     - "9:00AM - 12:30PM":
         title: "Project 2"
@@ -648,7 +655,13 @@
         url: ""
         lead: ""
         support: ""
+  # Thursday
   - day:
+    - "9:00AM":
+       title: "Homework Due"
+       color: red
+       url:
+         - Shaping Up with Angular: https://www.codeschool.com/courses/shaping-up-with-angular-js
     - "9:00AM - 10:00AM":
         title: "Code Challenge"
         url: ""
@@ -664,6 +677,7 @@
         url: "https://github.com/ga-wdi-exercises/angular-superheroes"
         lead: "Andy"
         support: ""
+  # Friday
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
@@ -679,7 +693,8 @@
         url: "https://github.com/ga-wdi-lessons/js-ajax"
         lead: "Juan"
         support: ""
-  #wk08
+  # wk08
+  # Monday
   - day:
     - "9:00AM - 10:00AM":
         title: "Checkpoint 07"
@@ -696,7 +711,14 @@
         url: "https://github.com/ga-wdi-lessons/rails-api"
         lead: "Andy"
         support: ""
+  # Tuesday
   - day:
+    - "9:00AM":
+       title: "Homework Due"
+       color: red
+       url:
+         - Movie Browser: https://github.com/ga-wdi-exercises/movie-browser
+         - WDInstagram: https://github.com/ga-wdi-exercises/wdinstagram_angular
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
        color: red
@@ -718,6 +740,7 @@
         url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
         lead: "Andy"
         support: ""
+  # Wednesday
   - day:
     - "9:00AM - 10:00AM":
         title: "Code Challenge"
@@ -739,12 +762,14 @@
         url: ""
         lead: ""
         support: ""
+  # Thursday
   - day:
     - "9:00AM - 5:00PM":
         title: "Project 3"
         url: ""
         lead: ""
         support: ""
+  # Friday
   - day:
     - "9:00AM - 5:00PM":
         title: "Project 3"
@@ -752,12 +777,14 @@
         lead: ""
         support: ""
  # wk09
+ # Monday
   - day:
     - "9:00AM - 5:00PM":
         title: "Project 3"
         url: ""
         lead: ""
         support: ""
+  # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
@@ -774,6 +801,7 @@
        url: ""
        lead: ""
        support: ""
+  # Wednesday
   - day:
     - "9:00AM - 12:30PM":
         title: "Project 3"
@@ -790,6 +818,7 @@
         url: ""
         lead: ""
         support: ""
+  # Thursday
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
@@ -805,6 +834,7 @@
        url: "https://github.com/ga-wdi-lessons/mongoose-intro"
        lead: "Juan"
        support: ""
+  # Friday
   - day:
     - "9:00AM - 10:00PM":
        title: "Slips"
@@ -821,6 +851,7 @@
        lead: "John"
        support: ""
   # wk09
+  # Monday
   - day:
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
@@ -855,6 +886,7 @@
        title: "Office Hours"
        lead: ""
        support: ""
+  # Tuesday
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -878,6 +910,7 @@
        url: "https://github.com/ga-wdi-exercises/websocket-arcade"
        lead: "Jesse"
        support: ""
+  # Wednesday
   - day:
     - "9:00AM":
        title: "Due At 9: Web Sockets Lab"
@@ -906,6 +939,7 @@
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
        lead: ""
        support: ""
+  # Thursday
   - day:
     - "9:00AM":
        title: "Checkpoint 08"
@@ -932,6 +966,7 @@
        color: red
        lead: ""
        support: ""
+  # Friday
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
