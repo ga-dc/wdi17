@@ -889,7 +889,7 @@
        title: "Web Sockets"
        url: ""
        lead: "Juan"
-       support: ""
+       support: "John"
   # Wednesday
   - day:
     - "9:00AM - 10:00PM":
@@ -913,12 +913,11 @@
        title: "README swap"
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
        lead: "John"
-       support: ""
     - "10:00AM - 12:30PM":
        title: "React 1"
        url: "https://github.com/ga-wdi-lessons/react-intro"
        lead: "Andy"
-       support: ""
+       support: "Juan"
     - "2:30PM - 5:00 PM":
        title: "Lab: React Components"
        lead: "Andy"
@@ -927,8 +926,6 @@
     - "5:00 PM":
        title: "Due At 5: Lab"
        color: red
-       lead: ""
-       support: ""
   # Friday
   - day:
     - "9:00AM - 10:00AM":
@@ -940,12 +937,12 @@
         title: "React 2"
         url: "https://github.com/ga-wdi-lessons/react-continued"
         lead: "John"
-        support: ""
+        support: "Andy"
     - "2:30PM - 5:00 PM":
        title: "React Router"
-       lead: "Juan"
        url: ""
-       support: ""
+       lead: "Juan"
+       support: "John"
   # wk11
   # Monday
   - day:
