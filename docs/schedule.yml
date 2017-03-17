@@ -850,31 +850,22 @@
        title: "MEAN app"
        lead: "John"
        support: "Andy"
-  # wk09
+  # wk10
   # Monday
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
-       lead: "Adrian"
+       title: "Checkpoint 08"
+       lead: "Andy"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "MEAN Lab"
-       lead: "Jesse"
+       title: "Lab: MEAN"
        url: "https://github.com/ga-wdi-exercises/mean-lab"
+       lead: "Juan"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
-       lead: "Jesse"
-       support: ""
-    - "2:30PM - 4:30PM":
-       title: "MEAN Lab"
-       lead: "Nick"
+    - "2:30PM - 5:00PM":
+       title: "Lab: MEAN"
        url: "https://github.com/ga-wdi-exercises/mean-lab"
-       support: ""
-    - "4:30PM - 5:00 PM":
-       title: "Squad Scrum"
-       lead: ""
+       lead: "John"
        support: ""
     - "5:00PM":
        title: "Due At 5: MEAN Lab"
@@ -882,83 +873,54 @@
        lead: ""
        url: "https://github.com/ga-wdi-exercises/mean-lab"
        support: ""
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: ""
-       support: ""
   # Tuesday
   - day:
-    - "9:00AM":
-       title: "Due At 9: Homework"
-       color: red
-       url:
-         - YUM: https://github.com/ga-wdi-exercises/yum
-         - Emergency Compliment Express: https://github.com/ga-wdi-exercises/compliment-express
+    - "9:00AM - 10:00AM":
+       title: "Outcomes Prep"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
        lead: ""
        support: ""
-    - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
-       lead: "Nick"
-       support: ""
     - "10:00AM - 12:30PM":
-       title: "Web Sockets in Node"
-       url: "https://github.com/ga-wdi-lessons/websockets-node"
-       lead: "Adrian"
-       support: "Jesse"
-    - "2:30PM - 5:00 PM":
-       title: "Web Sockets Lab"
-       url: "https://github.com/ga-wdi-exercises/websocket-arcade"
-       lead: "Jesse"
+       title: "Outcomes"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       lead: ""
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "Web Sockets"
+       url: ""
+       lead: "Juan"
        support: ""
   # Wednesday
-  - day:
-    - "9:00AM":
-       title: "Due At 9: Web Sockets Lab"
-       color: red
-       url: "https://github.com/ga-wdi-exercises/websocket-arcade"
-       lead: ""
-       support: ""
     - "9:00AM - 10:00PM":
-       title: "Slips"
-       url: "https://ga-dc.github.io/slips"
-       lead: "Jesse"
+       title: "Intro Teach Yo Self"
+       url: ""
+       lead: "John"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Sweet Libs Lab"
+       title: "Teach You Self"
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
-       lead: "Nick"
+       lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "Sweet Libs Lab"
-       url: "https://github.com/ga-wdi-exercises/sweet-libs"
-       lead: "Jesse"
-       support: ""
-    - "5:00 PM":
-       title: "Due At 5: Sweet Libs Lab"
-       color: red
+       title: "Teach Yo Self"
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
        lead: ""
        support: ""
   # Thursday
   - day:
     - "9:00AM":
-       title: "Checkpoint 08"
-       url: "https://github.com/ga-wdi-exercises/checkpoint-08"
-       lead: ""
+       title: "README swap"
+       url: "https://github.com/ga-wdi-exercises/sweet-libs"
+       lead: "John"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "React Intro"
+       title: "React 1"
        url: "https://github.com/ga-wdi-lessons/react-intro"
-       lead: "Adrian"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
-       lead: "Nick"
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "Lab: Component Extravaganza"
-       lead: "Nick"
+       title: "Lab: React Components"
+       lead: "Andy"
        support: ""
        url: "https://github.com/ga-wdi-exercises/component-extravaganza"
     - "5:00 PM":
@@ -968,32 +930,22 @@
        support: ""
   # Friday
   - day:
-    - "9:00AM":
-       title: "Due At 9: Outcomes Homework"
-       color: red
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ocqgm28l81uu"
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
-       title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ocqgm28l81uu"
-       lead: ""
-       support: ""
-    - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ocqgm28l81uu"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
-       lead: "Adrian"
-       support: ""
+        title: "Slips"
+        url: ""
+        lead: "Andy"
+    - "10:00AM - 12:30AM":
+        title: "React 2"
+        url: "https://github.com/ga-wdi-lessons/react-continued"
+        lead: "John"
+        support: ""
     - "2:30PM - 5:00 PM":
-       title: "React Continued"
-       url: "https://github.com/ga-wdi-lessons/react-continued"
-       lead: "Nick"
+       title: "React Router"
+       lead: "Juan"
+       url: ""
        support: ""
+  # wk11
+  # Monday
   - day:
     - "9:00AM - 12:30PM":
        title: "Lab: React"
