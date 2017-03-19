@@ -24,8 +24,10 @@
 - Slack
   - You have been invited to three different slack teams:
     - [WDI DC](https://WDI-dc.slack.com) - Our primary slack team
-      - [#announcements](https://wdi-dc.slack.com/messages/announcements/)
-    - [GA DC Campus](https://gadc-campus.slack.com) - The DC alumni team
+      - [#wdi15-announcements](https://wdi-dc.slack.com/messages/wdi15-announcements/) - reserved for instructor / staff announcements
+      - [#wdi15-discussion](https://wdi-dc.slack.com/messages/wdi15-discussion/) - for lesson-based questions / discussion and other code-related material
+      - [#wdi15-techsupport](https://wdi-dc.slack.com/messages/wdi15-techsupport/) - where students can assist each other on code-related issues
+      - [#wdi15-random](https://wdi-dc.slack.com/messages/wdi15-random/) - for non-course related discussion
 
 ## FAQs
 
