@@ -20,9 +20,9 @@
        url: "https://usecanvas.com/ga/09072016-morning-exercise/36e3sI1ZN6KcSqbh0q7mWS"
        lead: "John"
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: ""
-       lead: "Joy"
+       title: "Intro to Outcomes"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week01"
+       lead: ""
        support: ""
     - "2:30PM - 5:00PM":
        title: "Git 1"
@@ -116,22 +116,22 @@
        url: "https://github.com/ga-wdi-lessons/jquery-dom"
        lead: "John"
        support: "Juan"
-  # Tuesday
-  - day:
-    - "9:00AM":
-       title: "Due At 9: Outcomes Prework"
+    - "06:00PM":
+       title: "Due At 6: Outcomes Homework: Vision and Goals worksheet"
        color: red
-       url: "https://wdi12dc.slack.com/archives/outcomes/p1473708026000004"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week02/HWWeek2.md"
        lead: ""
        support: ""
+  # Tuesday
+  - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wxvonjnvki5q"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wxvonjnvki5q"
+       title: "Outcomes: Alumni Panel"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week02"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -219,22 +219,22 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 2-4"
        support: ""
-  # Tuesday
-  - day:
-    - "9:00AM":
-       title: "Due At 9: Outcomes Homework"
+    - "06:00PM":
+       title: "Due At 6: Outcomes Homework: What’s My Brand Worksheet"
        color: red
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md"
        lead: ""
        support: ""
+  # Tuesday
+  - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
+       title: "Outcomes: The Winning Resume Package"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
        lead: ""
        support: ""
     - "2:30AM - 5:00PM":
@@ -317,21 +317,21 @@
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
        lead: "Andy"
        support: "Juan"
-  # Tuesday
-  - day:
-    - "9:00AM":
-       title: "Due At 9: Outcomes Homework"
+    - "6:00PM":
+       title: "Due At 6: Outcomes Homework: Update Resume and LinkedIn"
        color: red
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.u6qsl4p95n0l"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week04/HWweek4WDI14.md"
        lead: ""
        support: ""
+  # Tuesday
+  - day:
     - "9:00AM":
        title: "Outcomes Prep"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.u6qsl4p95n0l"
+       title: "Outcomes: Finding Your Voice and Defining Your Brand"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -431,22 +431,22 @@
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: "John"
        support: ""
-  # Tuesday
-  - day:
-    - "9:00AM":
-       title: "Due At 9: Outcomes Homework"
+    - "6:00PM":
+       title: "Due At 6: Outcomes Homework: Draft Brand Statement"
        color: red
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md"
        lead: ""
        support: ""
+  # Tuesday
+  - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
+       title: "Outcomes: Studio Tour"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
        lead: ""
        support: ""
     - "2:30PM - 4:30PM":
@@ -530,6 +530,12 @@
        url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
        lead: "Andy"
        support: "John"
+    - "06:00PM":
+       title: "Due At 6: Outcomes Homework: Final Brand Statement + Draft Resume"
+       color: red
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md"
+       lead: ""
+       support: ""
   # Tuesday
   - day:
     - "9:00AM":
@@ -538,20 +544,14 @@
        url:
          - "Lab: Hogwarts": https://github.com/ga-wdi-exercises/hogwarts_rails
          - Scribble: https://github.com/ga-wdi-exercises/scribble
-    - "9:00AM":
-       title: "Due At 9: Outcomes Homework"
-       color: red
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
+       title: "Outcomes: Defining Your Job Search Requirements"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -621,16 +621,22 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
+    - "6:00PM":
+       title: "Due at 6pm: Outcomes HW: Final LinkedIn Profile"
+       color: red
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/HWWeek7.md"
+       lead: ""
+       support: ""
   # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wk3hi0h158tc"
+       title: "Outcomes: Preparing for the Interview & Talking Money"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week07"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -711,6 +717,12 @@
         url: "https://github.com/ga-wdi-lessons/rails-api"
         lead: "Andy"
         support: "Juan"
+    - "6:00PM":
+       title: "Due At 6: Outcomes Homework: Final Resume"
+       color: red
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md"
+       lead: ""
+       support: ""
   # Tuesday
   - day:
     - "9:00AM":
@@ -719,20 +731,14 @@
        url:
          - Movie Browser: https://github.com/ga-wdi-exercises/movie-browser
          - WDInstagram: https://github.com/ga-wdi-exercises/wdinstagram_angular
-    - "9:00AM":
-       title: "Due At 9: Outcomes Homework"
-       color: red
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.2u132dzacx0m"
+       title: "Outcomes: Sharing Your Talents"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week08"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -784,16 +790,22 @@
         url: ""
         lead: ""
         support: ""
+    - "6:00PM":
+       title: "Due at 6pm: Outcomes HW: Draft GA Profile"
+       color: red
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md"
+       lead: ""
+       support: ""
   # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       title: "Outcomes: Catch Your Breath and Regroup"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week09"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -873,16 +885,22 @@
        lead: ""
        url: "https://github.com/ga-wdi-exercises/mean-lab"
        support: ""
+    - "6:00PM":
+       title: "Due at 6pm: Outcomes HW: Final GA Profile"
+       color: red
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md"
+       lead: ""
+       support: ""
   # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       title: "Outcomes: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -955,12 +973,12 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       title: "Outcomes: Cracking the Technical Interview"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -1028,12 +1046,12 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.wi2bmbfz822i"
+       title: "Outcomes: Qualification Check-in"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week12/WDI"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
