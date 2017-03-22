@@ -70,10 +70,15 @@
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
        lead: "Juan"
        support: ""
-    - "05:00PM":
+    - "04:30PM":
        title: "Due At 5: Lab"
        color: red
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
+       lead: ""
+       support: ""
+    - "4:30PM - 05:00PM":
+       title: "Squad Scrum"
+       url: "http://md.wdidc.org/#/2016-09-09-squad-scrum.md"
        lead: ""
        support: ""
   # Friday
@@ -88,16 +93,11 @@
        url:  "https://github.com/ga-wdi-lessons/git-branching"
        lead: "Andy"
        support: "John"
-    - "2:30PM - 4:30PM":
+    - "2:30PM - 5:00PM":
        title: "JS Intro"
        url: "https://github.com/ga-wdi-lessons/js-intro"
        lead: "Juan"
        support: "John"
-    - "4:30PM - 05:00PM":
-       title: "Squad Scrum"
-       url: "http://md.wdidc.org/#/2016-09-09-squad-scrum.md"
-       lead: ""
-       support: ""
   # wk02
   # Monday
   - day:
