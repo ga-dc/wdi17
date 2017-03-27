@@ -113,7 +113,7 @@
        support: "John"
     - "2:30PM - 5:00PM":
        title: "the DOM"
-       url: "https://github.com/ga-wdi-lessons/jquery-dom"
+       url: "https://github.com/ga-wdi-lessons/js-dom"
        lead: "John"
        support: "Juan"
     - "06:00PM":
