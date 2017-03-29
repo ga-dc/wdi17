@@ -143,6 +143,7 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
+       url: "https://github.com/ga-wdi-exercises/timer_js"
        lead: "Juan"
        support: ""
     - "10:00AM - 12:30PM":
