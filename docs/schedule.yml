@@ -192,7 +192,7 @@
        title: "Lab: OOJS"
        url: "https://github.com/ga-wdi-exercises/js-gladiator"
        lead: "Juan"
-       support: "John"
+       support: ""
     - "12:00PM - 12:30PM":
        title: "Squad Scrum: Intro Project 1"
        lead: ""
@@ -357,7 +357,6 @@
        title: "Due At 9: Homework"
        color: red
        url:
-         - Geometry: https://github.com/ga-wdi-exercises/js_geometry
          - High Card: https://github.com/ga-wdi-exercises/high_card
          - Landlord: https://github.com/ga-wdi-exercises/landlord_ruby_no_AR
        lead: ""
