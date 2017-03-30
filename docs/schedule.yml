@@ -297,6 +297,9 @@
        url: "https://github.com/ga-wdi-lessons/ruby-intro"
        lead: "Juan"
        support: "Andy"
+   - "12:30PM - 1:30PM":
+       title: "Campus Lunch"
+       color: "pink"
     - "2:30PM - 5:00PM":
        title: "Ruby Enums"
        url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
@@ -517,6 +520,9 @@
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
        lead: "Juan"
        support: ""
+    - "12:30PM - 1:30PM":
+       title: "Campus Lunch"
+       color: "pink"
     - "2:30PM - 5:00PM":
        title: "Rails: Sessions, Flash, Validations, and Errors"
        url: "https://github.com/ga-wdi-lessons/rails-sessions-flash-validations-errors"
