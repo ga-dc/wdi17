@@ -222,12 +222,12 @@
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 10-12"
-       support: ""
+       support: "Juan"
     - "2:30PM - 5:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 2-4"
-       support: ""
+       support: "John"
     - "06:00PM":
        title: "Due At 6: Outcomes Homework: What’s My Brand Worksheet"
        color: red
@@ -250,26 +250,26 @@
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 2-4"
-       support: ""
+       support: "Andy"
   # Wednesday
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 10-12"
-       support: ""
+       support: "Juan"
     - "2:30AM - 5:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 2-4"
-       support: ""
+       support: "Andy"
   # Thursday
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 10-12"
-       support: ""
+       support: "John"
     - "2:00PM - 3:30PM":
        title: "Project 1 Presentations"
        url: "https://github.com/ga-wdi-exercises/project1"
