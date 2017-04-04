@@ -1,4 +1,4 @@
-# ![](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) WDI 15 Syllabus
+# ![](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) WDI 16 Syllabus
 
 ## Administrative
 
@@ -24,10 +24,10 @@
 - Slack
   - You have been invited to three different slack teams:
     - [WDI DC](https://WDI-dc.slack.com) - Our primary slack team
-      - [#wdi15-announcements](https://wdi-dc.slack.com/messages/wdi15-announcements/) - reserved for instructor / staff announcements
-      - [#wdi15-discussion](https://wdi-dc.slack.com/messages/wdi15-discussion/) - for lesson-based questions / discussion and other code-related material
-      - [#wdi15-techsupport](https://wdi-dc.slack.com/messages/wdi15-techsupport/) - where students can assist each other on code-related issues
-      - [#wdi15-random](https://wdi-dc.slack.com/messages/wdi15-random/) - for non-course related discussion
+      - [#wdi16-announcements](https://wdi-dc.slack.com/messages/wdi16-announcements/) - reserved for instructor / staff announcements
+      - [#wdi16-discussion](https://wdi-dc.slack.com/messages/wdi16-discussion/) - for lesson-based questions / discussion and other code-related material
+      - [#wdi16-techsupport](https://wdi-dc.slack.com/messages/wdi16-techsupport/) - where students can assist each other on code-related issues
+      - [#wdi16-random](https://wdi-dc.slack.com/messages/wdi16-random/) - for non-course related discussion
 
 ## FAQs
 
@@ -41,8 +41,8 @@ When are instructors available outside of in-class instruction?
 
 ## Tips
 
-- <code>&grave;hello&grave;</code>: Backtics (the top-left of the keyboard on a Mac) makes text show up in a monospace font. Great for code.
-- Code blocks are made with three backtics:
+- <code>&grave;hello&grave;</code>: Backticks (the top-left of the keyboard on a Mac) makes text show up in a monospace font. Great for code.
+- Code blocks are made with three backticks:
   <pre>
   &grave;&grave;&grave;
   The backtics MUST be on a line by themselves!

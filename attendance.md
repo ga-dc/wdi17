@@ -4,7 +4,7 @@
 
 You will take your own attendance through Garnet while on the `GA-Guest` wifi network. Please check [the graduation requirements for arriving on-time](graduation-requirements.md#attendance)!
 
-If today begins at 9:00AM, then any attendance taken at 9:01 will be considered "tardy". Attendance cannot be taken three hours after the start time. That is: if you try to take attendance at 12:01, you will be considered "absent".
+If today begins at 9:00AM, then any attendance taken at 9:01AM will be considered "tardy". Attendance cannot be taken three hours after the start time. That is: if you try to take attendance at 12:01PM, you will be considered "absent".
 
 **There are no exceptions, even if you forgot and the instructors saw you were here.**
 
@@ -27,7 +27,7 @@ Of course, Metro delays can happen. The solution is to leave every day earlier t
 
 ![View on log-in](http://i.imgur.com/zOuHGdS.png)
 
-### 2. Click the name of your current cohort. In this case, that's "WDI15". You'll see this:
+### 2. Click the name of your current cohort. In this case, that's "WDI16". You'll see this:
 
 ![Check-in button](http://imgur.com/6HFj8lq.png)
 

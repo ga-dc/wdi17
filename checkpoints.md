@@ -23,7 +23,7 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
 
 ## Week 2
 
-### DOM/jquery
+### DOM/jQuery
 
 - link script files to html
 - load jQuery
@@ -41,6 +41,7 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
 - use the ruby `.each` method to iterate through a list and execute a block of code
 
 ### Ruby OOP
+
 - Define a ruby class
 - write an initialize method that sets instance variables
 - create instances of an object using the `.new` method
@@ -50,6 +51,7 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
 - write a ruby class that inherits from another class definition
 
 ### Active Record
+
 - create and leverage a `Gemfile`
 - link gem dependencies and other files in a ruby file
 - create a database in postgres
@@ -76,25 +78,27 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
 - generating models, controllers, and migrations from the command line
 
 ### AJAX, APIs
+
 - Know distinction between synchronous & asynchronous program execution
 - Know how to make all HTTP requests via AJAX
- - To **C**reate, **R**ead, **U**pdate, and **D**estroy data
+ - Create, Read, Update, and Destroy data
 - How to use promises to determine after-request behavior using `.done`, `.then`, `.fail`, `.always`
 - Build an API in Rails
+
 ```rb
 def index
     render json: SomeModel.all
 end
 ```
 
-Weeks 7-9
+## Weeks 7-9
 
 ### Angular
 
 - Setting & Applying an Angular module
 - Injecting dependencies
  - Passing in a reference to a callback when defining Angular functionality (e.g. a controller, factory, service, route configuration, etc)
-- **Using directives**
+- Using directives
  - e.g. ng-model, ng-repeat, ng-click, ng-controller, ng-app, ui-view, ng-change, ng-if, ng-show, ng-hide, etc
 - M-V-VM architecture and 2-way data-binding
 - Using `ui.router` & the concept of states
@@ -107,9 +111,10 @@ Weeks 7-9
  - Connecting to Firebase via Angular (angularFire & firebase)
 - **Bonus:** Setting up Angular on Rails
 
-Weeks 10-11
+## Weeks 10-11
 
 ### Express
+
 - Create, deploy, and modify a simple Express app with views, embedded code, and data persistence
 - Use Handlebars as a template engine to render views in Express
 - Use and configure middleware such as body-parser for form submission

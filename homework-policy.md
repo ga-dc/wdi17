@@ -4,7 +4,7 @@ Homework will take more time for some, and less time for others. It is up to you
 
 **Turn in something**. Turning in an incomplete assignment is **infinitely** better than turning in nothing at all. We can't get you the help you need unless we see what you're working on.
 
-**Late homework will not be accepted**. If you need help submitting homework, an instructor can assist during [office hours](https://github.com/ga-dc/wdi15/blob/master/office-hours.md).
+**Late homework will not be accepted**. If you need help submitting homework, an instructor can assist during [office hours](https://github.com/ga-dc/wdi16/blob/master/office-hours.md).
 
 You can track your homework completion rate in [Garnet](http://garnet.wdidc.org).
 
@@ -12,14 +12,13 @@ You can track your homework completion rate in [Garnet](http://garnet.wdidc.org)
 
 ## Due Dates and Grading
 
-You will generally be assigned homework every day. Due dates can be found in the [class schedule](https://ga-dc.github.io/wdi15).
-
+You will generally be assigned homework every day. Due dates can be found in the [class schedule](https://ga-dc.github.io/wdi16).
 
 Unless otherwise directed, each assignment should be forked and cloned from a `ga-wdi-exercises` repository, and submitted as a pull request to the original `ga-wdi-exercises` repository from your fork. For more information on pull requests, see below.
 
 **Plagiarized homework will not be accepted.** Concerned about what is considered plagiarism? Consult an instructor.
 
-**Homework is graded only on meaningful progress**. That is: that you made an effort to complete it, regardless of whether you were successful. 
+**Homework is graded only on meaningful progress**. That is: that you made an effort to complete it, regardless of whether you were successful.
 
 There are three possible grades for each assignment:
 - **Complete:** something was turned in, and meaningful effort was made.
@@ -27,7 +26,6 @@ There are three possible grades for each assignment:
 - **Missing:** nothing was turned in.
 
 **We rely on homework to know where you're at.** It's very much to your advantage to begin your homework the day it's assigned. Any problems can be addressed before the unit continues, preventing you from falling behind.
-
 
 ### Feedback
 
@@ -40,11 +38,9 @@ When submitting your pull request or issue, please ask specific and targeted que
 3. I expected...
 4. I got...
 
-
 For example:
 
 > I wanted to double the input number. I tried `var doubled = userInput * 2`. I expected the value to be twice the input number but instead got `NaN`. What is causing this?
-
 
 ## What to include with your submission
 
