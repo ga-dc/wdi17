@@ -6,7 +6,7 @@
     - "9:00AM - 12:30PM":
        title: "Intro to WDI"
        url: "https://github.com/ga-wdi-lessons/wdi-intro"
-       lead: "Andy, Juan, and John"
+       lead: ""
        support: ""
     - "2:30PM - 5:00PM":
        title: "CLI"
@@ -32,7 +32,7 @@
   # Wednesday
   - day:
     - "9:00 AM - 10:00 AM":
-       title: "HTML mini-lesson"
+       title: "HTML Mini-Lesson"
        lead: "Andy"
        support: ""
     - "10:00 AM - 12:30PM":
@@ -112,12 +112,12 @@
        lead: "Juan"
        support: "John"
     - "2:30PM - 5:00PM":
-       title: "the DOM"
+       title: "The DOM"
        url: "https://github.com/ga-wdi-lessons/js-dom"
        lead: "John"
        support: "Juan"
     - "06:00PM":
-       title: "Due At 6: Outcomes Homework: Vision and Goals worksheet"
+       title: "Due At 6: Outcomes Homework - Vision and Goals worksheet"
        color: red
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week02/HWWeek2.md"
        lead: ""
@@ -147,7 +147,7 @@
        lead: "Juan"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Scope, Closures & Context"
+       title: "Scope, Context & Closures"
        url: "https://github.com/ga-wdi-lessons/js-scope"
        lead: "Andy"
        support: "Juan"
@@ -229,7 +229,7 @@
        lead: "Open Office Hours 2-4"
        support: "John"
     - "06:00PM":
-       title: "Due At 6: Outcomes Homework: What’s My Brand Worksheet"
+       title: "Due At 6: Outcomes Homework - What’s My Brand Worksheet"
        color: red
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md"
        lead: ""
@@ -330,7 +330,7 @@
        lead: "Andy"
        support: "Juan"
     - "6:00PM":
-       title: "Due At 6: Outcomes Homework: Update Resume and LinkedIn"
+       title: "Due At 6: Outcomes Homework - Update Resume and LinkedIn"
        color: red
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week04/HWweek4WDI14.md"
        lead: ""
@@ -443,7 +443,7 @@
        lead: "John"
        support: ""
     - "6:00PM":
-       title: "Due At 6: Outcomes Homework: Draft Brand Statement"
+       title: "Due At 6: Outcomes Homework - Draft Brand Statement"
        color: red
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md"
        lead: ""
@@ -523,7 +523,7 @@
        title: "Campus Lunch"
        color: "red"
     - "2:30PM - 5:00PM":
-       title: "Rails: Sessions, Flash, Validations, and Errors"
+       title: "Rails: Sessions, Flash, Validations & Errors"
        url: "https://github.com/ga-wdi-lessons/rails-sessions-flash-validations-errors"
        lead: "John"
        support: "Andy"
@@ -545,7 +545,7 @@
        lead: "Andy"
        support: "John"
     - "06:00PM":
-       title: "Due At 6: Outcomes Homework: Final Brand Statement + Draft Resume"
+       title: "Due At 6: Outcomes Homework - Final Brand Statement & Draft Resume"
        color: red
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md"
        lead: ""
@@ -654,7 +654,7 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-        title: "project2"
+        title: "Project 2"
         url: ""
         lead: ""
         support: ""
@@ -732,7 +732,7 @@
         lead: "Andy"
         support: "Juan"
     - "6:00PM":
-       title: "Due At 6: Outcomes Homework: Final Resume"
+       title: "Due At 6: Outcomes Homework - Final Resume"
        color: red
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md"
        lead: ""
@@ -756,7 +756,7 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-        title: "Lab: WDIRadio"
+        title: "Lab: WDI Radio"
         url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
         lead: "Andy"
         support: ""
@@ -768,7 +768,7 @@
         lead: ""
         support: ""
     - "10:00AM - 12:30PM":
-        title: "Lab: WDIRadio"
+        title: "Lab: WDI Radio"
         url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
         lead: "Juan"
         support: ""
@@ -856,7 +856,7 @@
        lead: "John"
        support: "Andy"
     - "2:30PM - 5:00 PM":
-       title: "MongoDB / Mongoose"
+       title: "Mongoose"
        url: "https://github.com/ga-wdi-lessons/mongoose-intro"
        lead: "Juan"
        support: "John"
@@ -873,7 +873,7 @@
        lead: "Andy"
        support: "Juan"
     - "2:30PM - 5:00 PM":
-       title: "MEAN app"
+       title: "Building a MEAN App"
        lead: "John"
        support: "Andy"
   # wk10
@@ -925,24 +925,24 @@
   # Wednesday
   - day:
     - "9:00AM - 10:00PM":
-       title: "Intro Teach Yo Self"
+       title: "Intro: Teach Yo' Self"
        url: ""
        lead: "John"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Teach You Self"
+       title: "Teach Yo' Self"
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "Teach Yo Self"
+       title: "Teach Yo' Self"
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
        lead: ""
        support: ""
   # Thursday
   - day:
     - "9:00AM":
-       title: "README swap"
+       title: "README Swap"
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
        lead: "John"
     - "10:00AM - 12:30PM":
@@ -978,13 +978,6 @@
   # wk11
   # Monday
   - day:
-    - "9:00AM - 5:00PM":
-       title: "Memorial Day: Holiday"
-       url: "https://en.wikipedia.org/wiki/Memorial_Day"
-       lead: ""
-       support: ""
-  # Tuesday
-  - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
@@ -1000,7 +993,7 @@
        url: ""
        lead: "John"
        support: ""
-  # Wednesday
+  # Tuesday
   - day:
     - "9:00AM - 10:00AM":
         title: "Checkpoint 09"
@@ -1017,7 +1010,7 @@
         url: ""
         lead: "John"
         support: "Andy"
-  # Thursday
+  # Wednesday
   - day:
     - "9:00AM - 10:00AM":
         title: "Code Challenge"
@@ -1039,7 +1032,7 @@
         url: ""
         lead: ""
         support: ""
-  # Friday
+  # Thursday
   - day:
     - "09:00AM - 10:00AM":
         title: "Intro Project 4"
@@ -1051,12 +1044,12 @@
         url: ""
         lead: ""
         support: ""
-  # wk12
-  # Monday
+  # Friday
   - day:
     - "9:00AM - 5:00PM":
-       title: "Project 4"
-  # Tuesday
+        title: "Project 4"
+  # wk12
+  # Monday
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
@@ -1069,6 +1062,10 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
+       title: "Project 4"
+  # Tuesday
+  - day:
+    - "9:00AM - 5:00PM":
        title: "Project 4"
   # Wednesday
   - day:
@@ -1086,7 +1083,3 @@
         title: "Presentations"
     - "4:00PM - 5:00PM":
         title: "Final Scrum / Feedback-back"
-  # Buffer
-  - day:
-    - "9:00AM - 10:00AM":
-        title: ""
