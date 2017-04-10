@@ -419,6 +419,10 @@
   # wk05
   # Monday
   - day:
+    - "9:00AM - 5:00PM":
+       title: "Memorial Day"
+       color: "red"
+  - day:
     - "9:00AM":
        title: "Due At 9: Homework"
        color: red
@@ -861,6 +865,14 @@
        lead: "Juan"
        support: "John"
   # Friday
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Independence Day"
+       color: "red"
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Independence Day"
+       color: "red"
   - day:
     - "9:00AM - 10:00PM":
        title: "Slips"
