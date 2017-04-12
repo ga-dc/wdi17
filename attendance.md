@@ -10,7 +10,7 @@ If today begins at 9:00 am, then any attendance taken at 9:01 am will be conside
 
 #### Checkpoints
 
-As not to disrupt their peers, tardy students should wait until the 10 am morning lesson to enter the classrooms. The ONLY exception to this policy is when a checkpoint is being administered. If a student is up to 10 minutes late, they're asked to take the quiz in their assigned classroom. Otherwise, the checkpoint should be completed during lunch and the PR should be submitted no later than 2:30 pm. Tardies will still apply, but credit will be received for taking the checkpoint.
+As not to disrupt their peers, tardy students should wait until the 10 am morning lesson to enter the classrooms. The ONLY exception to this policy is when a checkpoint is being administered. If a student is up to 10 minutes late, they should take the quiz in their assigned classroom. Otherwise, the checkpoint should be completed during lunch and the PR should be submitted no later than 2:30 pm. Tardies will still apply, but credit will be received for taking the checkpoint.
 
 
 ## How To Remember To Check In

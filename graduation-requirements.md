@@ -5,7 +5,7 @@
 - Complete and present each of WDI's four projects
 - Be absent no more than 2 days over the whole course
 - Be tardy no more than 5 days over the whole course
-- Complete 100% of [Outcomes homework](https://github.com/ga-dc-outcomes) throughout programming
+- Complete 100% of [Outcomes homework](https://github.com/ga-dc-outcomes)
 
 > Please reference our [attendance](attendance.md) and [homework](homework-policy.md) policies for more information.
 
