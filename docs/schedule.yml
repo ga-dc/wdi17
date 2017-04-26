@@ -361,7 +361,7 @@
          - Landlord: https://github.com/ga-wdi-exercises/landlord_ruby_no_AR
        lead: ""
        support: ""
-    - "9:00AM - 10:00AM"
+    - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
        lead: ""
