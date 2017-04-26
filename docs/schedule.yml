@@ -216,18 +216,18 @@
     - "9:00AM - 10:00AM":
        title: "Checkpoint 02"
        url: "https://github.com/ga-wdi-exercises/checkpoint-02"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 10-12"
-       support: ""
+       support: "Nayana"
     - "2:30PM - 5:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 2-4"
-       support: ""
+       support: "Adrian"
     - "06:00PM":
        title: "Due At 6: Outcomes Homework - What’s My Brand Worksheet"
        color: red
@@ -245,19 +245,19 @@
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 2-4"
-       support: ""
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 2-4"
-       support: ""
+       support: "Nayana"
   # Wednesday
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 10-12"
-       support: ""
+       support: "Adrian"
     - "2:30PM - 5:00PM":
        title: "Outcomes: The Winning Resume Package"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
@@ -269,14 +269,14 @@
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 10-12"
-       support: ""
+       support: "James"
     - "2:00PM - 3:30PM":
        title: "Project 1 Presentations"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
     - "3:30PM - 5:00PM":
-       title: "Squad Scrum"
+       title: "Squad Scrum / Code Review"
        lead: ""
        support: ""
   # Friday
@@ -291,11 +291,11 @@
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: "https://ga-dc.github.io/slips/"
-       lead: ""
+       lead: "Nayana"
     - "10:00AM - 12:30PM":
        title: "Intro to Ruby"
        url: "https://github.com/ga-wdi-lessons/ruby-intro"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "12:30PM - 1:30PM":
        title: "Campus Lunch"
@@ -303,7 +303,7 @@
     - "2:30PM - 5:00PM":
        title: "Ruby Enums"
        url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
-       lead: ""
+       lead: "James"
        support: ""
   # wk04
   # Monday
