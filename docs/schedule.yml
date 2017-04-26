@@ -12,7 +12,7 @@
        title: "CLI"
        url: "https://github.com/ga-wdi-lessons/cli-intro"
        lead: "Nayana"
-       support: ""
+       support: "Adrian"
   # Tuesday
   - day:
     - "9:00AM - 10:00AM":
@@ -23,12 +23,12 @@
        title: "Git 1"
        url: "https://github.com/ga-wdi-lessons/git-intro"
        lead: "Nayana"
-       support: ""
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "CSS 1"
        url:  "https://github.com/ga-wdi-lessons/css-review"
        lead: "Adrian"
-       support: ""
+       support: "James"
   # Wednesday
   - day:
     - "9:00AM - 10:00AM":
@@ -39,7 +39,7 @@
        title: "CSS 2"
        url: "https://github.com/ga-wdi-lessons/css-flexbox"
        lead: "James"
-       support: ""
+       support: "Nayana"
     - "2:30PM - 5:00PM":
        title: "Intro to Outcomes"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week01"
@@ -92,12 +92,12 @@
        title: "Git 2"
        url:  "https://github.com/ga-wdi-lessons/git-branching"
        lead: "James"
-       support: ""
+       support: "Nayana"
     - "2:30PM - 5:00PM":
        title: "JS Intro"
        url: "https://github.com/ga-wdi-lessons/js-intro"
        lead: "Adrian"
-       support: ""
+       support: "James"
   # wk02
   # Monday
   - day:
