@@ -104,17 +104,17 @@
     - "9:00AM - 10:00AM":
        title: "Checkpoint 01"
        url: "https://github.com/ga-wdi-exercises/checkpoint-01"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Objects and Functions"
        url: "https://github.com/ga-wdi-lessons/js-objects-functions"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "2:30PM - 5:00PM":
        title: "The DOM"
        url: "https://github.com/ga-wdi-lessons/js-dom"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "06:00PM":
        title: "Due At 6: Outcomes Homework - Vision and Goals worksheet"
@@ -127,29 +127,29 @@
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Events"
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Scope, Context & Closures"
        url: "https://github.com/ga-wdi-lessons/js-scope"
-       lead: ""
+       lead: "James"
        support: ""
   # Wednesday
   - day:
     - "9:00AM - 10:00AM":
-       title: "Code Challenge"
+       title: "Lab Intro: ATM"
        url: "https://github.com/ga-wdi-exercises/timer_js"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: ATM"
        url: "https://github.com/ga-wdi-exercises/atm"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Alumni Panel"
@@ -170,28 +170,28 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Review: ATM"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "10:00AM - 12:30PM":
        title: "ES6"
        url: "https://github.com/ga-wdi-lessons/es6"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "2:30PM - 5:00PM":
        title: "OOJS"
        url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
-       lead: ""
+       lead: "James"
        support: ""
   # Friday
   - day:
     - "9:00AM - 10:00AM":
-       title: "Slips"
+       title: "Lab Intro: OOJS"
        url: "https://ga-dc.github.io/slips/"
-       lead: ""
+       lead: "Adrian"
     - "10:00AM - 12:00PM":
        title: "Lab: OOJS"
        url: "https://github.com/ga-wdi-exercises/js-gladiator"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "12:00PM - 12:30PM":
        title: "Squad Scrum: Intro Project 1"
@@ -200,7 +200,7 @@
     - "2:30 - 5:00PM":
        title: "Functional Programming"
        url: "https://github.com/ga-wdi-lessons/functional-programming"
-       lead: ""
+       lead: "James"
        support: ""
     - "5:00PM":
        title: "Due At 5: Homework"
