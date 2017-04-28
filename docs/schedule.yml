@@ -18,7 +18,7 @@
     - "9:00AM - 10:00AM":
        title: "Checkpoint 00"
        url: "https://github.com/ga-wdi-exercises/checkpoint-00"
-       lead: "James"
+       lead: "Adrian"
     - "10:00AM - 12:30PM":
        title: "Git 1"
        url: "https://github.com/ga-wdi-lessons/git-intro"
@@ -33,7 +33,7 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
-       lead: "Adrian"
+       lead: "James"
        support: ""
     - "10:00AM - 12:30PM":
        title: "CSS 2"
