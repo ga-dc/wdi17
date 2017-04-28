@@ -1,8 +1,6 @@
 # Checkpoints
 
-Here's a list of need to know concepts covered in each of the various weeks. Each week, we'll compile a list of everything we absolutely need to know moving forward as web developers. That is not to say that everything else we cover in class isn't important, but the things listed here are the absolute minimum requirements in order to be successful. If you find yourself looking over past weeks and are forgetting or misremembering a concept, you are highly encouraged to make sure to understand them throughout the entirety of the course(and as a developer).
-
-## Week 1
+Here's a list of need-to-know concepts covered in each of the various weeks. We've compiled a list of everything we absolutely need to know moving forward as web developers. That is not to say that everything else we cover in class isn't important, but the things listed here are the absolute minimum requirements in order to be successful. If you find yourself looking over past weeks and are forgetting or misremembering a concept, you are highly encouraged to make sure to understand them throughout the entirety of the course (and as a developer).
 
 ### Javascript
 
@@ -21,8 +19,6 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
 - initialize git repo, make commits in git repo, use branches in git repo
 - execute fork and pull model for git workflow (aka how to submit hw)
 
-## Week 2
-
 ### DOM/jQuery
 
 - link script files to html
@@ -33,7 +29,15 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
 - add an event listener to an element
 - explain what a callback is
 
-## Week 4
+### ES6
+
+- Understand block scoping
+- Using `let` and `const`
+- Use default parameters and arrow functions
+- Use template literals
+- Use destructuring to extract values from objects and arrays
+- Leveraging destructuring for use with spread
+- Understand import/export syntax with modules
 
 ### Ruby
 
@@ -91,8 +95,6 @@ def index
 end
 ```
 
-## Weeks 7-9
-
 ### Angular
 
 - Setting & Applying an Angular module
@@ -111,7 +113,6 @@ end
  - Connecting to Firebase via Angular (angularFire & firebase)
 - **Bonus:** Setting up Angular on Rails
 
-## Weeks 10-11
 
 ### Express
 
@@ -123,15 +124,6 @@ end
 - Explain the relationship between `require` and `module.exports`
 - Understand Node and how it's used with Express
 
-### ES6
-
-- Understand block scoping
-- Using `let` and `const`
-- Use default parameters and arrow functions
-- Use template literals
-- Use destructuring to extract values from objects and arrays
-- Leveraging destructuring for use with spread
-- Understand import/export syntax with modules
 
 ### Mongo/Mongoose
 
