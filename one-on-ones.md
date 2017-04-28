@@ -6,7 +6,7 @@ Students may only sign up for one 1:1 meeting at a time. After that meeting take
 
 #### Sign-Up Links
 - [Nayana (Monday)](https://calendar.google.com/calendar/selfsched?sstoken=UU4tenFVdExlLWlKfGRlZmF1bHR8NzNhM2MyNTIzNTU1NzU4OTkzMDg5NDQ0ZTk2YWVhODA)
-- [Adrian (Tuesday)](https://calendar.google.com/calendar/selfsched?sstoken=UVBlR2ZOcFVYMFo5fGRlZmF1bHR8ZjVlNGQyYTY0MjIwMjNhNTE0N2NlNWFkMDcwN2NkODk)
+- [Adrian (Tuesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUN2RE1UVmZqZGJafGRlZmF1bHR8YTkzYWIyOWE3OTZhY2JjMDU1NTM1NGNiYzAzODMxNzA)
 - [James (Wednesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUFPVktPMnkzNjBUfGRlZmF1bHR8YTE1ZTUzMzZkYmEyY2EwNzUwOTNjM2I5OTI4YWFlM2Q)
 
 They're a safe space to talk about literally anything. One-on-Ones might include:
