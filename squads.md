@@ -7,9 +7,9 @@ Each student will be assigned a squad. Each squad is led by an instructor and wi
   - Tedla Alemu
   - Tim Chase
   - Danielle Fricke
-  - Fitssum Haile
 
 ## James
+  - Fitssum Haile
   - Curry Lee
   - Robert Lowe
   - Tarik Kazanci
