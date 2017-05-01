@@ -686,36 +686,36 @@
   # Friday
   - day:
     - "9:00AM - 10:00AM":
-       title: "Slips"
+       title: "Code Challenge"
        url: "https://ga-dc.github.io/slips/"
-       lead: ""
+       lead: "Nayana"
     - "10:00AM - 12:30PM":
         title: "Angular: UI Router"
         url: "https://github.com/ga-wdi-lessons/angular-routing"
-        lead: ""
+        lead: "Nayana"
         support: ""
     - "2:30PM - 5:00PM":
         title: "APIs and AJAX"
         url: "https://github.com/ga-wdi-lessons/js-ajax"
-        lead: ""
+        lead: "James"
         support: ""
   # wk08
   # Monday
   - day:
     - "9:00AM - 10:00AM":
-        title: "Checkpoint 07"
+        title: "Review"
         url: "https://github.com/ga-wdi-exercises/checkpoint-03"
-        lead: ""
+        lead: "James"
         support: ""
     - "10:00AM - 12:30PM":
         title: "Angular: Resources"
         url: "https://github.com/ga-wdi-lessons/angular-resources"
-        lead: ""
+        lead: "Adrian"
         support: ""
     - "2:30PM - 5:00PM":
         title: "Rails API"
         url: "https://github.com/ga-wdi-lessons/rails-api"
-        lead: ""
+        lead: "Nayana"
         support: ""
     - "6:00PM":
        title: "Due At 6: Outcomes Homework - Final Resume"
@@ -737,31 +737,31 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
+       title: "Lab: WDI Radio"
+       url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
+       lead: "Adrian"
+       support: ""
+    - "2:30PM - 5:00PM":
        title: "Outcomes: Sharing Your Talents"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week08"
        lead: ""
        support: ""
-    - "2:30PM - 5:00PM":
-        title: "Lab: WDI Radio"
-        url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
-        lead: ""
-        support: ""
   # Wednesday
   - day:
     - "9:00AM - 10:00AM":
-        title: "Code Challenge"
+        title: "Checkpoint"
         url: ""
-        lead: ""
+        lead: "Nayana"
         support: ""
     - "10:00AM - 12:30PM":
         title: "Lab: WDI Radio"
         url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
-        lead: ""
+        lead: "Adrian"
         support: ""
     - "2:30PM - 4:30PM":
         title: "Git Workflows"
         url: ""
-        lead: ""
+        lead: "James"
         support: ""
     - "4:30PM - 5:00PM":
         title: "Squad Scrum"
@@ -771,7 +771,7 @@
   # Thursday
   - day:
     - "9:00AM - 5:00PM":
-        title: "Project 3"
+        title: "Project 3: Intro"
         url: ""
         lead: ""
         support: ""
