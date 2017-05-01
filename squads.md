@@ -13,7 +13,6 @@ Each student will be assigned a squad. Each squad is led by an instructor and wi
   - Curry Lee
   - Robert Lowe
   - Tarik Kazanci
-  - Sanjay Persaud
 
 ## Nayana
   - Mark Moeller
