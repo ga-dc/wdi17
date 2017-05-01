@@ -987,41 +987,26 @@
        support: ""
   # Tuesday
   - day:
-    - "9:00AM - 5:00PM":
+    - "9:00AM - 4:30PM":
         title: "Sweet Libs"
         url: ""
         lead: "Adrian"
         support: ""
+    - "4:30PM - 5:00PM":
+        title: "Squad Scrum: Project 4 Intro"
+        url: ""
+        lead: ""
+        support: ""
   # Wednesday
   - day:
-    - "9:00AM - 10:00AM":
-        title: "Code Challenge"
-        url: ""
-        lead: ""
-        support: ""
-    - "10:00AM - 12:30PM":
-        title: "Lab: React Redux"
-        url: ""
-        lead: ""
-        support: ""
-    - "2:30PM - 4:30PM":
-        title: "Lab: React Redux"
-        url: ""
-        lead: ""
-        support: ""
-    - "4:30PM - 5:00PM":
-        title: "Squad Scrum"
+    - "9:00AM - 5:00PM":
+        title: "Project 4"
         url: ""
         lead: ""
         support: ""
   # Thursday
   - day:
-    - "09:00AM - 10:00AM":
-        title: "Intro Project 4"
-        url: ""
-        lead: ""
-        support: ""
-    - "10:00AM - 5:00PM":
+    - "9:00AM - 5:00PM":
         title: "Project 4"
         url: ""
         lead: ""
@@ -1040,19 +1025,6 @@
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 4"
-  # Tuesday
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "Project 4"
-  # Wednesday
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "Project 4"
-  # Thursday
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "Project 4"
-  # Friday
   - day:
     - "9:00AM - 12:30PM":
         title: "Project 4"
