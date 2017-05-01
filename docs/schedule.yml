@@ -988,15 +988,15 @@
   # Tuesday
   - day:
     - "9:00AM - 4:30PM":
-        title: "Sweet Libs"
-        url: ""
-        lead: "Adrian"
-        support: ""
+       title: "Sweet Libs"
+       url: ""
+       lead: "Adrian"
+       support: ""
     - "4:30PM - 5:00PM":
-        title: "Squad Scrum: Project 4 Intro"
-        url: ""
-        lead: ""
-        support: ""
+       title: "Squad Scrum: Project 4 Intro"
+       url: ""
+       lead: ""
+       support: ""
   # Wednesday
   - day:
     - "9:00AM - 5:00PM":
@@ -1032,3 +1032,6 @@
         title: "Presentations"
     - "4:00PM - 5:00PM":
         title: "Final Scrum / Feedback-back"
+  - day:
+    - "9:00AM - 5:00PM":
+        title: "No Class"
