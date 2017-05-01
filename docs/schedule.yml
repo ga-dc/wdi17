@@ -13,6 +13,11 @@
        url: "https://github.com/ga-wdi-lessons/cli-intro"
        lead: "Nayana"
        support: "Adrian"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       url: ""
+       lead: "James"
+       support: ""
   # Tuesday
   - day:
     - "9:00AM - 10:00AM":
@@ -29,6 +34,11 @@
        url:  "https://github.com/ga-wdi-lessons/css-review"
        lead: "Adrian"
        support: "James"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Nayana"
+       support: ""
   # Wednesday
   - day:
     - "9:00AM - 10:00AM":
@@ -44,6 +54,11 @@
        title: "Intro to Outcomes"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week01"
        lead: ""
+       support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Adrian"
        support: ""
   # Thursday
   - day:
@@ -607,7 +622,7 @@
        lead: "Open Office Hours 10-12"
        support: "James"
   # Friday
-  - day:    
+  - day:
     - "9:00AM - 5:00PM":
        title: "Project Office Hours"
        url: "https://github.com/ga-wdi-exercises/project2"
