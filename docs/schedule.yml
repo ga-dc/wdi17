@@ -833,18 +833,18 @@
   # Thursday
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
-       lead: ""
+       title: "Slips"
+       lead: "James"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Express Intro"
        url: "https://github.com/ga-wdi-lessons/express-intro"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Mongoose"
        url: "https://github.com/ga-wdi-lessons/mongoose-intro"
-       lead: ""
+       lead: "Nayana"
        support: ""
   # Friday
   - day:
