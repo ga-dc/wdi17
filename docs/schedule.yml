@@ -857,14 +857,14 @@
        color: "red"
   - day:
     - "9:00AM - 10:00PM":
-       title: "Slips"
+       title: "Outcomes Prep"
        url: "https://ga-dc.github.io/slips"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Express with Mongoose"
        url: "https://github.com/ga-wdi-lessons/express-mongoose"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Outcomes: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)"
@@ -876,16 +876,16 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 08"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Building a MEAN App"
-       lead: ""
+       lead: "James"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: MEAN"
        url: "https://github.com/ga-wdi-exercises/mean-lab"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "6:00PM":
        title: "Due at 6pm: Outcomes HW: Final GA Profile"
@@ -896,18 +896,18 @@
   # Tuesday
   - day:
     - "9:00AM - 10:00AM":
-       title: "Outcomes Prep"
+       title: "Slips"
        url: ""
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: MEAN"
        url: "https://github.com/ga-wdi-exercises/mean-lab"
-       lead: ""
+       lead: "Adrian"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Web Sockets"
-       url: ""
+       url: "Nayana"
        lead: ""
        support: ""
     - "5:00PM":
