@@ -907,8 +907,8 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "Web Sockets"
-       url: "Nayana"
-       lead: ""
+       url: ""
+       lead: "Nayana"
        support: ""
     - "5:00PM":
        title: "Due At 5: MEAN Lab"
@@ -919,50 +919,48 @@
   # Wednesday
   - day:
     - "9:00AM - 10:00PM":
-       title: "Intro: Teach Yo' Self"
-       url: ""
+       title: "Code Challenge"
+       url: "James"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Teach Yo' Self"
-       url: "https://github.com/ga-wdi-exercises/sweet-libs"
-       lead: ""
+       title: "React: Intro"
+       url: "https://github.com/ga-wdi-lessons/react-intro"
+       lead: "Nayana"
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "Teach Yo' Self"
-       url: "https://github.com/ga-wdi-exercises/sweet-libs"
-       lead: ""
+       title: "Lab: Component Extravaganza"
+       url: "https://github.com/ga-wdi-exercises/component-extravaganza"
+       lead: "Nayana"
        support: ""
   # Thursday
   - day:
-    - "9:00AM":
-       title: "README Swap"
-       url: "https://github.com/ga-wdi-exercises/sweet-libs"
-       lead: ""
+    - "9:00AM-10:00AM":
+       title: "Review"
+       url: ""
+       lead: "James"
+       support: ""
     - "10:00AM - 12:30PM":
-       title: "React 1"
-       url: "https://github.com/ga-wdi-lessons/react-intro"
-       lead: ""
+       title: "React: Continued"
+       url: "https://github.com/ga-wdi-lessons/react-continued"
+       lead: "Adrian"
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "Lab: React Components"
-       lead: ""
+       title: "React Router"
+       url: ""
+       lead: "James"
        support: ""
-       url: "https://github.com/ga-wdi-exercises/component-extravaganza"
-    - "5:00 PM":
-       title: "Due At 5: Lab"
-       color: red
   # Friday
   - day:
     - "9:00AM - 10:00AM":
-        title: "Slips"
+        title: "Outcomes Prep"
         url: ""
         lead: ""
         support: ""
     - "10:00AM - 12:30AM":
-        title: "React 2"
-        url: "https://github.com/ga-wdi-lessons/react-continued"
-        lead: ""
+        title: "Lab: React Router"
+        url: ""
+        lead: "James"
         support: ""
     - "2:30PM - 5:00 PM":
        title: "Outcomes: Cracking the Technical Interview"
@@ -973,36 +971,26 @@
   # Monday
   - day:
     - "9:00AM - 10:00AM":
-       title: "Outcomes Prep"
+       title: "Checkpoint"
        url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "React Router"
+       title: "Redux"
        url: ""
-       lead: ""
+       lead: "James"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Lab: React Router"
+       title: "Lab: Redux"
        url: ""
-       lead: ""
+       lead: "Nayana"
        support: ""
   # Tuesday
   - day:
-    - "9:00AM - 10:00AM":
-        title: "Checkpoint 09"
+    - "9:00AM - 5:00PM":
+        title: "Sweet Libs"
         url: ""
-        lead: ""
-        support: ""
-    - "10:00AM - 12:30PM":
-        title: "React Redux 1"
-        url: ""
-        lead: ""
-        support: ""
-    - "2:30PM - 5:00PM":
-        title: "React Redux 2"
-        url: ""
-        lead: ""
+        lead: "Adrian"
         support: ""
   # Wednesday
   - day:
