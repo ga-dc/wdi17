@@ -11,7 +11,7 @@
 |Ctrl + U|  Clears the line before the cursor position. If you are at the end of the line, clears the entire line.
 |Ctrl + H|  Same as backspace
 |Ctrl + R|  Let’s you search through previously used commands
-|Ctrl + C|  Kill whatever you are running
+|Ctrl + C|  Kill current active process
 |Ctrl + D|  Exit the current shell
 |Ctrl + Z|  Puts whatever you are running into a suspended background process. fg restores it.
 |Ctrl + W|  Delete the word before the cursor
@@ -50,16 +50,17 @@ try them outside of Atom!
 
 | Shortcut | Action |
 |----------|--------|
-| ⌘ + click | Create a new cursor where you clicked |
-| ⇧ + ⌃ + Up/Down | Create a new cursor above below the current one |
+| ⌘ + click | Create a new cursor where you clicked; press **ESC** to go back to a single cursor |
+| ⇧ + ⌃ + Up/Down | Create a new cursor above/below the current cursor position |
 
 #### Selection
 
 | Shortcut | Action |
 |----------|--------|
 | ⌘ + l | Select the current (l)ine. Press again to select the next line |
-| ⌘ + d | Select the current wor(d). Press again to select the next instance of that word |
-| ⌘ + ⌃ + g | Select all instances of the current word |
+| ⌘ + d | Select other instances of the current selection |
+| ⌘ + ⌃ + g | Select all instances of the current word/selection |
+| ⌘ + ⇧ + d | Duplicate current seleciton |
 
 #### Text Manipulation
 
@@ -74,7 +75,7 @@ try them outside of Atom!
 
 | Shortcut | Action |
 |----------|--------|
-| ⌘ + , | Open preferences |
+| ⌘ + , | Open settings/preferences |
 | ⌃ + g | Go to line |
 | ⌘ + p | Go to file |
 | ⌘ + r | Go to symbol |
@@ -82,7 +83,7 @@ try them outside of Atom!
 | ⌘ + ⌥ + Left/Right | Toggle Files/Tabs | 
 | ⌘ + w | Close Current Window/File if Saved |
 | ⌘ + s | Save current file |
-| ⌘ + ] | Tab Right | 
-| ⌘ + [ | Tab Left |
+| ⌘ + ⇧ + } | Tab Right | (Works in Chrome)
+| ⌘ + ⇧ + { | Tab Left | (Works in Chrome)
 | ⌘ + z | Undo Change |
 | ⌘ + y | Redo Change |
