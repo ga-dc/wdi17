@@ -134,7 +134,7 @@
        lead: "Adrian"
        support: ""
     - "06:00PM":
-       title: "Due At 6: Outcomes Homework - Vision and Goals worksheet"
+       title: "Due At 6: Outcomes - Vision and Goals Worksheet"
        color: red
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week02/HWWeek2.md"
        lead: ""
@@ -245,7 +245,7 @@
        lead: "Open Office Hours 2-4"
        support: "Adrian"
     - "06:00PM":
-       title: "Due At 6: Outcomes Homework - What’s My Brand Worksheet"
+       title: "Due At 6: Outcomes - What’s My Brand Worksheet"
        color: red
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md"
        lead: ""
@@ -346,9 +346,9 @@
        lead: "Nayana"
        support: ""
     - "6:00PM":
-       title: "Due At 6: Outcomes Homework - Update Resume and LinkedIn"
+       title: "Due At 6: Draft Brand Statement"
        color: red
-       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week04/HWweek4WDI14.md"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md"
        lead: ""
        support: ""
   # Tuesday
@@ -465,9 +465,9 @@
        lead: "Adrian"
        support: ""
     - "6:00PM":
-       title: "Due At 6: Outcomes Homework - Draft Brand Statement"
+       title: "Due At 6: Final Brand Statement + Draft Resume"
        color: red
-       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md"
        lead: ""
        support: ""
   # Tuesday
@@ -567,9 +567,9 @@
        lead: "Nayana"
        support: ""
     - "06:00PM":
-       title: "Due At 6: Outcomes Homework - Final Brand Statement & Draft Resume"
+       title: "Due At 6: Review And Research"
        color: red
-       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/ReviewandResearch.md"
        lead: ""
        support: ""
   # Tuesday
@@ -638,9 +638,9 @@
        lead: "Open Office Hours 10-12"
        support: "James"
     - "6:00PM":
-       title: "Due at 6pm: Outcomes HW: Final LinkedIn Profile"
+       title: "Due At 6: Outcomes - Draft Cover Letter"
        color: red
-       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/HWWeek7.md"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/Coverletters.md"
        lead: ""
        support: ""
   # Tuesday
@@ -734,7 +734,7 @@
         lead: "Nayana"
         support: ""
     - "6:00PM":
-       title: "Due At 6: Outcomes Homework - Final Resume"
+       title: "Due At 6: Outcomes - Final Resume & LinkedIn"
        color: red
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md"
        lead: ""
@@ -807,9 +807,9 @@
         lead: ""
         support: ""
     - "6:00PM":
-       title: "Due at 6pm: Outcomes HW: Draft GA Profile"
+       title: "Due At 6: Outcomes - Final GA Profile"
        color: red
-       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md"
        lead: ""
        support: ""
   # Tuesday
@@ -904,9 +904,9 @@
        lead: "Adrian"
        support: ""
     - "6:00PM":
-       title: "Due at 6pm: Outcomes HW: Final GA Profile"
+       title: "Due At 6: Outcomes - Draft Portfolio"
        color: red
-       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/DraftPortfolio.md"
        lead: ""
        support: ""
   # Tuesday
