@@ -275,8 +275,8 @@
        lead: "Open Office Hours 10-12"
        support: "Adrian"
     - "2:30PM - 5:00PM":
-       title: "Outcomes: The Winning Resume Package"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
+       title: "Outcomes: Finding Your Voice And Defining Your Brand"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
        lead: ""
        support: ""
   # Thursday
@@ -388,8 +388,8 @@
        lead: "Adrian"
        support: ""
     - "2:30PM - 4:30PM":
-       title: "Outcomes: Finding Your Voice and Defining Your Brand"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
+       title: "Outcomes: The Winning Resume Package"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
        lead: ""
        support: ""
     - "4:30PM - 5:00PM":
@@ -483,8 +483,8 @@
        lead: "Adrian"
        support: ""
     - "2:30PM - 4:30PM":
-       title: "Outcomes: Studio Tour"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
+       title: "Outcomes: Defining Your Job Search Requirements"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06"
        lead: ""
        support: ""
     - "4:30PM - 5:00PM":
@@ -591,8 +591,8 @@
        lead: "Nayana"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes: Defining Your Job Search Requirements"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06"
+       title: "Outcomes: Studio Tour"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
        lead: ""
        support: ""
   # Wednesday
@@ -883,8 +883,8 @@
        lead: "Nayana"
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "Outcomes: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10"
+       title: "Outcomes: Catch Your Breath and Regroup"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week09"
        lead: ""
        support: ""
   # wk10
@@ -1032,8 +1032,8 @@
     - "9:00AM - 2:30PM":
         title: "Project 4"
     - "2:30PM - 5:00PM":
-       title: "Outcomes: Qualification Check-in"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week12/WDI"
+       title: "Outcomes: Ask The Experts Panel"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10"
        lead: ""
        support: ""
   # wk12
