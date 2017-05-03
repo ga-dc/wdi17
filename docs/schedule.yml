@@ -69,6 +69,7 @@
          - To Oz: https://github.com/ga-wdi-exercises/to_oz
          - Haiku: https://github.com/ga-wdi-exercises/haiku
          - Wendy Bite: https://github.com/ga-wdi-exercises/wendy_bite
+         - AirBnB: https://github.com/ga-wdi-exercises/css-airbnb
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
@@ -178,7 +179,6 @@
        title: "Due At 9: Homework"
        color: red
        url:
-          - AirBnB: https://github.com/ga-wdi-exercises/css-airbnb
           - JS Calculator: https://github.com/ga-wdi-exercises/js-calculator
           - Choose Your Own Adventure: https://github.com/ga-wdi-exercises/choose_your_own_adventure_js
           - PixartJS: https://github.com/ga-wdi-exercises/pixart_js
