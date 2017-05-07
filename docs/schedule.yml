@@ -127,12 +127,12 @@
        title: "Objects and Functions"
        url: "https://github.com/ga-wdi-lessons/js-objects-functions"
        lead: "Nayana"
-       support: ""
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "The DOM"
        url: "https://github.com/ga-wdi-lessons/jquery-dom"
        lead: "Adrian"
-       support: ""
+       support: "James"
     - "06:00PM":
        title: "Due At 6: Outcomes - Vision and Goals Worksheet"
        color: red
@@ -150,12 +150,12 @@
        title: "Events"
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
        lead: "Nayana"
-       support: ""
+       support: "Adrian"
     - "2:30PM - 5:00PM":
        title: "Scope, Context & Closures"
        url: "https://github.com/ga-wdi-lessons/js-scope"
        lead: "James"
-       support: ""
+       support: "Adrian"
   # Wednesday
   - day:
     - "9:00AM - 10:00AM":
@@ -192,12 +192,12 @@
        title: "ES6"
        url: "https://github.com/ga-wdi-lessons/es6"
        lead: "Adrian"
-       support: ""
+       support: "Nayana"
     - "2:30PM - 5:00PM":
        title: "OOJS"
        url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
        lead: "James"
-       support: ""
+       support: "Adrian"
   # Friday
   - day:
     - "9:00AM - 10:00AM":
@@ -217,7 +217,7 @@
        title: "Functional Programming"
        url: "https://github.com/ga-wdi-lessons/functional-programming"
        lead: "James"
-       support: ""
+       support: "Nayana"
     - "5:00PM":
        title: "Due At 5: Homework"
        color: red
