@@ -131,7 +131,7 @@
     - "2:30PM - 5:00PM":
        title: "The DOM"
        url: "https://github.com/ga-wdi-lessons/jquery-dom"
-       lead: "Adrian"
+       lead: "Nayana"
        support: "James"
     - "06:00PM":
        title: "Due At 6: Outcomes - Vision and Goals Worksheet"
@@ -149,8 +149,8 @@
     - "10:00AM - 12:30PM":
        title: "Events"
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
-       lead: "Nayana"
-       support: "Adrian"
+       lead: "Adrian"
+       support: "Nayana"
     - "2:30PM - 5:00PM":
        title: "Scope, Context & Closures"
        url: "https://github.com/ga-wdi-lessons/js-scope"
@@ -160,7 +160,7 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Lab Intro: ATM"
-       url: "https://github.com/ga-wdi-exercises/timer_js"
+       url: "https://github.com/ga-wdi-exercises/atm"
        lead: "Nayana"
        support: ""
     - "10:00AM - 12:30PM":
