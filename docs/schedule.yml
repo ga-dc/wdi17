@@ -202,7 +202,7 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Lab Intro: OOJS"
-       url: "https://ga-dc.github.io/slips/"
+       url: "https://github.com/ga-wdi-exercises/js-gladiator"
        lead: "Adrian"
     - "10:00AM - 12:00PM":
        title: "Lab: OOJS"
