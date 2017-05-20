@@ -356,7 +356,7 @@
   - day:
     - "9:00AM":
        title: "Code Challenge"
-       lead: "Adrian"
+       lead: "Nayana"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Ruby OOP 2"
@@ -408,7 +408,7 @@
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
        url: ""
-       lead: "Nayana"
+       lead: "Adrian"
     - "10:00AM - 12:30PM":
        title: "Domain Modeling & SQL"
        url: "https://github.com/ga-wdi-lessons/sql-intro"
