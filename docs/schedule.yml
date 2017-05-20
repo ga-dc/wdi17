@@ -345,7 +345,7 @@
        title: "Ruby OOP 1"
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
        lead: "Nayana"
-       support: ""
+       support: "Adrian"
     - "6:00PM":
        title: "Due At 6: Draft Brand Statement"
        color: red
@@ -362,7 +362,7 @@
        title: "Ruby OOP 2"
        url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
        lead: "Nayana"
-       support: ""
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "Lab: Ruby CLI"
        url: "https://github.com/ga-wdi-exercises/ruby-cli-lab"
@@ -413,12 +413,12 @@
        title: "Domain Modeling & SQL"
        url: "https://github.com/ga-wdi-lessons/sql-intro"
        lead: "Adrian"
-       support: ""
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "Active Record"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
        lead: "Nayana"
-       support: ""
+       support: "Adrian"
   # Friday
   - day:
     - "9:00AM - 10:00AM":
@@ -429,12 +429,12 @@
        title: "Sinatra 1"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "James"
-       support: ""
+       support: "Adrian"
     - "2:30PM - 5:00PM":
        title: "Sinatra 2"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "James"
-       support: ""
+       support: "Nayana"
   # wk05
   # Monday
   - day:
