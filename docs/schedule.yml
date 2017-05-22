@@ -336,7 +336,7 @@
        lead: "James"
        support: ""
     - "12:30PM":
-       title: "Due At 12:30: Lab"
+       title: "Due At 5:00: Lab"
        color: red
        url: "https://github.com/ga-wdi-exercises/state_capitals"
        lead: ""
