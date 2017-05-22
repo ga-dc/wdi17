@@ -336,7 +336,7 @@
        lead: "James"
        support: ""
     - "12:30PM":
-       title: "Due At 5:00: Lab"
+       title: "Ruby Enums Lab Due At 5:00"
        color: red
        url: "https://github.com/ga-wdi-exercises/state_capitals"
        lead: ""
