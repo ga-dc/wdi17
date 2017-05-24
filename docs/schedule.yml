@@ -370,14 +370,6 @@
        support: ""
   # Wednesday
   - day:
-    - "9:00AM":
-       title: "Due At 9: Homework"
-       color: red
-       url:
-         - High Card: https://github.com/ga-wdi-exercises/high_card
-         - Landlord: https://github.com/ga-wdi-exercises/landlord_ruby_no_AR
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
@@ -388,13 +380,9 @@
        url: "https://github.com/ga-wdi-exercises/ruby-cli-lab"
        lead: "Adrian"
        support: ""
-    - "2:30PM - 4:30PM":
+    - "2:30PM - 5:00PM":
        title: "Outcomes: The Winning Resume Package"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
-       lead: ""
-       support: ""
-    - "4:30PM - 5:00PM":
-       title: "Squad Scrum"
        lead: ""
        support: ""
     - "5:00PM":
@@ -405,6 +393,14 @@
        support: ""
   # Thursday
   - day:
+    - "9:00AM":
+       title: "Due At 9: Homework"
+       color: red
+       url:
+         - High Card: https://github.com/ga-wdi-exercises/high_card
+         - Landlord: https://github.com/ga-wdi-exercises/landlord_ruby_no_AR
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
        url: ""
@@ -458,12 +454,16 @@
     - "10:00AM - 12:30PM":
        title: "Sinatra & ActiveRecord"
        url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
-       lead: "James"
+       lead: "Nayana"
        support: ""
-    - "2:30PM - 5:00PM":
+    - "2:30PM - 4:30PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: "Adrian"
+       support: ""
+    - "4:30PM - 5:00PM":
+       title: "Squad Scrum"
+       lead: ""
        support: ""
     - "6:00PM":
        title: "Due At 6: Final Brand Statement + Draft Resume"
