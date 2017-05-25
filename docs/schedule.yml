@@ -407,7 +407,7 @@
        lead: "Adrian"
     - "10:00AM - 12:30PM":
        title: "Domain Modeling & SQL"
-       url: "https://github.com/ga-wdi-lessons/sql-intro"
+       url: "https://git.generalassemb.ly/ga-wdi-lessons/sql-intro"
        lead: "Adrian"
        support: "James"
     - "2:30PM - 5:00PM":
