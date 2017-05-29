@@ -777,7 +777,7 @@
         support: ""
     - "2:30PM - 4:30PM":
         title: "Git Workflows"
-        url: ""
+        url: "https://github.com/ga-wdi-lessons/git-teams"
         lead: "James"
         support: ""
     - "4:30PM - 5:00PM":
