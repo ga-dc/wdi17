@@ -456,14 +456,10 @@
        url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
        lead: "Nayana"
        support: "James"
-    - "2:30PM - 4:30PM":
+    - "2:30PM - 5:00PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: "Adrian"
-       support: ""
-    - "4:30PM - 5:00PM":
-       title: "Squad Scrum"
-       lead: ""
        support: ""
     - "6:00PM":
        title: "Due At 6: Final Brand Statement + Draft Resume"
