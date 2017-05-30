@@ -492,6 +492,12 @@
        title: "Squad Scrum"
        lead: ""
        support: ""
+    - "5:00PM":
+       title: "Due At 5: Lab"
+       color: red
+       url: "https://github.com/ga-wdi-exercises/pokenatra"
+       lead: ""
+       support: ""
   # Wednesday
   - day:
     - "9:00AM":
