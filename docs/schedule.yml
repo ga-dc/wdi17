@@ -1051,6 +1051,43 @@
         title: "Presentations"
     - "4:00PM - 5:00PM":
         title: "Final Scrum / Feedback-back"
+  # Post-WDI
+  # Week 13
+  - day:
+    - "9:00AM - 5:00PM":
+        title: "No Class"
+  - day:
+    - "9:00AM - 5:00PM":
+        title: "No Class"
+  - day:
+    - "2:30PM - 4:30PM":
+        title: "Portfolio Reviews"
+        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week13"
+  - day:
+    - "9:00AM - 5:00PM":
+        title: "No Class"
+  - day:
+    - "10:00AM - 3:30PM":
+        title: "Outcomes Bootcamp"
+        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/Outcomes%20Bootcamp/readme.md"
+  # Week 14
+  - day:
+    - "9:00AM - 5:00PM":
+        title: "No Class"
+  - day:
+    - "9:00AM - 5:00PM":
+        title: "No Class"
+  - day:
+    - "4:00PM - 6:30PM":
+        title: "Student Spotlight"
+        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/Student%20Spotlight/readme.md"
+  - day:
+    - "9:00AM - 5:00PM":
+        title: "No Class"
+  - day:
+    - "9:00AM - 5:00PM":
+        title: "No Class"
+  # Week 15
   - day:
     - "9:00AM - 5:00PM":
         title: "No Class"
