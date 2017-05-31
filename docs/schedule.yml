@@ -562,7 +562,7 @@
     - "10:00AM - 12:30PM":
        title: "Devise & CanCanCan"
        url: 'https://github.com/ga-wdi-lessons/devise'
-       lead: "Adrian"
+       lead: "Nayana"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Rails: Many-to-Many"
