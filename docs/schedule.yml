@@ -525,12 +525,12 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Rails: Views & Controllers"
-       url: "https://github.com/ga-wdi-lessons/rails-views"
+       url: "https://git.generalassemb.ly/ga-wdi-lessons/rails-views"
        lead: "James"
        support: "Nayana"
     - "2:30PM - 5:00PM":
        title: "Rails: Routes & Resources"
-       url: "https://github.com/ga-wdi-lessons/rails-routing"
+       url: "https://git.generalassemb.ly/ga-wdi-lessons/rails-routing"
        lead: "Adrian"
        support: "James"
   # Friday
