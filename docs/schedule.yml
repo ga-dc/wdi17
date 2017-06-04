@@ -549,7 +549,7 @@
        color: "red"
     - "2:30PM - 5:00PM":
        title: "Rails: Sessions, Flash, Validations & Errors"
-       url: "https://github.com/ga-wdi-lessons/rails-sessions-flash-validations-errors"
+       url: "https://git.generalassemb.ly/ga-wdi-lessons/rails-sessions-flash-validations-errors"
        lead: "Adrian"
        support: "James"
   # wk06
