@@ -594,8 +594,8 @@
        lead: "Adrian"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes: Studio Tour"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
+       title: "Outcomes: Preparing for the Interview + Talking Money"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week07"
        lead: ""
        support: ""
   # Wednesday
@@ -654,15 +654,13 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes: Preparing for the Interview & Talking Money"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week07"
-       lead: "Open Office Hours 10-12"
-       support: "Nayana"
+       title: "Outcomes: Studio Tour"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
     - "2:30PM - 5:00PM":
-        title: "Outcomes"
+        title: "Project Office Hours"
         url: ""
-        lead: ""
-        support: ""
+        lead: "Open Office Hours 10-12"
+        support: "Nayana"
   # Wednesday
   - day:
     - "9:00AM - 12:30PM":
