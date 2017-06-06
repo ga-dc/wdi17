@@ -632,6 +632,12 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: "Open Office Hours 10-12"
        support: "Adrian"
+    - "6:00PM":
+       title: "Due At 6: Outcomes - Draft Cover Letter"
+       color: red
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/Coverletters.md"
+       lead: ""
+       support: ""
   # wk07
   # Monday
   - day:
@@ -640,12 +646,6 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: "Open Office Hours 10-12"
        support: "James"
-    - "6:00PM":
-       title: "Due At 6: Outcomes - Draft Cover Letter"
-       color: red
-       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/Coverletters.md"
-       lead: ""
-       support: ""
   # Tuesday
   - day:
     - "9:00AM - 10:00AM":
@@ -716,6 +716,12 @@
         url: "https://github.com/ga-wdi-lessons/js-ajax"
         lead: "James"
         support: ""
+    - "6:00PM":
+       title: "Due At 6: Outcomes - Final Resume & LinkedIn"
+       color: red
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md"
+       lead: ""
+       support: ""
   # wk08
   # Monday
   - day:
@@ -734,12 +740,6 @@
         url: "https://github.com/ga-wdi-lessons/rails-api"
         lead: "Nayana"
         support: ""
-    - "6:00PM":
-       title: "Due At 6: Outcomes - Final Resume & LinkedIn"
-       color: red
-       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md"
-       lead: ""
-       support: ""
   # Tuesday
   - day:
     - "9:00AM":
@@ -799,6 +799,12 @@
         url: ""
         lead: ""
         support: ""
+    - "6:00PM":
+        title: "Due At 6: Outcomes - Final GA Profile"
+        color: red
+        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md"
+        lead: ""
+        support: ""
  # wk09
  # Monday
   - day:
@@ -807,12 +813,6 @@
         url: ""
         lead: ""
         support: ""
-    - "6:00PM":
-       title: "Due At 6: Outcomes - Final GA Profile"
-       color: red
-       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md"
-       lead: ""
-       support: ""
   # Tuesday
   - day:
     - "9:00AM - 10:00AM":
