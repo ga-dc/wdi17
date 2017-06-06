@@ -1021,6 +1021,10 @@
         url: ""
         lead: ""
         support: ""
+    - "6:00PM":
+        title: "Due At 6: Outcomes - Final Materials"
+        color: "red"
+        url: "https://github.com/ga-dc-outcomes/final-materials/blob/master/README.md"
   # Thursday
   - day:
     - "9:00AM - 5:00PM":
