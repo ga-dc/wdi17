@@ -611,7 +611,8 @@
        lead: "Adrian"
        support: ""
     - "02:30PM - 5:00PM":
-       title: "Deployment"
+       title: "Guided Lab: Deployment"
+       url: "https://git.generalassemb.ly/ga-wdi-lessons/rails-deployment"
        lead: "James"
        support: "Adrian"
   # Thursday
