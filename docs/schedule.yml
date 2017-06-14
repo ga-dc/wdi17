@@ -1,7 +1,5 @@
 - "start-date": "2017-05-01"
 - days:
-  # wk01
-  # Monday
   - day:
     - "9:00AM - 12:30PM":
        title: "Intro to WDI"
@@ -18,7 +16,6 @@
        url: ""
        lead: "James"
        support: ""
-  # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 00"
@@ -39,7 +36,6 @@
        url: ""
        lead: "Nayana"
        support: ""
-  # Wednesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
@@ -61,7 +57,6 @@
        url: ""
        lead: "Adrian"
        support: ""
-  # Thursday
   - day:
     - "9:00AM":
        title: "Homework Due"
@@ -98,7 +93,6 @@
        url: "http://md.wdidc.org/#/2016-09-09-squad-scrum.md"
        lead: ""
        support: ""
-  # Friday
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
@@ -115,8 +109,6 @@
        url: "https://github.com/ga-wdi-lessons/js-intro"
        lead: "Adrian"
        support: "James"
-  # wk02
-  # Monday
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 01"
@@ -139,7 +131,6 @@
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week02/HWWeek2.md"
        lead: ""
        support: ""
-  # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
@@ -156,7 +147,6 @@
        url: "https://github.com/ga-wdi-lessons/js-scope"
        lead: "James"
        support: "Adrian"
-  # Wednesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Lab Intro: ATM"
@@ -173,7 +163,6 @@
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week02"
        lead: ""
        support: ""
-  # Thursday
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -198,7 +187,6 @@
        url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
        lead: "James"
        support: "Adrian"
-  # Friday
   - day:
     - "9:00AM - 10:00AM":
        title: "Lab Intro: OOJS"
@@ -227,8 +215,6 @@
           - "Lab: OOJS" : https://github.com/ga-wdi-exercises/js-gladiator
        lead: ""
        support: ""
-  # wk03
-  # Monday
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 02"
@@ -251,7 +237,6 @@
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md"
        lead: ""
        support: ""
-  # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
@@ -268,7 +253,6 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Open Office Hours 2-4"
        support: "Nayana"
-  # Wednesday
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 1"
@@ -280,7 +264,6 @@
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
        lead: ""
        support: ""
-  # Thursday
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 1"
@@ -296,7 +279,6 @@
        title: "Squad Scrum / Code Review"
        lead: ""
        support: ""
-  # Friday
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -322,8 +304,6 @@
        url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
        lead: "James"
        support: ""
-  # wk04
-  # Monday
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 03"
@@ -352,7 +332,6 @@
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md"
        lead: ""
        support: ""
-  # Tuesday
   - day:
     - "9:00AM":
        title: "Code Challenge"
@@ -368,7 +347,6 @@
        url: "https://github.com/ga-wdi-exercises/ruby-cli-lab"
        lead: "Adrian"
        support: ""
-  # Wednesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
@@ -391,7 +369,6 @@
        url: "https://github.com/ga-wdi-exercises/gladiator"
        lead: ""
        support: ""
-  # Thursday
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -415,7 +392,6 @@
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
        lead: "Nayana"
        support: "Adrian"
-  # Friday
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
@@ -431,8 +407,6 @@
        url: "https://git.generalassemb.ly/ga-wdi-lessons/sinatra-rest"
        lead: "James"
        support: "Nayana"
-  # wk05
-  # Monday
   - day:
     - "9:00AM - 5:00PM":
        title: "Memorial Day"
@@ -467,7 +441,6 @@
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md"
        lead: ""
        support: ""
-  # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
@@ -494,7 +467,6 @@
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: ""
        support: ""
-  # Wednesday
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -517,7 +489,6 @@
        url: "https://github.com/ga-wdi-lessons/rails-activerecord"
        lead: "Nayana"
        support: "James"
-  # Thursday
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
@@ -533,7 +504,6 @@
        url: "https://git.generalassemb.ly/ga-wdi-lessons/rails-routing"
        lead: "Adrian"
        support: "James"
-  # Friday
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
@@ -552,8 +522,6 @@
        url: "https://git.generalassemb.ly/ga-wdi-lessons/rails-sessions-flash-validations-errors"
        lead: "Adrian"
        support: "James"
-  # wk06
-  # Monday
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 05"
@@ -575,7 +543,6 @@
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/ReviewandResearch.md"
        lead: ""
        support: ""
-  # Tuesday
   - day:
     - "9:00AM":
        title: "Homework Due"
@@ -598,7 +565,6 @@
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week07"
        lead: ""
        support: ""
-  # Wednesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
@@ -615,7 +581,6 @@
        url: "https://git.generalassemb.ly/ga-wdi-lessons/rails-deployment"
        lead: "James"
        support: "Adrian"
-  # Thursday
   - day:
     - "9:00AM - 10:00AM":
        title: "Project 2: Intro"
@@ -626,7 +591,6 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: "Open Office Hours 10-12"
        support: "James"
-  # Friday
   - day:
     - "9:00AM - 5:00PM":
        title: "Project Office Hours"
@@ -639,15 +603,12 @@
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/Coverletters.md"
        lead: ""
        support: ""
-  # wk07
-  # Monday
   - day:
     - "9:00AM - 5:00PM":
        title: "Project Office Hours"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: "Open Office Hours 10-12"
        support: "James"
-  # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
@@ -662,14 +623,13 @@
     - "2:30PM - 5:00PM":
        title: "Outcomes: Studio Tour"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
-  # Wednesday
   - day:
-    - "9:00AM - 12:30PM":
-        title: "Project 2"
+    - "9:00AM - 3:00PM":
+        title: "Project Deployment Office Hours"
         url: ""
-        lead: "Deployment Clinic 10-12"
-        support: ""
-    - "2:30PM - 4:30PM":
+        lead: "Office Hours 10-12 (Deployment Issues Only)"
+        support: "James"
+    - "3:00PM - 4:30PM":
         title: "Presentations"
         url: ""
         lead: ""
@@ -679,7 +639,6 @@
         url: ""
         lead: ""
         support: ""
-  # Thursday
   - day:
     - "9:00AM":
        title: "Homework Due"
@@ -689,7 +648,7 @@
     - "9:00AM - 10:00AM":
         title: "Slips"
         url: ""
-        lead: ""
+        lead: "Adrian"
         support: ""
     - "10:00AM - 12:30PM":
         title: "Angular: Intro"
@@ -701,7 +660,6 @@
         url: "https://github.com/ga-wdi-exercises/angular-superheroes"
         lead: "James"
         support: ""
-  # Friday
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
@@ -723,8 +681,6 @@
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md"
        lead: ""
        support: ""
-  # wk08
-  # Monday
   - day:
     - "9:00AM - 10:00AM":
         title: "Review"
@@ -741,7 +697,6 @@
         url: "https://github.com/ga-wdi-lessons/rails-api"
         lead: "Nayana"
         support: ""
-  # Tuesday
   - day:
     - "9:00AM":
        title: "Homework Due"
@@ -764,7 +719,6 @@
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week08"
        lead: ""
        support: ""
-  # Wednesday
   - day:
     - "9:00AM - 10:00AM":
         title: "Checkpoint"
@@ -786,14 +740,12 @@
         url: ""
         lead: ""
         support: ""
-  # Thursday
   - day:
     - "9:00AM - 5:00PM":
         title: "Project 3: Intro"
         url: ""
         lead: ""
         support: ""
-  # Friday
   - day:
     - "9:00AM - 5:00PM":
         title: "Project 3"
@@ -806,15 +758,12 @@
         url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md"
         lead: ""
         support: ""
- # wk09
- # Monday
   - day:
     - "9:00AM - 5:00PM":
         title: "Project 3"
         url: ""
         lead: ""
         support: ""
-  # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
@@ -831,7 +780,6 @@
        url: ""
        lead: ""
        support: ""
-  # Wednesday
   - day:
     - "9:00AM - 12:30PM":
         title: "Project 3"
@@ -848,7 +796,6 @@
         url: ""
         lead: ""
         support: ""
-  # Thursday
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
@@ -864,7 +811,6 @@
        url: "https://github.com/ga-wdi-lessons/mongoose-intro"
        lead: "Nayana"
        support: ""
-  # Friday
   - day:
     - "9:00AM - 5:00PM":
        title: "Independence Day"
@@ -895,8 +841,6 @@
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/DraftPortfolio.md"
        lead: ""
        support: ""
-  # wk10
-  # Monday
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 08"
@@ -911,7 +855,6 @@
        url: "https://github.com/ga-wdi-exercises/mean-lab"
        lead: "Adrian"
        support: ""
-  # Tuesday
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
@@ -934,7 +877,6 @@
        lead: ""
        url: "https://github.com/ga-wdi-exercises/mean-lab"
        support: ""
-  # Wednesday
   - day:
     - "9:00AM - 10:00PM":
        title: "Code Challenge"
@@ -951,7 +893,6 @@
        url: "https://github.com/ga-wdi-exercises/component-extravaganza"
        lead: "Nayana"
        support: ""
-  # Thursday
   - day:
     - "9:00AM-10:00AM":
        title: "Review"
@@ -968,7 +909,6 @@
        url: ""
        lead: "James"
        support: ""
-  # Friday
   - day:
     - "9:00AM - 10:00AM":
         title: "Outcomes Prep"
@@ -985,8 +925,6 @@
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI"
        lead: ""
        support: ""
-  # wk11
-  # Monday
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint"
@@ -1003,7 +941,6 @@
        url: ""
        lead: "Nayana"
        support: ""
-  # Tuesday
   - day:
     - "9:00AM - 4:30PM":
        title: "Sweet Libs"
@@ -1015,7 +952,6 @@
        url: ""
        lead: ""
        support: ""
-  # Wednesday
   - day:
     - "9:00AM - 5:00PM":
         title: "Project 4"
@@ -1026,14 +962,12 @@
         title: "Due At 6: Outcomes - Final Materials"
         color: "red"
         url: "https://github.com/ga-dc-outcomes/final-materials/blob/master/README.md"
-  # Thursday
   - day:
     - "9:00AM - 5:00PM":
         title: "Project 4"
         url: ""
         lead: ""
         support: ""
-  # Friday
   - day:
     - "9:00AM - 2:30PM":
         title: "Project 4"
@@ -1042,8 +976,6 @@
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10"
        lead: ""
        support: ""
-  # wk12
-  # Monday
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 4"
@@ -1054,8 +986,6 @@
         title: "Presentations"
     - "4:00PM - 5:00PM":
         title: "Final Scrum / Feedback-back"
-  # Post-WDI
-  # Week 13
   - day:
     - "9:00AM - 5:00PM":
         title: "No Class"
@@ -1073,7 +1003,6 @@
     - "10:00AM - 3:30PM":
         title: "Outcomes Bootcamp"
         url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/Outcomes%20Bootcamp/readme.md"
-  # Week 14
   - day:
     - "9:00AM - 5:00PM":
         title: "No Class"
@@ -1090,7 +1019,6 @@
   - day:
     - "9:00AM - 5:00PM":
         title: "No Class"
-  # Week 15
   - day:
     - "9:00AM - 5:00PM":
         title: "No Class"
