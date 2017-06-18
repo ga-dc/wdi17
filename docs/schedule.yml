@@ -664,17 +664,17 @@
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
        url: ""
-       lead: "James"
+       lead: "Adrian"
     - "10:00AM - 12:30PM":
        title: "Angular: UI Router"
        url: "https://github.com/ga-wdi-lessons/angular-routing"
        lead: "Nayana"
-       support: ""
+       support: "Adrian"
     - "2:30PM - 5:00PM":
        title: "APIs and AJAX"
        url: "https://github.com/ga-wdi-lessons/js-ajax"
-       lead: "Nayana"
-       support: ""
+       lead: "James"
+       support: "Nayana"
     - "6:00PM":
        title: "Due At 6: Outcomes - Final Resume & LinkedIn"
        color: red
@@ -691,12 +691,12 @@
        title: "Angular: Resources"
        url: "https://github.com/ga-wdi-lessons/angular-resources"
        lead: "Adrian"
-       support: ""
+       support: "Nayana"
     - "2:30PM - 5:00PM":
        title: "Rails API"
        url: "https://github.com/ga-wdi-lessons/rails-api"
        lead: "Nayana"
-       support: ""
+       support: "James"
   - day:
     - "9:00AM":
        title: "Homework Due"
@@ -712,7 +712,7 @@
     - "10:00AM - 12:30PM":
        title: "Lab: WDI Radio"
        url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
-       lead: "Adrian"
+       lead: "Nayana"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Sharing Your Talents"
@@ -734,7 +734,7 @@
        title: "Git Workflows"
        url: "https://github.com/ga-wdi-lessons/git-teams"
        lead: "James"
-       support: ""
+       support: "Nayana"
     - "4:30PM - 5:00PM":
        title: "Squad Scrum"
        url: ""
