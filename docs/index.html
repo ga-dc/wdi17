@@ -66,11 +66,11 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.14.1/moment.min.js"></script>
 <script type='text/javascript'>
 var request = new XMLHttpRequest();
-request.open('GET', './schedule.yml', true);
+request.open('GET', './schedule.json', true);
 var context = []
 request.onload = function() {
   if (this.status >= 200 && this.status < 400) {
-    var doc = jsyaml.load(this.response)
+    var doc = JSON.parse(this.response)
     var oi = 0
     var week = []
     for(var i = 0; i < doc[1].days.length; i++){
