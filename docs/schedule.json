@@ -1,8 +1,8 @@
-[{
-    "start-date": "2017-05-01"
-}, {
-    "days": [{
-        "day": [{
+{
+    "start-date": "2017-05-01",
+    "weeks": [
+    [ {
+        "events": [{
             "9:00AM - 12:30PM": {
                 "title": "Intro to WDI",
                 "url": "https://github.com/ga-wdi-lessons/wdi-intro",
@@ -25,7 +25,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint 00",
                 "url": "https://github.com/ga-wdi-exercises/checkpoint-00",
@@ -54,7 +54,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "https://github.com/ga-wdi-exercises/code-challenge-week-0",
@@ -84,7 +84,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM": {
                 "title": "Homework Due",
                 "url": [{
@@ -137,7 +137,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
@@ -159,8 +159,9 @@
                 "support": "James"
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint 01",
                 "url": "https://github.com/ga-wdi-exercises/checkpoint-01",
@@ -191,7 +192,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Outcomes Prep",
                 "url": "",
@@ -214,7 +215,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Lab Intro: ATM",
                 "url": "https://github.com/ga-wdi-exercises/atm",
@@ -237,7 +238,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM": {
                 "title": "Due At 9: Homework",
                 "color": "red",
@@ -273,7 +274,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Lab Intro: OOJS",
                 "url": "https://github.com/ga-wdi-exercises/js-gladiator",
@@ -314,8 +315,9 @@
                 "support": ""
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint 02",
                 "url": "https://github.com/ga-wdi-exercises/checkpoint-02",
@@ -346,7 +348,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Outcomes Prep",
                 "url": "",
@@ -369,7 +371,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 12:30PM": {
                 "title": "Project 1",
                 "url": "https://github.com/ga-wdi-exercises/project1",
@@ -385,7 +387,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 12:30PM": {
                 "title": "Project 1",
                 "url": "https://github.com/ga-wdi-exercises/project1",
@@ -407,7 +409,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM": {
                 "title": "Due At 9: Homework",
                 "color": "red",
@@ -443,8 +445,9 @@
                 "support": ""
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint 03",
                 "url": "https://github.com/ga-wdi-exercises/checkpoint-03",
@@ -483,7 +486,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM": {
                 "title": "Code Challenge",
                 "lead": "Nayana",
@@ -505,7 +508,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Outcomes Prep",
                 "url": "",
@@ -536,7 +539,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM": {
                 "title": "Due At 9: Homework",
                 "color": "red",
@@ -570,7 +573,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Slips",
                 "lead": "Nayana",
@@ -591,15 +594,16 @@
                 "support": "Nayana"
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Memorial Day",
                 "color": "red"
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM": {
                 "title": "Due At 9: Homework",
                 "color": "red",
@@ -643,7 +647,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Outcomes Prep",
                 "url": "",
@@ -680,7 +684,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM": {
                 "title": "Due At 9: Homework",
                 "color": "red",
@@ -712,7 +716,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "lead": "Nayana",
@@ -733,8 +737,9 @@
                 "support": "James"
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "lead": "Nayana",
@@ -761,7 +766,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint 05",
                 "lead": "James",
@@ -791,7 +796,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM": {
                 "title": "Homework Due",
                 "color": "red",
@@ -824,7 +829,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Slips",
                 "url": "",
@@ -847,7 +852,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Project 2: Intro",
                 "lead": "James",
@@ -861,8 +866,9 @@
                 "support": "James"
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project Office Hours",
                 "url": "https://github.com/ga-wdi-exercises/project2",
@@ -879,7 +885,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project Office Hours",
                 "url": "https://github.com/ga-wdi-exercises/project2",
@@ -888,7 +894,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Outcomes Prep",
                 "url": "",
@@ -909,7 +915,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 3:00PM": {
                 "title": "Project Deployment Office Hours",
                 "url": "",
@@ -932,7 +938,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM": {
                 "title": "Homework Due",
                 "color": "red",
@@ -962,8 +968,9 @@
                 "support": ""
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
@@ -993,7 +1000,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Review",
                 "url": "https://github.com/ga-wdi-exercises/checkpoint-03",
@@ -1016,7 +1023,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM": {
                 "title": "Homework Due",
                 "color": "red",
@@ -1049,7 +1056,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint",
                 "url": "",
@@ -1079,7 +1086,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project 3: Intro",
                 "url": "",
@@ -1087,8 +1094,9 @@
                 "support": ""
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project 3",
                 "url": "",
@@ -1105,7 +1113,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project 3",
                 "url": "",
@@ -1114,7 +1122,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Outcomes Prep",
                 "url": "",
@@ -1137,7 +1145,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 12:30PM": {
                 "title": "Project 3",
                 "url": "",
@@ -1160,7 +1168,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Slips",
                 "lead": "James",
@@ -1181,22 +1189,23 @@
                 "support": ""
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Independence Day",
                 "color": "red"
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Independence Day",
                 "color": "red"
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00PM": {
                 "title": "Outcomes Prep",
                 "url": "https://ga-dc.github.io/slips",
@@ -1227,7 +1236,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint 08",
                 "lead": "Adrian",
@@ -1248,7 +1257,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Slips",
                 "url": "",
@@ -1278,8 +1287,9 @@
                 "support": ""
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 10:00PM": {
                 "title": "Code Challenge",
                 "url": "James",
@@ -1302,7 +1312,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM-10:00AM": {
                 "title": "Review",
                 "url": "",
@@ -1325,7 +1335,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Outcomes Prep",
                 "url": "",
@@ -1348,7 +1358,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint",
                 "url": "",
@@ -1371,7 +1381,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 4:30PM": {
                 "title": "Sweet Libs",
                 "url": "",
@@ -1386,8 +1396,9 @@
                 "support": ""
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project 4",
                 "url": "",
@@ -1402,7 +1413,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project 4",
                 "url": "",
@@ -1411,7 +1422,7 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 2:30PM": {
                 "title": "Project 4"
             }
@@ -1424,13 +1435,13 @@
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project 4"
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 12:30PM": {
                 "title": "Project 4"
             }
@@ -1443,74 +1454,71 @@
                 "title": "Final Scrum / Feedback-back"
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "No Class"
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "No Class"
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "2:30PM - 4:30PM": {
                 "title": "Portfolio Reviews",
                 "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week13"
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "No Class"
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "10:00AM - 3:30PM": {
                 "title": "Outcomes Bootcamp",
                 "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/Outcomes%20Bootcamp/readme.md"
             }
         }]
-    }, {
-        "day": [{
+    } ],
+    [ {
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "No Class"
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "No Class"
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "4:00PM - 6:30PM": {
                 "title": "Student Spotlight",
                 "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/Student%20Spotlight/readme.md"
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "No Class"
             }
         }]
     }, {
-        "day": [{
+        "events": [{
             "9:00AM - 5:00PM": {
                 "title": "No Class"
             }
         }]
-    }, {
-        "day": [{
-            "9:00AM - 5:00PM": {
-                "title": "No Class"
-            }
-        }]
-    }]
-}]
+    } ]
+    ]
+}
