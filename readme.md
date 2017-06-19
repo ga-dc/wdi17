@@ -1,9 +1,9 @@
-# ![](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) WDI 16 Syllabus
+# ![](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) WDI 17 Syllabus
 
 ## Administrative
 
 - **[Graduation Requirements](graduation-requirements.md)**
-- [Calendar](https://ga-dc.github.io/wdi16/)
+- [Calendar](https://ga-dc.github.io/wdi17/)
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
 - [One-on-Ones](one-on-ones.md)
@@ -24,10 +24,10 @@
 - Slack
   - You have been invited to three different slack teams:
     - [WDI DC](https://WDI-dc.slack.com) - Our primary slack team
-      - [#wdi16-announcements](https://wdi-dc.slack.com/messages/wdi16-announcements/) - reserved for instructor / staff announcements
-      - [#wdi16-discussion](https://wdi-dc.slack.com/messages/wdi16-discussion/) - for lesson-based questions / discussion and other code-related material
-      - [#wdi16-techsupport](https://wdi-dc.slack.com/messages/wdi16-techsupport/) - where students can assist each other on code-related issues
-      - [#wdi16-random](https://wdi-dc.slack.com/messages/wdi16-random/) - for non-course related discussion
+      - [#wdi17-announcements](https://wdi-dc.slack.com/messages/wdi17-announcements/) - reserved for instructor / staff announcements
+      - [#wdi17-discussion](https://wdi-dc.slack.com/messages/wdi17-discussion/) - for lesson-based questions / discussion and other code-related material
+      - [#wdi17-techsupport](https://wdi-dc.slack.com/messages/wdi17-techsupport/) - where students can assist each other on code-related issues
+      - [#wdi17-random](https://wdi-dc.slack.com/messages/wdi17-random/) - for non-course related discussion
 
 ## FAQs
 
