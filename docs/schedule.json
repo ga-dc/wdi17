@@ -2,6 +2,7 @@
     "start-date": "2017-05-01",
     "weeks": [
     [ {
+        "week": 1,
         "events": [{
             "9:00AM - 12:30PM": {
                 "title": "Intro to WDI",
@@ -161,6 +162,7 @@
         }]
     } ],
     [ {
+        "week": 2,
         "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint 01",
@@ -317,6 +319,7 @@
         }]
     } ],
     [ {
+        "week": 3,
         "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint 02",
@@ -447,6 +450,7 @@
         }]
     } ],
     [ {
+        "week": 4,
         "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint 03",
@@ -596,6 +600,7 @@
         }]
     } ],
     [ {
+        "week": 5,
         "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Memorial Day",
@@ -739,6 +744,7 @@
         }]
     } ],
     [ {
+        "week": 6,
         "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
@@ -868,6 +874,7 @@
         }]
     } ],
     [ {
+        "week": 7,
         "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project Office Hours",
@@ -970,6 +977,7 @@
         }]
     } ],
     [ {
+        "week": 8,
         "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
@@ -1096,6 +1104,7 @@
         }]
     } ],
     [ {
+        "week": 9,
         "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project 3",
@@ -1191,6 +1200,7 @@
         }]
     } ],
     [ {
+        "week": 10,
         "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Independence Day",
@@ -1289,6 +1299,7 @@
         }]
     } ],
     [ {
+        "week": 11,
         "events": [{
             "9:00AM - 10:00PM": {
                 "title": "Code Challenge",
@@ -1398,6 +1409,7 @@
         }]
     } ],
     [ {
+        "week": 12,
         "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project 4",
@@ -1456,6 +1468,7 @@
         }]
     } ],
     [ {
+        "week": 13,
         "events": [{
             "9:00AM - 5:00PM": {
                 "title": "No Class"
@@ -1489,6 +1502,7 @@
         }]
     } ],
     [ {
+        "week": 14,
         "events": [{
             "9:00AM - 5:00PM": {
                 "title": "No Class"
