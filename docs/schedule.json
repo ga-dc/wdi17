@@ -14,7 +14,7 @@
             "2:30PM - 5:00PM": {
                 "title": "CLI",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
@@ -30,7 +30,7 @@
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint: Fundamentals",
                 "url": "",
-                "lead": ""
+                "lead": "Juan"
             }
         }, {
             "10:00AM - 12:30PM": {
@@ -43,7 +43,7 @@
             "2:30PM - 5:00PM": {
                 "title": "Git 1",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
@@ -59,21 +59,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Git 2",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "HTML & CSS",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
@@ -89,14 +89,14 @@
             "9:00AM - 10:00AM": {
                 "title": "Markdown",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "CSS: Flexbox",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
@@ -143,21 +143,21 @@
             "9:00AM - 10:00AM": {
                 "title": "History of JavaScript",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "JS: Data Types and Flow Control",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "JS: Functions and Scope",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }]
@@ -186,21 +186,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint: HTML, CSS, Git",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "JS: Higher-Order Functions",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "JS: Objects and Context",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }]
@@ -208,21 +208,21 @@
         "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "JS: Object-Oriented Programming",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Lab: JS Gladiator",
                 "url": "https://github.com/ga-wdi-exercises/js-gladiator",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
@@ -239,20 +239,20 @@
             "9:00AM - 10:00AM": {
                 "title": "Slips",
                 "url": "https://ga-dc.github.io/slips/",
-                "lead": ""
+                "lead": "John"
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "JS: DOM and JQuery",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30 - 5:00PM": {
                 "title": "JS: Events",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }]
@@ -279,21 +279,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint: JavaScript",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Lab: ATM",
                 "url": "https://github.com/ga-wdi-exercises/atm",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "JS: Model / View Separation",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
@@ -395,21 +395,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30AM": {
                 "title": "Ruby: Data Types and Control Flow",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Ruby: Enumerables",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
@@ -439,7 +439,7 @@
             "2:30PM - 5:00PM": {
                 "title": "Lab: State Capitals",
                 "url": "https://github.com/ga-wdi-exercises/state_capitals",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
@@ -456,21 +456,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Ruby: Object-Oriented Programming 1",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Ruby: Object-Oriented Programming 2",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }]
@@ -484,7 +484,7 @@
                 }, {
                     "Landlord": "https://github.com/ga-wdi-exercises/landlord_ruby_no_AR"
                 }],
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
@@ -497,14 +497,14 @@
             "10:00AM - 12:30PM": {
                 "title": "Lab: Ruby CLI",
                 "url": "https://github.com/ga-wdi-exercises/ruby-cli-lab",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Lab: Ruby CLI",
                 "url": "https://github.com/ga-wdi-exercises/ruby-cli-lab",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }]
@@ -513,21 +513,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Slips",
                 "url": "https://ga-dc.github.io/slips/",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Domain Modeling and SQL",
                 "url": "https://git.generalassemb.ly/ga-wdi-lessons/sql-intro",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Active Record",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }]
