@@ -393,30 +393,22 @@
         "week": 4,
         "events": [{
             "9:00AM - 10:00AM": {
-                "title": "Checkpoint 03",
-                "url": "https://github.com/ga-wdi-exercises/checkpoint-03",
-                "lead": "Adrian",
+                "title": "Code Challenge",
+                "url": "",
+                "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30AM": {
-                "title": "Lab: Ruby Enums",
-                "url": "https://github.com/ga-wdi-exercises/state_capitals",
-                "lead": "James",
+                "title": "Ruby: Data Types and Control Flow",
+                "url": "",
+                "lead": "",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
-                "title": "Ruby OOP 1",
-                "url": "https://github.com/ga-wdi-lessons/ruby-oop",
-                "lead": "Nayana",
-                "support": "Adrian"
-            }
-        }, {
-            "5:00PM": {
-                "title": "Due At 5: Lab",
-                "color": "red",
-                "url": "https://github.com/ga-wdi-exercises/state_capitals",
+                "title": "Ruby: Enumerables",
+                "url": "",
                 "lead": "",
                 "support": ""
             }
@@ -432,52 +424,52 @@
     }, {
         "events": [{
             "9:00AM": {
-                "title": "Code Challenge",
-                "lead": "Nayana",
+                "title": "Outcomes Prep",
+                "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Ruby OOP 2",
-                "url": "https://github.com/ga-wdi-lessons/ruby-oop-inheritance",
-                "lead": "Nayana",
-                "support": "James"
+                "title": "Outcomes",
+                "url": "",
+                "lead": "",
+                "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
-                "title": "Lab: Ruby CLI",
-                "url": "https://github.com/ga-wdi-exercises/ruby-cli-lab",
-                "lead": "Adrian",
+                "title": "Lab: State Capitals",
+                "url": "https://github.com/ga-wdi-exercises/state_capitals",
+                "lead": "",
+                "support": ""
+            }
+        }, {
+            "05:00PM": {
+                "title": "Due At 5: Lab",
+                "color": "red",
+                "url": "https://github.com/ga-wdi-exercises/state_capitals",
+                "lead": "",
                 "support": ""
             }
         }]
     }, {
         "events": [{
             "9:00AM - 10:00AM": {
-                "title": "Outcomes Prep",
+                "title": "Code Challenge",
                 "url": "",
                 "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Lab: Ruby CLI",
-                "url": "https://github.com/ga-wdi-exercises/ruby-cli-lab",
-                "lead": "Adrian",
-                "support": ""
-            }
-        }, {
-            "2:30PM - 5:00PM": {
-                "title": "Outcomes: The Winning Resume Package",
-                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04",
+                "title": "Ruby: Object-Oriented Programming 1",
+                "url": "",
                 "lead": "",
                 "support": ""
             }
         }, {
-            "5:00PM": {
-                "title": "Due At 5: Lab",
-                "color": "red",
-                "url": "https://github.com/ga-wdi-exercises/gladiator",
+            "2:30PM - 5:00PM": {
+                "title": "Ruby: Object-Oriented Programming 2",
+                "url": "",
                 "lead": "",
                 "support": ""
             }
@@ -499,43 +491,44 @@
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
-                "lead": "Adrian"
+                "lead": ""
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Domain Modeling & SQL",
-                "url": "https://git.generalassemb.ly/ga-wdi-lessons/sql-intro",
-                "lead": "Adrian",
-                "support": "James"
+                "title": "Lab: Ruby CLI",
+                "url": "https://github.com/ga-wdi-exercises/ruby-cli-lab",
+                "lead": "",
+                "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
-                "title": "Active Record",
-                "url": "https://github.com/ga-wdi-lessons/activerecord-intro",
-                "lead": "Nayana",
-                "support": "Adrian"
+                "title": "Lab: Ruby CLI",
+                "url": "https://github.com/ga-wdi-exercises/ruby-cli-lab",
+                "lead": "",
+                "support": ""
             }
         }]
     }, {
         "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Slips",
-                "lead": "Nayana",
+                "url": "https://ga-dc.github.io/slips/",
+                "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Sinatra 1",
-                "url": "https://git.generalassemb.ly/ga-wdi-lessons/sinatra-rest",
-                "lead": "James",
-                "support": "Adrian"
+                "title": "Domain Modeling and SQL",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/sql-intro",
+                "lead": "",
+                "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
-                "title": "Sinatra 2",
-                "url": "https://git.generalassemb.ly/ga-wdi-lessons/sinatra-rest",
-                "lead": "James",
-                "support": "Nayana"
+                "title": "Active Record",
+                "url": "",
+                "lead": "",
+                "support": ""
             }
         }]
     } ],
