@@ -813,10 +813,10 @@
         "week": 7,
         "events": [{
             "9:00AM - 5:00PM": {
-                "title": "Project Office Hours",
+                "title": "Project 2",
                 "url": "https://github.com/ga-wdi-exercises/project2",
                 "lead": "Open Office Hours 10-12",
-                "support": "Adrian"
+                "support": ""
             }
         }, {
             "6:00PM": {
@@ -829,46 +829,48 @@
         }]
     }, {
         "events": [{
-            "9:00AM - 5:00PM": {
-                "title": "Project Office Hours",
+          "9:00AM - 10:00AM": {
+              "title": "Outcomes Prep",
+              "url": "",
+              "lead": "",
+              "support": ""
+          }
+        }, {
+          "10:00AM - 12:30PM": {
+              "title": "Outcomes",
+              "url": "",
+              "lead": "",
+              "support": ""
+          }
+        },{
+            "2:30AM - 5:00PM": {
+                "title": "Project 2",
                 "url": "https://github.com/ga-wdi-exercises/project2",
-                "lead": "Open Office Hours 10-12",
-                "support": "James"
+                "lead": "Open Office Hours 2:30-4:30",
+                "support": ""
             }
         }]
     }, {
         "events": [{
-            "9:00AM - 10:00AM": {
-                "title": "Outcomes Prep",
+            "9:00AM - 5:00PM": {
+                "title": "Project 2",
+                "url": "https://github.com/ga-wdi-exercises/project2",
+                "lead": "Open Office Hours 10-12",
+                "support": ""
+            }
+        }]
+    }, {
+        "events": [{
+            "9:00AM - 12:30PM": {
+                "title": "Project 2",
                 "url": "",
-                "lead": "",
+                "lead": "Open Office Hours 10-12",
                 "support": ""
             }
         }, {
-            "10:00AM - 2:30PM": {
-                "title": "Project Office Hours",
-                "url": "",
-                "lead": "Open Office Hours 10-12",
-                "support": "Nayana"
-            }
-        }, {
-            "2:30PM - 5:00PM": {
-                "title": "Outcomes: Studio Tour",
-                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
-            }
-        }]
-    }, {
-        "events": [{
-            "9:00AM - 3:00PM": {
-                "title": "Project Deployment Office Hours",
-                "url": "",
-                "lead": "Office Hours 10-12 (Deployment Issues Only)",
-                "support": "James"
-            }
-        }, {
-            "3:00PM - 4:30PM": {
-                "title": "Presentations",
-                "url": "",
+            "2:00PM - 4:30PM": {
+                "title": "Project 2 Presentations",
+                "url": "https://github.com/ga-wdi-exercises/project2",
                 "lead": "",
                 "support": ""
             }
@@ -886,28 +888,28 @@
                 "title": "Homework Due",
                 "color": "red",
                 "url": [{
-                    "Shaping Up with Angular": "https://www.codeschool.com/courses/shaping-up-with-angular-js"
+                    "Shaping Up with Angular": "https://github.com/ga-wdi-exercises/shaping-up-with-angular"
                 }]
             }
         }, {
             "9:00AM - 10:00AM": {
                 "title": "Slips",
                 "url": "",
-                "lead": "Adrian",
+                "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Angular: Intro",
-                "url": "https://github.com/ga-wdi-lessons/angular-intro",
-                "lead": "Nayana",
+                "url": "",
+                "lead": "",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Lab: Superheroes",
                 "url": "https://github.com/ga-wdi-exercises/angular-superheroes",
-                "lead": "James",
+                "lead": "",
                 "support": ""
             }
         }]
@@ -918,19 +920,19 @@
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
-                "lead": "Adrian"
+                "lead": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Angular: UI Router",
-                "url": "https://github.com/ga-wdi-lessons/angular-routing",
-                "lead": "Nayana",
-                "support": "Adrian"
+                "url": "",
+                "lead": "",
+                "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "APIs and AJAX",
-                "url": "https://github.com/ga-wdi-lessons/js-ajax",
+                "url": "",
                 "lead": "James",
                 "support": "Nayana"
             }
@@ -946,24 +948,24 @@
     }, {
         "events": [{
             "9:00AM - 10:00AM": {
-                "title": "Review",
-                "url": "https://github.com/ga-wdi-exercises/checkpoint-03",
-                "lead": "James",
+                "title": "Outcomes Prep",
+                "url": "",
+                "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Angular: Resources",
-                "url": "https://github.com/ga-wdi-lessons/angular-resources",
-                "lead": "Adrian",
-                "support": "Nayana"
+                "title": "Outcomes",
+                "url": "",
+                "lead": "",
+                "support": ""
             }
         }, {
-            "2:30PM - 5:00PM": {
-                "title": "Rails API",
-                "url": "https://github.com/ga-wdi-lessons/rails-api",
-                "lead": "Nayana",
-                "support": "James"
+            "2:30AM - 5:00PM": {
+                "title": "Angular: Resources",
+                "url": "",
+                "lead": "",
+                "support": ""
             }
         }]
     }, {
@@ -979,60 +981,57 @@
             }
         }, {
             "9:00AM - 10:00AM": {
-                "title": "Outcomes Prep",
+                "title": "Code Challenge",
                 "url": "",
                 "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Lab: WDI Radio",
-                "url": "https://github.com/ga-wdi-exercises/wdi_radio_lab",
-                "lead": "Nayana",
+                "title": "Rails API",
+                "url": "",
+                "lead": "",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
-                "title": "Outcomes: Sharing Your Talents",
-                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week08",
+                "title": "Lab: WDI Radio",
+                "url": "https://github.com/ga-wdi-exercises/wdi_radio_lab",
                 "lead": "",
                 "support": ""
             }
         }]
     }, {
         "events": [{
-            "9:00AM - 10:00AM": {
-                "title": "Checkpoint",
-                "url": "",
-                "lead": "Nayana",
-                "support": ""
-            }
-        }, {
-            "10:00AM - 12:30PM": {
+            "9:00AM - 12:30PM": {
                 "title": "Lab: WDI Radio",
                 "url": "https://github.com/ga-wdi-exercises/wdi_radio_lab",
-                "lead": "Adrian",
+                "lead": "",
                 "support": ""
             }
         }, {
             "2:30PM - 4:30PM": {
                 "title": "Git Workflows",
-                "url": "https://github.com/ga-wdi-lessons/git-teams",
-                "lead": "James",
-                "support": "Nayana"
-            }
-        }, {
-            "4:30PM - 5:00PM": {
-                "title": "Squad Scrum",
                 "url": "",
                 "lead": "",
                 "support": ""
             }
+        }, {
+            "4:30PM - 5:00PM": {
+                "title": "Squad Scrum"
+            }
         }]
     }, {
         "events": [{
-            "9:00AM - 5:00PM": {
-                "title": "Project 3: Intro",
+            "9:00AM - 10:00AM": {
+                "title": "Project 3 Intro",
+                "url": "",
+                "lead": "",
+                "support": ""
+            }
+        }, {
+            "10:00AM - 5:00PM": {
+                "title": "Project 3",
                 "url": "",
                 "lead": "",
                 "support": ""
@@ -1059,15 +1058,6 @@
         }]
     }, {
         "events": [{
-            "9:00AM - 5:00PM": {
-                "title": "Project 3",
-                "url": "",
-                "lead": "",
-                "support": ""
-            }
-        }]
-    }, {
-        "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Outcomes Prep",
                 "url": "",
@@ -1083,6 +1073,15 @@
             }
         }, {
             "2:30PM - 5:00PM": {
+                "title": "Project 3",
+                "url": "",
+                "lead": "",
+                "support": ""
+            }
+        }]
+    }, {
+        "events": [{
+            "9:00AM - 5:00PM": {
                 "title": "Project 3",
                 "url": "",
                 "lead": "",
@@ -1099,7 +1098,7 @@
             }
         }, {
             "2:30PM - 4:30PM": {
-                "title": "Presentations",
+                "title": "Project 3 Presentations",
                 "url": "",
                 "lead": "",
                 "support": ""
@@ -1115,60 +1114,45 @@
     }, {
         "events": [{
             "9:00AM - 10:00AM": {
-                "title": "Slips",
-                "lead": "James",
+                "title": "Node",
+                "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Express Intro",
-                "url": "https://github.com/ga-wdi-lessons/express-intro",
-                "lead": "Adrian",
+                "title": "Express",
+                "url": "",
+                "lead": "",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "Mongoose",
-                "url": "https://github.com/ga-wdi-lessons/mongoose-intro",
-                "lead": "Nayana",
+                "url": "",
+                "lead": "",
                 "support": ""
             }
         }]
     } ],
     [ {
-        "week": 10,
-        "events": [{
-            "9:00AM - 5:00PM": {
-                "title": "Independence Day",
-                "color": "red"
-            }
-        }]
-    }, {
-        "events": [{
-            "9:00AM - 5:00PM": {
-                "title": "Independence Day",
-                "color": "red"
-            }
-        }]
-    }, {
         "events": [{
             "9:00AM - 10:00PM": {
-                "title": "Outcomes Prep",
-                "url": "https://ga-dc.github.io/slips",
+                "title": "Code Challenge",
+                "url": "",
                 "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Express with Mongoose",
-                "url": "https://github.com/ga-wdi-lessons/express-mongoose",
-                "lead": "Nayana",
+                "url": "",
+                "lead": "",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00 PM": {
-                "title": "Outcomes: Catch Your Breath and Regroup",
-                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week09",
+                "title": "Testing in Express",
+                "url": "",
                 "lead": "",
                 "support": ""
             }
@@ -1184,21 +1168,21 @@
     }, {
         "events": [{
             "9:00AM - 10:00AM": {
-                "title": "Checkpoint 08",
-                "lead": "Adrian",
+                "title": "Outcomes Prep",
+                "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Building a MEAN App",
-                "lead": "James",
+                "title": "Outcomes",
+                "lead": "",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
-                "title": "Lab: MEAN",
-                "url": "https://github.com/ga-wdi-exercises/mean-lab",
-                "lead": "Adrian",
+                "title": "Building a MEAN App",
+                "url": "",
+                "lead": "",
                 "support": ""
             }
         }]
@@ -1207,22 +1191,22 @@
             "9:00AM - 10:00AM": {
                 "title": "Slips",
                 "url": "",
-                "lead": "Adrian",
+                "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Lab: MEAN",
                 "url": "https://github.com/ga-wdi-exercises/mean-lab",
-                "lead": "Adrian",
+                "lead": "",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
-                "title": "Web Sockets",
-                "url": "",
-                "lead": "Nayana",
-                "support": ""
+              "title": "Lab: MEAN",
+              "url": "https://github.com/ga-wdi-exercises/mean-lab",
+              "lead": "",
+              "support": ""
             }
         }, {
             "5:00PM": {
@@ -1233,58 +1217,106 @@
                 "support": ""
             }
         }]
-    } ],
-    [ {
-        "week": 11,
+    }, {
         "events": [{
-            "9:00AM - 10:00PM": {
-                "title": "Code Challenge",
-                "url": "James",
+            "9:00AM - 10:00AM": {
+                "title": "Checkpoint: Mongoose and Express",
+                "url": "",
                 "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "React: Intro",
+                "title": "Websockets",
+                "url": "",
+                "lead": "",
+                "support": ""
+            }
+        }, {
+            "2:30PM - 5:00PM": {
+              "title": "Teach Yourself",
+              "url": "",
+              "lead": "",
+              "support": ""
+            }
+        }]
+    }, {
+        "events": [{
+            "9:00AM - 12:30PM": {
+                "title": "Teach Yourself",
+                "url": "",
+                "lead": "",
+                "support": ""
+            }
+        }, {
+            "2:30PM - 5:00PM": {
+                "title": "React: Components",
                 "url": "https://github.com/ga-wdi-lessons/react-intro",
-                "lead": "Nayana",
+                "lead": "",
+                "support": ""
+            }
+        }]
+    } ],
+    [ {
+        "week": 11,
+        "events": [{
+            "9:00AM - 5:00PM": {
+                "title": "No Class",
+                "url": "",
+                "lead": "",
+                "support": ""
+            }
+        }]
+    }, {
+        "events": [{
+            "9:00AM - 10:00PM": {
+                "title": "Outcomes Prep",
+                "url": "",
+                "lead": "",
+                "support": ""
+            }
+        }, {
+            "10:00AM - 12:30PM": {
+                "title": "Outcomes",
+                "url": "",
+                "lead": "",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00 PM": {
-                "title": "Lab: Component Extravaganza",
-                "url": "https://github.com/ga-wdi-exercises/component-extravaganza",
-                "lead": "Nayana",
+                "title": "React: State and Data Flow",
+                "url": "https://github.com/ga-wdi-lessons/react-continued",
+                "lead": "",
                 "support": ""
             }
         }]
     }, {
         "events": [{
             "9:00AM-10:00AM": {
-                "title": "Review",
+                "title": "Code Challenge",
                 "url": "",
-                "lead": "James",
+                "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "React: Continued",
-                "url": "https://github.com/ga-wdi-lessons/react-continued",
-                "lead": "Adrian",
+                "title": "Lab: React Components",
+                "url": "",
+                "lead": "",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "React Router",
                 "url": "",
-                "lead": "James",
+                "lead": "",
                 "support": ""
             }
         }]
     }, {
         "events": [{
             "9:00AM - 10:00AM": {
-                "title": "Outcomes Prep",
+                "title": "Code Challenge",
                 "url": "",
                 "lead": "",
                 "support": ""
@@ -1298,8 +1330,8 @@
             }
         }, {
             "2:30PM - 5:00 PM": {
-                "title": "Outcomes: Cracking the Technical Interview",
-                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI",
+                "title": "React with Redux",
+                "url": "",
                 "lead": "",
                 "support": ""
             }
@@ -1307,43 +1339,27 @@
     }, {
         "events": [{
             "9:00AM - 10:00AM": {
-                "title": "Checkpoint",
+                "title": "Checkpoint: React",
                 "url": "",
                 "lead": "",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Redux",
+                "title": "Lab: Redux",
                 "url": "",
                 "lead": "James",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
-                "title": "Lab: Redux",
-                "url": "",
-                "lead": "Adrian",
-                "support": ""
-            }
-        }]
-    }, {
-        "events": [{
-            "9:00AM - 4:30PM": {
-                "title": "Sweet Libs",
-                "url": "",
-                "lead": "Adrian",
-                "support": ""
-            }
-        }, {
-            "4:30PM - 5:00PM": {
-                "title": "Squad Scrum: Project 4 Intro",
+                "title": "Project 4 Intro",
                 "url": "",
                 "lead": "",
                 "support": ""
             }
         }]
-    } ],
+    }],
     [ {
         "week": 12,
         "events": [{
@@ -1362,22 +1378,32 @@
         }]
     }, {
         "events": [{
-            "9:00AM - 5:00PM": {
-                "title": "Project 4",
-                "url": "",
+            "9:00AM - 10:00AM": {
+              "title": "Project 4",
+              "url": "",
+              "lead": "",
+              "support": ""
+            }
+        }, {
+            "10:00AM - 12:30AM": {
+                "title": "Outcomes: Ask The Experts Panel",
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10",
                 "lead": "",
                 "support": ""
+            }
+        }, {
+            "2:30PM - 5:00PM": {
+              "title": "Project 4",
+              "url": "",
+              "lead": "",
+              "support": ""
             }
         }]
     }, {
         "events": [{
-            "9:00AM - 2:30PM": {
-                "title": "Project 4"
-            }
-        }, {
-            "2:30PM - 5:00PM": {
-                "title": "Outcomes: Ask The Experts Panel",
-                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10",
+            "9:00AM - 5:00PM": {
+                "title": "Project 4",
+                "url": "",
                 "lead": "",
                 "support": ""
             }
