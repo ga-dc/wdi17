@@ -545,21 +545,21 @@
         "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint: Ruby",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Sinatra: MVC",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Sinatra: REST",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
@@ -588,21 +588,21 @@
         }, {
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Sinatra and ActiveRecord",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Lab: Pokenatra",
                 "url": "https://github.com/ga-wdi-exercises/pokenatra",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }]
@@ -611,7 +611,7 @@
             "9:00AM - 12:00PM": {
                 "title": "Lab: Pokenatra",
                 "url": "https://github.com/ga-wdi-exercises/pokenatra",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
@@ -624,7 +624,7 @@
             "2:30PM - 5:00PM": {
                 "title": "Rails: MVC",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
@@ -657,14 +657,14 @@
             "10:00AM - 12:30PM": {
                 "title": "Outcomes: Washington Post Tour",
                 "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Rails: Models and Migrations",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }]
@@ -673,21 +673,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Slips",
                 "url": "https://ga-dc.github.io/slips/",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Rails: Views and Controllers",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Rails: Routes and Resources",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }]
@@ -697,21 +697,21 @@
         "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint: Rails",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Lab: Hogwarts",
                 "url": "https://github.com/ga-wdi-exercises/hogwarts_rails",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Rails: Sessions, Flash, Validations & Errors",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
@@ -749,8 +749,8 @@
             "2:30PM - 5:00PM": {
                 "title": "Rails: Devise and CanCanCan",
                 "url": "",
-                "lead": "Nayana",
-                "support": "Adrian"
+                "lead": "Andy",
+                "support": ""
             }
         }]
     }, {
@@ -766,21 +766,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Rails: Many to Many",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Lab: Game of Thrones",
                 "url": "https://github.com/ga-wdi-exercises/game_of_thrones",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }]
@@ -789,14 +789,14 @@
             "9:00AM - 12:30PM": {
                 "title": "Lab: Game of Thrones",
                 "url": "https://github.com/ga-wdi-exercises/game_of_thrones",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "02:30PM - 5:00PM": {
                 "title": "Guided Lab: Deployment",
                 "url": "https://git.generalassemb.ly/ga-wdi-lessons/rails-deployment",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
@@ -812,7 +812,7 @@
         "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Agile",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
@@ -910,21 +910,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Slips",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Angular: Intro",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Lab: Superheroes",
                 "url": "https://github.com/ga-wdi-exercises/angular-superheroes",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }]
@@ -935,21 +935,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
-                "lead": ""
+                "lead": "John"
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Angular: UI Router",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "APIs and AJAX",
                 "url": "",
-                "lead": "James",
-                "support": "Nayana"
+                "lead": "Juan",
+                "support": ""
             }
         }, {
             "6:00PM": {
@@ -979,7 +979,7 @@
             "2:30AM - 5:00PM": {
                 "title": "Angular: Resources",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }]
@@ -998,21 +998,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Rails API",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Lab: WDI Radio",
                 "url": "https://github.com/ga-wdi-exercises/wdi_radio_lab",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }]
@@ -1021,14 +1021,14 @@
             "9:00AM - 12:30PM": {
                 "title": "Lab: WDI Radio",
                 "url": "https://github.com/ga-wdi-exercises/wdi_radio_lab",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "2:30PM - 4:30PM": {
                 "title": "Git Workflows",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
@@ -1041,7 +1041,7 @@
             "9:00AM - 10:00AM": {
                 "title": "Project 3 Intro",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
@@ -1130,21 +1130,21 @@
         "events": [{
             "9:00AM - 10:00AM": {
                 "title": "Node",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Express",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "Mongoose",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }]
@@ -1155,21 +1155,21 @@
             "9:00AM - 10:00PM": {
                 "title": "Code Challenge",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Express with Mongoose",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "Testing in Express",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
@@ -1199,7 +1199,7 @@
             "2:30PM - 5:00PM": {
                 "title": "Building a MEAN App",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }]
@@ -1208,21 +1208,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Slips",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Lab: MEAN",
                 "url": "https://github.com/ga-wdi-exercises/mean-lab",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
               "title": "Lab: MEAN",
               "url": "https://github.com/ga-wdi-exercises/mean-lab",
-              "lead": "",
+              "lead": "John",
               "support": ""
             }
         }, {
@@ -1239,21 +1239,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint: Mongoose and Express",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Websockets",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
               "title": "Teach Yourself",
               "url": "",
-              "lead": "",
+              "lead": "Juan",
               "support": ""
             }
         }]
@@ -1262,14 +1262,14 @@
             "9:00AM - 12:30PM": {
                 "title": "Teach Yourself",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "React: Components",
                 "url": "https://github.com/ga-wdi-lessons/react-intro",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }]
@@ -1303,7 +1303,7 @@
             "2:30PM - 5:00 PM": {
                 "title": "React: State and Data Flow",
                 "url": "https://github.com/ga-wdi-lessons/react-continued",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }]
@@ -1312,21 +1312,21 @@
             "9:00AM-10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Lab: React Components",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "React Router",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }]
@@ -1335,21 +1335,21 @@
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
-                "lead": "",
+                "lead": "Juan",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30AM": {
                 "title": "Lab: React Router",
                 "url": "",
-                "lead": "James",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "React with Redux",
                 "url": "",
-                "lead": "",
+                "lead": "John",
                 "support": ""
             }
         }]
@@ -1358,14 +1358,14 @@
             "9:00AM - 10:00AM": {
                 "title": "Checkpoint: React",
                 "url": "",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Lab: Redux",
                 "url": "",
-                "lead": "James",
+                "lead": "John",
                 "support": ""
             }
         }, {
