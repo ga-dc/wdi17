@@ -34,8 +34,8 @@
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Intro to Outcomes",
-                "url": "",
+                "title": "Intro to Outcomes / Alumni Panel",
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week01",
                 "lead": "",
                 "support": ""
             }
@@ -168,6 +168,14 @@
             "9:00AM - 5:00PM": {
                 "title": "No Class",
                 "url": "",
+                "lead": "",
+                "support": ""
+            }
+        }, {
+            "6:00PM": {
+                "title": "Due At 6: Outcomes - Vision and Goals Worksheet",
+                "color": "red",
+                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week02/HWWeek2.md",
                 "lead": "",
                 "support": ""
             }
@@ -322,9 +330,9 @@
                 "support": ""
             }
         }, {
-            "10:00AM - 2:30PM": {
-                "title": "Outcomes",
-                "url": "",
+            "10:00AM - 12:30PM": {
+                "title": "Outcomes: Finding Your Voice and Defining Your Brand",
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03",
                 "lead": "",
                 "support": ""
             }
@@ -414,7 +422,7 @@
             }
         }, {
             "6:00PM": {
-                "title": "Due At 6: Draft Brand Statement",
+                "title": "Due At 6: Outcomes - Draft Brand Statement",
                 "color": "red",
                 "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md",
                 "lead": "",
@@ -430,8 +438,8 @@
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Outcomes",
-                "url": "",
+                "title": "Outcomes: The Winning Resume Package",
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04",
                 "lead": "",
                 "support": ""
             }
@@ -554,6 +562,13 @@
                 "lead": "",
                 "support": ""
             }
+        }, {
+            "6:00PM": {
+                "title": "Due at 6: Outcomes - Final Brand Statement and Draft Resume",
+                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md",
+                "lead": "",
+                "support": ""
+            }
         }]
     }, {
         "events": [{
@@ -641,7 +656,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Outcomes: Washington Post Tour",
-                "url": "",
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05",
                 "lead": "",
                 "support": ""
             }
@@ -701,7 +716,7 @@
             }
         }, {
             "06:00PM": {
-                "title": "Due At 6: Review And Research",
+                "title": "Due At 6: Outcomes - Review And Research",
                 "color": "red",
                 "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/ReviewandResearch.md",
                 "lead": "",
@@ -725,8 +740,8 @@
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Outcomes",
-                "url": "",
+                "title": "Outcomes: Defining Your Job Search Requirements",
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06",
                 "lead": "",
                 "support": ""
             }
@@ -837,8 +852,8 @@
           }
         }, {
           "10:00AM - 12:30PM": {
-              "title": "Outcomes",
-              "url": "",
+              "title": "Outcomes: Preparing for the Interview and Talking Money",
+              "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week07",
               "lead": "",
               "support": ""
           }
@@ -938,7 +953,7 @@
             }
         }, {
             "6:00PM": {
-                "title": "Due At 6: Outcomes - Final Resume & LinkedIn",
+                "title": "Due At 6: Outcomes - Final Resume and LinkedIn Profile",
                 "color": "red",
                 "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md",
                 "lead": "",
@@ -955,8 +970,8 @@
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Outcomes",
-                "url": "",
+                "title": "Outcomes: GA Profiles and Portfolios / Headshots",
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week08",
                 "lead": "",
                 "support": ""
             }
@@ -1051,7 +1066,7 @@
             "6:00PM": {
                 "title": "Due At 6: Outcomes - Final GA Profile",
                 "color": "red",
-                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md",
+                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week09/HWweek9.md",
                 "lead": "",
                 "support": ""
             }
@@ -1066,7 +1081,7 @@
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Outcomes: Catch Your Breath and Regroup",
+                "title": "Outcomes: GA Profile Reviews and Organization Tracker Check-In",
                 "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week09",
                 "lead": "",
                 "support": ""
@@ -1135,6 +1150,7 @@
         }]
     } ],
     [ {
+        "week": 10,
         "events": [{
             "9:00AM - 10:00PM": {
                 "title": "Code Challenge",
@@ -1174,7 +1190,8 @@
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Outcomes",
+                "title": "Outcomes: Hiring Panel",
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10",
                 "lead": "",
                 "support": ""
             }
@@ -1277,8 +1294,8 @@
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "Outcomes",
-                "url": "",
+                "title": "Outcomes: Cracking the Technical Interview",
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI",
                 "lead": "",
                 "support": ""
             }
@@ -1373,7 +1390,7 @@
             "6:00PM": {
                 "title": "Due At 6: Outcomes - Final Materials",
                 "color": "red",
-                "url": "https://github.com/ga-dc-outcomes/final-materials/blob/master/README.md"
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week12/WDI"
             }
         }]
     }, {
@@ -1386,8 +1403,8 @@
             }
         }, {
             "10:00AM - 12:30AM": {
-                "title": "Outcomes: Ask The Experts Panel",
-                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10",
+                "title": "Outcomes: Qualification Check-In",
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week12/WDI",
                 "lead": "",
                 "support": ""
             }
@@ -1438,12 +1455,11 @@
         }]
     }, {
         "events": [{
-            "9:00AM - 5:00PM": {
-                "title": "No Class"
-            }
-        }]
-    }, {
-        "events": [{
+          "12:00PM": {
+              "title": "Due at 12: Outcomes - Final Portfolios",
+              "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week13"
+          }
+        }, {
             "2:30PM - 4:30PM": {
                 "title": "Portfolio Reviews",
                 "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/week13"
@@ -1457,9 +1473,15 @@
         }]
     }, {
         "events": [{
+            "9:00AM - 5:00PM": {
+                "title": "No Class"
+            }
+        }]
+    }, {
+        "events": [{
             "10:00AM - 3:30PM": {
                 "title": "Outcomes Bootcamp",
-                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/Outcomes%20Bootcamp/readme.md"
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/Outcomes%20Bootcamp"
             }
         }]
     } ],
@@ -1480,7 +1502,7 @@
         "events": [{
             "4:00PM - 6:30PM": {
                 "title": "Student Spotlight",
-                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/Student%20Spotlight/readme.md"
+                "url": "https://github.com/ga-dc/outcomes/tree/master/roadmap/Student%20Spotlight"
             }
         }]
     }, {
