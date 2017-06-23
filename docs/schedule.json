@@ -13,7 +13,7 @@
         }, {
             "2:30PM - 5:00PM": {
                 "title": "CLI",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/cli-intro",
                 "lead": "Juan",
                 "support": "Andy"
             }
@@ -42,7 +42,7 @@
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Git 1",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/git-intro",
                 "lead": "Juan",
                 "support": "John"
             }
@@ -95,7 +95,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "CSS: Flexbox",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/css-flexbox",
                 "lead": "Juan",
                 "support": "John"
             }
