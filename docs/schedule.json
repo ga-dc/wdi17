@@ -15,7 +15,7 @@
                 "title": "CLI",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "Andy"
             }
         }, {
             "6:00PM - 8:00PM": {
@@ -44,7 +44,7 @@
                 "title": "Git 1",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "John"
             }
         }, {
             "6:00PM - 8:00PM": {
@@ -67,14 +67,14 @@
                 "title": "Git 2",
                 "url": "",
                 "lead": "Andy",
-                "support": ""
+                "support": "Juan"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "HTML & CSS",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Andy"
             }
         }, {
             "6:00PM - 8:00PM": {
@@ -97,13 +97,13 @@
                 "title": "CSS: Flexbox",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "John"
             }
         }, {
             "2:30PM - 04:30PM": {
                 "title": "Lab: Portfolio Pages",
                 "url": "https://github.com/ga-wdi-exercises/portfolio_pages",
-                "lead": "",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
@@ -151,14 +151,14 @@
                 "title": "JS: Data Types and Flow Control",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Juan"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "JS: Functions and Scope",
                 "url": "",
                 "lead": "Andy",
-                "support": ""
+                "support": "John"
             }
         }]
     } ],
@@ -202,14 +202,14 @@
                 "title": "JS: Higher-Order Functions",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Andy"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "JS: Objects and Context",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "John"
             }
         }]
     }, {
@@ -224,7 +224,7 @@
                 "title": "JS: Object-Oriented Programming",
                 "url": "",
                 "lead": "Andy",
-                "support": ""
+                "support": "Juan"
             }
         }, {
             "2:30PM - 5:00PM": {
@@ -254,14 +254,14 @@
                 "title": "JS: DOM and JQuery",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "Andy"
             }
         }, {
             "2:30 - 5:00PM": {
                 "title": "JS: Events",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Juan"
             }
         }]
     } ],
@@ -302,7 +302,7 @@
                 "title": "JS: Model / View Separation",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Andy"
             }
         }, {
             "05:00PM": {
@@ -411,14 +411,14 @@
                 "title": "Ruby: Data Types and Control Flow",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Juan"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Ruby: Enumerables",
                 "url": "",
                 "lead": "Andy",
-                "support": ""
+                "support": "John"
             }
         }, {
             "6:00PM": {
@@ -472,14 +472,14 @@
                 "title": "Ruby: Object-Oriented Programming 1",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Juan"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Ruby: Object-Oriented Programming 2",
                 "url": "",
                 "lead": "Andy",
-                "support": ""
+                "support": "John"
             }
         }]
     }, {
@@ -492,14 +492,14 @@
                 }, {
                     "Landlord": "https://github.com/ga-wdi-exercises/landlord_ruby_no_AR"
                 }],
-                "lead": "John",
+                "lead": "",
                 "support": ""
             }
         }, {
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
-                "lead": ""
+                "lead": "John"
             }
         }, {
             "10:00AM - 12:30PM": {
@@ -529,14 +529,14 @@
                 "title": "Domain Modeling and SQL",
                 "url": "https://git.generalassemb.ly/ga-wdi-lessons/sql-intro",
                 "lead": "Andy",
-                "support": ""
+                "support": "John"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Active Record",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "Andy"
             }
         }]
     } ],
@@ -553,14 +553,14 @@
                 "title": "Sinatra: MVC",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "Andy"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Sinatra: REST",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Juan"
             }
         }, {
             "6:00PM": {
@@ -596,7 +596,7 @@
                 "title": "Sinatra and ActiveRecord",
                 "url": "",
                 "lead": "Andy",
-                "support": ""
+                "support": "Juan"
             }
         }, {
             "2:30PM - 5:00PM": {
@@ -625,7 +625,7 @@
                 "title": "Rails: MVC",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "John"
             }
         }, {
             "5:00PM": {
@@ -665,7 +665,7 @@
                 "title": "Rails: Models and Migrations",
                 "url": "",
                 "lead": "Andy",
-                "support": ""
+                "support": "John"
             }
         }]
     }, {
@@ -681,14 +681,14 @@
                 "title": "Rails: Views and Controllers",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "Andy"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Rails: Routes and Resources",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Juan"
             }
         }]
     } ],
@@ -712,7 +712,7 @@
                 "title": "Rails: Sessions, Flash, Validations & Errors",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Juan"
             }
         }, {
             "06:00PM": {
@@ -750,7 +750,7 @@
                 "title": "Rails: Devise and CanCanCan",
                 "url": "",
                 "lead": "Andy",
-                "support": ""
+                "support": "John"
             }
         }]
     }, {
@@ -774,7 +774,7 @@
                 "title": "Rails: Many to Many",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "John"
             }
         }, {
             "2:30PM - 5:00PM": {
@@ -797,7 +797,7 @@
                 "title": "Guided Lab: Deployment",
                 "url": "https://git.generalassemb.ly/ga-wdi-lessons/rails-deployment",
                 "lead": "Juan",
-                "support": ""
+                "support": "Andy"
             }
         }, {
             "5:00PM": {
@@ -918,7 +918,7 @@
                 "title": "Angular: Intro",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Juan"
             }
         }, {
             "2:30PM - 5:00PM": {
@@ -942,14 +942,14 @@
                 "title": "Angular: UI Router",
                 "url": "",
                 "lead": "Andy",
-                "support": ""
+                "support": "John"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "APIs and AJAX",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "Andy"
             }
         }, {
             "6:00PM": {
@@ -980,7 +980,7 @@
                 "title": "Angular: Resources",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Andy"
             }
         }]
     }, {
@@ -1006,7 +1006,7 @@
                 "title": "Rails API",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "Andy"
             }
         }, {
             "2:30PM - 5:00PM": {
@@ -1029,7 +1029,7 @@
                 "title": "Git Workflows",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "John"
             }
         }, {
             "4:30PM - 5:00PM": {
@@ -1138,14 +1138,14 @@
                 "title": "Express",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "John"
             }
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "Mongoose",
                 "url": "",
                 "lead": "Andy",
-                "support": ""
+                "support": "Juan"
             }
         }]
     } ],
@@ -1163,14 +1163,14 @@
                 "title": "Express with Mongoose",
                 "url": "",
                 "lead": "Juan",
-                "support": ""
+                "support": "John"
             }
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "Testing in Express",
                 "url": "",
                 "lead": "Andy",
-                "support": ""
+                "support": "Juan"
             }
         }, {
             "6:00PM": {
@@ -1200,7 +1200,7 @@
                 "title": "Building a MEAN App",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Juan"
             }
         }]
     }, {
@@ -1247,7 +1247,7 @@
                 "title": "Websockets",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Andy"
             }
         }, {
             "2:30PM - 5:00PM": {
@@ -1270,7 +1270,7 @@
                 "title": "React: Components",
                 "url": "https://github.com/ga-wdi-lessons/react-intro",
                 "lead": "Juan",
-                "support": ""
+                "support": "Andy"
             }
         }]
     } ],
@@ -1304,7 +1304,7 @@
                 "title": "React: State and Data Flow",
                 "url": "https://github.com/ga-wdi-lessons/react-continued",
                 "lead": "Juan",
-                "support": ""
+                "support": "John"
             }
         }]
     }, {
@@ -1327,7 +1327,7 @@
                 "title": "React Router",
                 "url": "",
                 "lead": "Andy",
-                "support": ""
+                "support": "Juan"
             }
         }]
     }, {
@@ -1350,7 +1350,7 @@
                 "title": "React with Redux",
                 "url": "",
                 "lead": "John",
-                "support": ""
+                "support": "Andy"
             }
         }]
     }, {
