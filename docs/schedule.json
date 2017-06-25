@@ -107,17 +107,17 @@
                 "support": ""
             }
         }, {
-            "04:30PM": {
-                "title": "Due At 5: Lab",
-                "color": "red",
-                "url": "https://github.com/ga-wdi-exercises/portfolio_pages",
+            "4:30PM - 05:00PM": {
+                "title": "Squad Scrum",
+                "url": "",
                 "lead": "",
                 "support": ""
             }
         }, {
-            "4:30PM - 05:00PM": {
-                "title": "Squad Scrum",
-                "url": "",
+            "05:00PM": {
+                "title": "Due At 5: Lab",
+                "color": "red",
+                "url": "https://github.com/ga-wdi-exercises/portfolio_pages",
                 "lead": "",
                 "support": ""
             }
@@ -337,7 +337,14 @@
                 "support": ""
             }
         }, {
-            "2:30PM - 5:00PM": {
+            "2:30PM - 3:00PM": {
+                "title": "Squad Scrum / Project 1 Intro",
+                "url": "",
+                "lead": "",
+                "support": ""
+            }
+        }, {
+            "3:00PM - 5:00PM": {
                 "title": "Project 1",
                 "url": "https://github.com/ga-wdi-exercises/project1",
                 "lead": "",
@@ -515,6 +522,14 @@
                 "lead": "Andy",
                 "support": ""
             }
+        }, {
+            "05:00PM": {
+                "title": "Due At 5: Lab",
+                "color": "red",
+                "url": "https://github.com/ga-wdi-exercises/ruby-cli-lab",
+                "lead": "",
+                "support": ""
+            }
         }]
     }, {
         "events": [{
@@ -566,6 +581,7 @@
             "6:00PM": {
                 "title": "Due at 6: Outcomes - Final Brand Statement and Draft Resume",
                 "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md",
+                "color": "red",
                 "lead": "",
                 "support": ""
             }
@@ -755,14 +771,6 @@
         }]
     }, {
         "events": [{
-            "9:00AM": {
-                "title": "Homework Due",
-                "color": "red",
-                "url": [{
-                    "Scribble": "https://github.com/ga-wdi-exercises/scribble"
-                }]
-            }
-        }, {
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
@@ -810,6 +818,14 @@
         }]
     }, {
         "events": [{
+            "9:00AM": {
+                "title": "Homework Due",
+                "color": "red",
+                "url": [{
+                    "Scribble": "https://github.com/ga-wdi-exercises/scribble"
+                }]
+            }
+        }, {
             "9:00AM - 10:00AM": {
                 "title": "Agile",
                 "lead": "John",
@@ -878,7 +894,7 @@
         "events": [{
             "9:00AM - 12:30PM": {
                 "title": "Project 2",
-                "url": "",
+                "url": "https://github.com/ga-wdi-exercises/project2",
                 "lead": "Open Office Hours 10-12",
                 "support": ""
             }
@@ -925,6 +941,14 @@
                 "title": "Lab: Superheroes",
                 "url": "https://github.com/ga-wdi-exercises/angular-superheroes",
                 "lead": "Andy",
+                "support": ""
+            }
+        }, {
+            "5:00PM": {
+                "title": "Due At 5: Lab",
+                "color": "red",
+                "url": "https://github.com/ga-wdi-exercises/angular-superheroes",
+                "lead": "",
                 "support": ""
             }
         }]
@@ -985,16 +1009,6 @@
         }]
     }, {
         "events": [{
-            "9:00AM": {
-                "title": "Homework Due",
-                "color": "red",
-                "url": [{
-                    "Movie Browser": "https://github.com/ga-wdi-exercises/movie-browser"
-                }, {
-                    "WDInstagram": "https://github.com/ga-wdi-exercises/wdinstagram_angular"
-                }]
-            }
-        }, {
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
@@ -1035,9 +1049,27 @@
             "4:30PM - 5:00PM": {
                 "title": "Squad Scrum"
             }
+        }, {
+            "5:00PM": {
+                "title": "Due At 5: Lab",
+                "color": "red",
+                "url": "https://github.com/ga-wdi-exercises/wdi_radio_lab",
+                "lead": "",
+                "support": ""
+            }
         }]
     }, {
         "events": [{
+            "9:00AM": {
+                "title": "Homework Due",
+                "color": "red",
+                "url": [{
+                    "Movie Browser": "https://github.com/ga-wdi-exercises/movie-browser"
+                }, {
+                    "WDInstagram": "https://github.com/ga-wdi-exercises/wdinstagram_angular"
+                }]
+            }
+        }, {
             "9:00AM - 10:00AM": {
                 "title": "Project 3 Intro",
                 "url": "",
@@ -1252,7 +1284,7 @@
         }, {
             "2:30PM - 5:00PM": {
               "title": "Teach Yourself",
-              "url": "",
+              "url": "https://github.com/ga-wdi-exercises/sweet-libs",
               "lead": "Juan",
               "support": ""
             }
@@ -1261,16 +1293,24 @@
         "events": [{
             "9:00AM - 12:30PM": {
                 "title": "Teach Yourself",
-                "url": "",
+                "url": "https://github.com/ga-wdi-exercises/sweet-libs",
                 "lead": "Juan",
                 "support": ""
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "React: Components",
-                "url": "https://github.com/ga-wdi-lessons/react-intro",
+                "url": "",
                 "lead": "Juan",
                 "support": "Andy"
+            }
+        }, {
+            "5:00PM": {
+                "title": "Due At 5: Teach Yourself",
+                "color": "red",
+                "lead": "",
+                "url": "https://github.com/ga-wdi-exercises/sweet-libs",
+                "support": ""
             }
         }]
     } ],
@@ -1302,7 +1342,7 @@
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "React: State and Data Flow",
-                "url": "https://github.com/ga-wdi-lessons/react-continued",
+                "url": "",
                 "lead": "Juan",
                 "support": "John"
             }
@@ -1318,7 +1358,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Lab: React Components",
-                "url": "",
+                "url": "https://github.com/ga-wdi-exercises/component-extravaganza",
                 "lead": "Juan",
                 "support": ""
             }
@@ -1328,6 +1368,14 @@
                 "url": "",
                 "lead": "Andy",
                 "support": "Juan"
+            }
+        }, {
+            "5:00PM": {
+                "title": "Due At 5: Lab",
+                "color": "red",
+                "lead": "",
+                "url": "https://github.com/ga-wdi-exercises/component-extravaganza",
+                "support": ""
             }
         }]
     }, {
@@ -1341,7 +1389,7 @@
         }, {
             "10:00AM - 12:30AM": {
                 "title": "Lab: React Router",
-                "url": "",
+                "url": "https://github.com/ga-wdi-exercises/react-router-lab",
                 "lead": "Andy",
                 "support": ""
             }
@@ -1351,6 +1399,14 @@
                 "url": "",
                 "lead": "John",
                 "support": "Andy"
+            }
+        }, {
+            "5:00PM": {
+                "title": "Due At 5: Lab",
+                "color": "red",
+                "lead": "",
+                "url": "https://github.com/ga-wdi-exercises/react-router-lab",
+                "support": ""
             }
         }]
     }, {
@@ -1364,7 +1420,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Lab: Redux",
-                "url": "",
+                "url": "https://github.com/ga-wdi-exercises/react-redux-shopping-cart",
                 "lead": "John",
                 "support": ""
             }
@@ -1373,6 +1429,14 @@
                 "title": "Project 4 Intro",
                 "url": "",
                 "lead": "",
+                "support": ""
+            }
+        }, {
+            "5:00PM": {
+                "title": "Due At 5: Lab",
+                "color": "red",
+                "lead": "",
+                "url": "https://github.com/ga-wdi-exercises/react-redux-shopping-cart",
                 "support": ""
             }
         }]
