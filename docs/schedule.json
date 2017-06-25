@@ -6,7 +6,7 @@
         "events": [{
             "9:00AM - 12:30PM": {
                 "title": "Intro to WDI",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/wdi-intro",
                 "lead": "",
                 "support": ""
             }
