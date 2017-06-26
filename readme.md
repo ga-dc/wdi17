@@ -6,15 +6,14 @@
 - [Calendar](https://ga-dc.github.io/wdi17/)
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
-- [One-on-Ones](one-on-ones.md)
 - [Squads](squads.md)
 - [Office Hours](office-hours.md)
 - [Outcomes](https://github.com/ga-dc/outcomes)
 
 ## Curriculum
 
-- [All WDI Exercises](http://repotagger.github.io?name=ga-wdi-exercises)
-- [All WDI Lessons](http://repotagger.github.io?name=ga-wdi-lessons)
+- [All WDI Exercises](https://github.com/ga-wdi-exercises/)
+- [All WDI Lessons](https://git.generalassemb.ly/ga-wdi-lessons)
 - [Installfest](https://github.com/ga-dc/installfest)
 - [Outcomes](https://github.com/ga-dc-outcomes)
 

@@ -1,6 +1,7 @@
 # Graduation Requirements
 
 ## You Must...
+- Complete every checkpoint with at least a 60% score (you may retake a checkpoint only once)
 - Complete at least 80% of your homework over the whole course
 - Complete and present each of WDI's four projects
 - Be absent no more than 2 days over the whole course
