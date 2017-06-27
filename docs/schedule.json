@@ -65,7 +65,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Git 2",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/git-branching",
                 "lead": "Andy",
                 "support": "Juan"
             }
