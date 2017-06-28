@@ -87,7 +87,7 @@
     }, {
         "events": [{
             "9:00AM - 10:00AM": {
-                "title": "Markdown",
+                "title": "Code Challenge",
                 "url": "",
                 "lead": "Andy",
                 "support": ""
@@ -408,7 +408,7 @@
         "week": 4,
         "events": [{
             "9:00AM - 10:00AM": {
-                "title": "Code Challenge",
+                "title": "Markdown",
                 "url": "",
                 "lead": "Andy",
                 "support": ""
