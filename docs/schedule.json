@@ -100,17 +100,17 @@
                 "support": "John"
             }
         }, {
-            "2:30PM - 04:30PM": {
-                "title": "Lab: Portfolio Pages",
-                "url": "https://github.com/ga-wdi-exercises/portfolio_pages",
-                "lead": "Andy",
+            "2:00PM - 02:30PM": {
+                "title": "Squad Scrum",
+                "url": "https://github.com/ga-dc/wdi17/blob/master/squads.md",
+                "lead": "",
                 "support": ""
             }
         }, {
-            "4:30PM - 05:00PM": {
-                "title": "Squad Scrum",
-                "url": "",
-                "lead": "",
+            "2:30PM - 05:00PM": {
+                "title": "Lab: Portfolio Pages",
+                "url": "https://github.com/ga-wdi-exercises/portfolio_pages",
+                "lead": "Andy",
                 "support": ""
             }
         }, {
