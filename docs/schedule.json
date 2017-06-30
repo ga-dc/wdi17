@@ -142,14 +142,14 @@
         }, {
             "9:00AM - 10:00AM": {
                 "title": "History of JavaScript",
-                "url": "",
+                "url": "https://github.com/ga-wdi-lessons/js-history",
                 "lead": "John",
                 "support": ""
             }
         }, {
             "10:00AM - 12:30PM": {
-                "title": "JS: Data Types and Flow Control",
-                "url": "",
+                "title": "JS: Data Types and Control Flow",
+                "url": "https://github.com/ga-wdi-lessons/js-data-types-and-conditionals",
                 "lead": "John",
                 "support": "Juan"
             }
