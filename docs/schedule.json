@@ -200,7 +200,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "JS: Higher-Order Functions",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/functional-programming",
                 "lead": "John",
                 "support": "Andy"
             }
@@ -222,7 +222,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "JS: Object-Oriented Programming",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/js-oojs-classes",
                 "lead": "Andy",
                 "support": "Juan"
             }
@@ -252,14 +252,14 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "JS: DOM and JQuery",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/jquery-dom",
                 "lead": "Juan",
                 "support": "Andy"
             }
         }, {
             "2:30 - 5:00PM": {
                 "title": "JS: Events",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/jquery-dom",
                 "lead": "John",
                 "support": "Juan"
             }
