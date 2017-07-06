@@ -313,10 +313,10 @@
                 "support": ""
             }
         }, {
-            "06:00PM": {
-                "title": "Due At 6: Outcomes - What’s My Brand Worksheet",
+            "6:00PM": {
+                "title": "Due At 6: Outcomes - Draft Brand Statement",
                 "color": "red",
-                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md",
+                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md",
                 "lead": "",
                 "support": ""
             }
@@ -428,10 +428,10 @@
                 "support": "John"
             }
         }, {
-            "6:00PM": {
-                "title": "Due At 6: Outcomes - Draft Brand Statement",
+            "06:00PM": {
+                "title": "Due At 6: Outcomes - What’s My Brand Worksheet",
                 "color": "red",
-                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md",
+                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md",
                 "lead": "",
                 "support": ""
             }
