@@ -259,7 +259,7 @@
         }, {
             "2:30 - 5:00PM": {
                 "title": "JS: Events",
-                "url": "https://git.generalassemb.ly/ga-wdi-lessons/jquery-dom",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/js-events-callbacks",
                 "lead": "John",
                 "support": "Juan"
             }
