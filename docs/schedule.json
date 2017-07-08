@@ -314,9 +314,9 @@
             }
         }, {
             "6:00PM": {
-                "title": "Due At 6: Outcomes - Draft Brand Statement",
+                "title": "Due At 6: Outcomes - What's My Brand Worksheet",
                 "color": "red",
-                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md",
+                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md",
                 "lead": "",
                 "support": ""
             }
@@ -429,9 +429,9 @@
             }
         }, {
             "06:00PM": {
-                "title": "Due At 6: Outcomes - What’s My Brand Worksheet",
+                "title": "Due At 6: Outcomes - Draft Resume",
                 "color": "red",
-                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md",
+                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md",
                 "lead": "",
                 "support": ""
             }
@@ -579,8 +579,8 @@
             }
         }, {
             "6:00PM": {
-                "title": "Due at 6: Outcomes - Final Brand Statement and Draft Resume",
-                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md",
+                "title": "Due at 6: Outcomes - Draft Brand Statement",
+                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week05/HWweek5.md",
                 "color": "red",
                 "lead": "",
                 "support": ""
@@ -732,9 +732,9 @@
             }
         }, {
             "06:00PM": {
-                "title": "Due At 6: Outcomes - Review And Research",
+                "title": "Due At 6: Outcomes - Final Brand Statement",
                 "color": "red",
-                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/ReviewandResearch.md",
+                "url": "https://github.com/ga-dc/outcomes/blob/master/roadmap/week06/HWweek6.md",
                 "lead": "",
                 "support": ""
             }
