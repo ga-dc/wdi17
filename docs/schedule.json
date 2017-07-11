@@ -347,8 +347,8 @@
             "3:00PM - 5:00PM": {
                 "title": "Project 1",
                 "url": "https://github.com/ga-wdi-exercises/project1",
-                "lead": "",
-                "support": ""
+                "lead": "Open Office Hours 3-5",
+                "support": "Juan"
             }
         }]
     }, {
@@ -357,14 +357,14 @@
                 "title": "Project 1",
                 "url": "https://github.com/ga-wdi-exercises/project1",
                 "lead": "Open Office Hours 10-12",
-                "support": ""
+                "support": "John"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Project 1",
                 "url": "https://github.com/ga-wdi-exercises/project1",
                 "lead": "Open Office Hours 2-4",
-                "support": ""
+                "support": "Andy"
             }
         }]
     }, {
@@ -373,14 +373,14 @@
                 "title": "Project 1",
                 "url": "https://github.com/ga-wdi-exercises/project1",
                 "lead": "Open Office Hours 10-12",
-                "support": ""
+                "support": "Juan"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Project 1",
                 "url": "https://github.com/ga-wdi-exercises/project1",
                 "lead": "Open Office Hours 2-4",
-                "support": ""
+                "support": "Andy"
             }
         }]
     }, {
@@ -389,7 +389,7 @@
                 "title": "Project 1",
                 "url": "https://github.com/ga-wdi-exercises/project1",
                 "lead": "Open Office Hours 10-12",
-                "support": ""
+                "support": "John"
             }
         }, {
             "2:30PM - 4:30PM": {
