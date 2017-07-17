@@ -420,7 +420,7 @@
           {
             "9:00AM - 10:00AM": {
                 "title": "Markdown",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown",
                 "lead": "Andy",
                 "support": ""
             }
@@ -429,12 +429,12 @@
                 "title": "Ruby: Data Types and Control Flow",
                 "url": "https://git.generalassemb.ly/ga-wdi-lessons/ruby-intro",
                 "lead": "John",
-                "support": "Juan"
+                "support": "Andy"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Ruby: Enumerables",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/ruby-iteration-and-enumerables",
                 "lead": "Andy",
                 "support": "John"
             }
@@ -490,7 +490,7 @@
                 "title": "Ruby: Object-Oriented Programming 1",
                 "url": "",
                 "lead": "John",
-                "support": "Juan"
+                "support": "Andy"
             }
         }, {
             "2:30PM - 5:00PM": {
