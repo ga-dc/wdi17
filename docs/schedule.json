@@ -427,7 +427,7 @@
         }, {
             "10:00AM - 12:30AM": {
                 "title": "Ruby: Data Types and Control Flow",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/ruby-intro",
                 "lead": "John",
                 "support": "Juan"
             }
