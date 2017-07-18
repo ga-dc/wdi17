@@ -488,14 +488,14 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Ruby: Object-Oriented Programming 1",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/ruby-oop",
                 "lead": "John",
                 "support": "Andy"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Ruby: Object-Oriented Programming 2",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/ruby-oop-inheritance",
                 "lead": "Andy",
                 "support": "John"
             }
@@ -560,7 +560,7 @@
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Active Record",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/activerecord-intro",
                 "lead": "Juan",
                 "support": "Andy"
             }
@@ -577,14 +577,14 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Sinatra: MVC",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/sinatra-rest",
                 "lead": "Juan",
                 "support": "Andy"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Sinatra: REST",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/sinatra-rest",
                 "lead": "John",
                 "support": "Juan"
             }
@@ -621,7 +621,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Sinatra and ActiveRecord",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/sinatra-and-activerecord",
                 "lead": "Andy",
                 "support": "Juan"
             }
@@ -650,7 +650,7 @@
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Rails: MVC",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/http-mvc-intro-rails",
                 "lead": "Juan",
                 "support": "John"
             }
@@ -690,7 +690,7 @@
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Rails: Models and Migrations",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/rails-activerecord",
                 "lead": "Andy",
                 "support": "John"
             }
@@ -706,14 +706,14 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Rails: Views and Controllers",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/rails-views",
                 "lead": "Juan",
                 "support": "Andy"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Rails: Routes and Resources",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/rails-routing",
                 "lead": "John",
                 "support": "Juan"
             }
@@ -737,7 +737,7 @@
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Rails: Sessions, Flash, Validations & Errors",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/rails-sessions-flash-validations-errors",
                 "lead": "John",
                 "support": "Juan"
             }
@@ -775,7 +775,7 @@
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Rails: Devise and CanCanCan",
-                "url": "",
+                "url": "https://github.com/ga-wdi-lessons/devise",
                 "lead": "Andy",
                 "support": "John"
             }
@@ -791,7 +791,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Rails: Many to Many",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/rails-many-to-many",
                 "lead": "Juan",
                 "support": "John"
             }
@@ -943,7 +943,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Angular: Intro",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/angular-intro",
                 "lead": "John",
                 "support": "Juan"
             }
@@ -975,14 +975,14 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Angular: UI Router",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/angular-routing",
                 "lead": "Andy",
                 "support": "John"
             }
         }, {
             "2:30PM - 5:00PM": {
                 "title": "APIs and AJAX",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/js-ajax",
                 "lead": "Juan",
                 "support": "Andy"
             }
@@ -1013,7 +1013,7 @@
         }, {
             "2:30AM - 5:00PM": {
                 "title": "Angular: Resources",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/angular-resources",
                 "lead": "John",
                 "support": "Andy"
             }
@@ -1029,7 +1029,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Rails API",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/rails-api",
                 "lead": "Juan",
                 "support": "Andy"
             }
@@ -1052,7 +1052,7 @@
         }, {
             "2:30PM - 4:30PM": {
                 "title": "Git Workflows",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/git-teams",
                 "lead": "Juan",
                 "support": "John"
             }
@@ -1179,14 +1179,14 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Express",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/express-intro",
                 "lead": "Juan",
                 "support": "John"
             }
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "Mongoose",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/mongoose-intro",
                 "lead": "Andy",
                 "support": "Juan"
             }
@@ -1204,7 +1204,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Express with Mongoose",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/express-mongoose",
                 "lead": "Juan",
                 "support": "John"
             }
@@ -1241,7 +1241,7 @@
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Building a MEAN App",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/building-a-mean-app",
                 "lead": "John",
                 "support": "Juan"
             }
@@ -1288,7 +1288,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Websockets",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/websockets-node",
                 "lead": "John",
                 "support": "Andy"
             }
@@ -1311,7 +1311,7 @@
         }, {
             "2:30PM - 5:00PM": {
                 "title": "React: Components",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/react-intro",
                 "lead": "Juan",
                 "support": "Andy"
             }
@@ -1353,7 +1353,7 @@
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "React: State and Data Flow",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/react-continued",
                 "lead": "Juan",
                 "support": "John"
             }
@@ -1376,7 +1376,7 @@
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "React Router",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/react-router",
                 "lead": "Andy",
                 "support": "Juan"
             }
@@ -1407,7 +1407,7 @@
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "React with Redux",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/react-redux",
                 "lead": "John",
                 "support": "Andy"
             }
