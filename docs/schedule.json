@@ -605,8 +605,6 @@
                 "url": [{
                     "NBA Stats": "https://github.com/ga-wdi-exercises/nba_stats"
                 }, {
-                    "Landlord (AR)": "https://github.com/ga-wdi-exercises/landlord"
-                }, {
                     "Simetro": "https://github.com/ga-wdi-exercises/simetro"
                 }],
                 "lead": "",
@@ -669,6 +667,8 @@
                 "title": "Due At 9: Homework",
                 "color": "red",
                 "url": [{
+                    "Landlord (AR)": "https://github.com/ga-wdi-exercises/landlord"
+                }, {
                     "Getting Started w/ Rails, Chapters 1-5": "https://github.com/ga-wdi-exercises/rails_getting_started"
                 }],
                 "lead": "",
