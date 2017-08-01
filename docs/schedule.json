@@ -774,7 +774,7 @@
             }
         }, {
             "2:30PM - 5:00PM": {
-                "title": "Rails: Devise and CanCanCan",
+                "title": "Rails: Devise",
                 "url": "https://github.com/ga-wdi-lessons/devise",
                 "lead": "Andy",
                 "support": "John"
