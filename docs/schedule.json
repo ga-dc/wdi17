@@ -840,7 +840,8 @@
             "9:00AM - 10:00AM": {
                 "title": "Agile",
                 "lead": "John",
-                "support": ""
+                "support": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/agile"
             }
         }, {
             "10:00AM - 5:00PM": {
