@@ -812,11 +812,18 @@
                 "support": ""
             }
         }, {
-            "02:30PM - 5:00PM": {
+            "02:30PM - 4:30PM": {
                 "title": "Guided Lab: Deployment",
                 "url": "https://git.generalassemb.ly/ga-wdi-lessons/rails-deployment",
                 "lead": "Juan",
                 "support": "Andy"
+            }
+        }, {
+            "04:30PM - 5:00PM": {
+                "title": "Squad Scrums",
+                "url": "",
+                "lead": "",
+                "support": ""
             }
         }, {
             "5:00PM": {
