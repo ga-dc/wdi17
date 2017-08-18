@@ -1098,7 +1098,7 @@
         }, {
             "10:00AM - 5:00PM": {
                 "title": "Project 3",
-                "url": "",
+                "url": "https://github.com/ga-wdi-exercises/project3",
                 "lead": "",
                 "support": ""
             }
@@ -1109,7 +1109,7 @@
         "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project 3",
-                "url": "",
+                "url": "https://github.com/ga-wdi-exercises/project3",
                 "lead": "",
                 "support": ""
             }
@@ -1140,7 +1140,7 @@
         }, {
             "2:30PM - 5:00PM": {
                 "title": "Project 3",
-                "url": "",
+                "url": "https://github.com/ga-wdi-exercises/project3",
                 "lead": "",
                 "support": ""
             }
@@ -1149,7 +1149,7 @@
         "events": [{
             "9:00AM - 5:00PM": {
                 "title": "Project 3",
-                "url": "",
+                "url": "https://github.com/ga-wdi-exercises/project3",
                 "lead": "",
                 "support": ""
             }
@@ -1158,14 +1158,14 @@
         "events": [{
             "9:00AM - 12:30PM": {
                 "title": "Project 3",
-                "url": "",
+                "url": "https://github.com/ga-wdi-exercises/project3",
                 "lead": "",
                 "support": ""
             }
         }, {
             "2:30PM - 4:30PM": {
                 "title": "Project 3 Presentations",
-                "url": "",
+                "url": "https://github.com/ga-wdi-exercises/project3/blob/master/presentations.md",
                 "lead": "",
                 "support": ""
             }
