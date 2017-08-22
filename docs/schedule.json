@@ -1188,15 +1188,15 @@
             "10:00AM - 12:30PM": {
                 "title": "Express",
                 "url": "https://git.generalassemb.ly/ga-wdi-lessons/express-intro",
-                "lead": "Juan",
-                "support": "John"
+                "lead": "John",
+                "support": "Andy"
             }
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "Mongoose",
                 "url": "https://git.generalassemb.ly/ga-wdi-lessons/mongoose-intro",
                 "lead": "Andy",
-                "support": "Juan"
+                "support": "John"
             }
         }]
     } ],
@@ -1297,14 +1297,14 @@
             "10:00AM - 12:30PM": {
                 "title": "Websockets",
                 "url": "https://git.generalassemb.ly/ga-wdi-lessons/websockets-node",
-                "lead": "John",
+                "lead": "Juan",
                 "support": "Andy"
             }
         }, {
             "2:30PM - 5:00PM": {
               "title": "Teach Yourself",
               "url": "https://github.com/ga-wdi-exercises/sweet-libs",
-              "lead": "Juan",
+              "lead": "",
               "support": ""
             }
         }]
@@ -1313,7 +1313,7 @@
             "9:00AM - 12:30PM": {
                 "title": "Teach Yourself",
                 "url": "https://github.com/ga-wdi-exercises/sweet-libs",
-                "lead": "Juan",
+                "lead": "",
                 "support": ""
             }
         }, {
