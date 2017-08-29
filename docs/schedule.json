@@ -1228,7 +1228,7 @@
         }, {
             "2:30PM - 5:00 PM": {
                 "title": "Testing in Express",
-                "url": "",
+                "url": "https://git.generalassemb.ly/ga-wdi-lessons/mocha-chai-supertest",
                 "lead": "Andy",
                 "support": "Juan"
             }
