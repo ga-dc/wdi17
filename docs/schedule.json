@@ -1319,9 +1319,16 @@
         }]
     }, {
         "events": [{
-            "9:00AM - 12:30PM": {
+            "9:00AM - 12:00PM": {
                 "title": "Teach Yourself",
                 "url": "https://github.com/ga-wdi-exercises/sweet-libs",
+                "lead": "",
+                "support": ""
+            }
+        }, {
+            "12:00PM - 12:30PM": {
+                "title": "Squad Scrums",
+                "url": "",
                 "lead": "",
                 "support": ""
             }
