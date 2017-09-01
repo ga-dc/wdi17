@@ -4,10 +4,10 @@ Below are the details for the positions - please reach out to John, Juan, Andy, 
 
 # WDI @ GA
 
-We want you! We're looking for our Web Developer in Residence for the next upcoming WDI cohort. This is a chance for you to gain some valuable experience as part of the WDI instructional team.
+We're looking for a Web Developer in Residence for the next upcoming WDI cohort. This is a chance for you to gain some valuable experience as part of the WDI instructional team.
 #### *Please note: Training for this position would begin no later than the week of September 25th*
 
-WDI19 will begin June 19th and will end Sept 9th.
+WDI19 will begin October 10th and will end January 12th.
 
 ## Why teach the WDI?
 
@@ -18,7 +18,7 @@ If you are looking to make a life-changing impact by sharing your love for web d
 - Inspire and support students as they identify their passions and drive their own continued learning beyond the curriculum.
 - Adapt our global curriculum and use it to guide your teaching, building your own lesson plans as needed and contributing back your lessons learned over time.
 - Facilitate a safe, supportive, and energetic community that welcomes the various needs and learning styles of your students.
-- Shore up your own knowledge of the development in the process!
+- Become more masterful in your development skills in the process!
 
 As a DIR, you will be responsible for teaching, planning, mentoring, grading, and collaborating with other teams at General Assembly. (It is literally your job to continue your own education through sharing your knowledge with future students.)
 
@@ -26,7 +26,7 @@ As a DIR, you will be responsible for teaching, planning, mentoring, grading, an
 
 ## DIR Application Process
 
-The DIR application process consists of three steps: a statement of interest, a technical challenge, and a sample teach. Each step is contingent upon the prior.
+The DIR application process consists of three steps: a statement of interest, a technical challenge, and a sample teach. Each step is contingent upon completion of the prior.
 
 A timeline of the steps is available below.
 
@@ -40,11 +40,11 @@ A timeline of the steps is available below.
 
 ### Statement of Interest
 
-A statement of interest indicates why a candidate wants to be a DIR for WDI19. This need not be longer than a paragraph and should be sent to Lauren via Slack before the stated deadline above.
+A statement of interest indicates why a candidate wants to be a DIR for WDI19. This need not be longer than a paragraph and should be sent to Lauren ( @lauren ) via Slack before the stated deadline above.
 
 ### Technical Challenge
 
-Once your statement of interest is received, Lauren will send out the technical challenge. The technical challenge is conduct online through our GA credential platform and is time-blocked for a maximum of 4 hours **(Note,this must be completed in one sitting)**
+Once your statement of interest is received, Lauren will send out the technical challenge. The technical challenge is conducted online through our GA credential platform and is time-blocked for a maximum of 4 hours **(Note,this must be completed in one sitting)**
 
 ### Sample Teach
 
