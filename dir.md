@@ -34,7 +34,7 @@ A timeline of the steps is available below.
 | -----------------	| ----------------------------------------------------------|
 | 9/1/2017      	| DIR Announced											|
 | 9/3/2017, 9AM 	| Statement of Interest Due									|
-| 9/6/2017, 9AM	  | Technical Challenge Due					|
+| 9/8/2017, 9AM	  | Technical Challenge Due					|
 | 9/11-12/2017  	| Sample Teaches											|
 | Week of 9/15/2017	| DIR Selection											|
 
