@@ -1415,6 +1415,16 @@
         }]
     }, {
         "events": [{
+            "9:00AM": {
+                "title": "Homework Due",
+                "color": "red",
+                "url": [{
+                    "Getting Started with Redux": "https://git.generalassemb.ly/ga-wdi-exercises/getting-started-with-redux"
+                }],
+                "lead": "",
+                "support": ""
+            }
+          }, {
             "9:00AM - 10:00AM": {
                 "title": "Code Challenge",
                 "url": "",
@@ -1433,7 +1443,7 @@
                 "title": "React with Redux",
                 "url": "https://git.generalassemb.ly/ga-wdi-lessons/react-redux",
                 "lead": "John",
-                "support": "Andy"
+                "support": "Juan"
             }
         }, {
             "5:00PM": {
