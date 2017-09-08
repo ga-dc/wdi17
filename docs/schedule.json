@@ -1470,11 +1470,18 @@
                 "support": ""
             }
         }, {
-            "2:30PM - 5:00PM": {
+            "2:30PM - 4:30PM": {
                 "title": "Building a MERN App",
                 "url": "",
                 "lead": "Andy",
                 "support": "John"
+            }
+        }, {
+            "4:30PM - 5:00PM": {
+                "title": "Squad Scrums / Project 4 Intro",
+                "url": "",
+                "lead": "",
+                "support": ""
             }
         }, {
             "5:00PM": {
