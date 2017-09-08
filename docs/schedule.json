@@ -1465,7 +1465,7 @@
         }, {
             "10:00AM - 12:30PM": {
                 "title": "Lab: Redux",
-                "url": "https://git.generalassemb.ly/ga-wdi-exercises/redux-todos-features-lab",
+                "url": "https://github.com/ga-wdi-exercises/redux-todos-features-lab",
                 "lead": "John",
                 "support": ""
             }
