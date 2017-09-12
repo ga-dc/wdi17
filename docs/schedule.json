@@ -1534,7 +1534,21 @@
         }]
     }, {
         "events": [{
-            "9:00AM - 5:00PM": {
+            "9:00AM - 12:30PM": {
+                "title": "Project 4",
+                "url": "https://github.com/ga-wdi-exercises/project4",
+                "lead": "",
+                "support": ""
+            }
+        }, {
+            "1:30PM - 2:00PM": {
+                "title": "Squad Scrums",
+                "url": "",
+                "lead": "",
+                "support": ""
+            }
+        }, {
+            "2:00PM - 5:00PM": {
                 "title": "Project 4",
                 "url": "https://github.com/ga-wdi-exercises/project4",
                 "lead": "",
